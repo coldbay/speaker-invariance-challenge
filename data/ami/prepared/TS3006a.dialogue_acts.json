@@ -1,0 +1,6552 @@
+[
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.2",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 35.7,
+    "end": 35.94,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm uh ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.2",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 42.15,
+    "end": 44.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We're the first ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.3",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 43.14,
+    "end": 46.62,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm . We're the first ones ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.3",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 47.66,
+    "end": 49.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Marketing Expert , yes ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.1",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 51.73,
+    "end": 52.1,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.2",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 64.32,
+    "end": 65.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So you found your spots ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.5",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 65.92,
+    "end": 66.54,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.4",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 74.69,
+    "end": 77.83,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Move to the meeting room ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.6",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 74.79,
+    "end": 76.2,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Bling bling ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.7",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 76.2,
+    "end": 77.47,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.5",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 77.83,
+    "end": 78.28,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.8",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 81.76,
+    "end": 83.17,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Right ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.3",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 83.16,
+    "end": 83.75,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.9",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 85.14,
+    "end": 89.23,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Uh where has my screen gone ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.1",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 89.63,
+    "end": 89.99,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Hi ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.6",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 91.63,
+    "end": 96.81,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Hello , good day ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.2",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 93.86,
+    "end": 94.84,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh yeah ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.11",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 94.67,
+    "end": 95.0,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Hmm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.3",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 94.84,
+    "end": 95.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we have to talk in English ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.4",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 95.91,
+    "end": 96.1,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "huh ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.7",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 96.81,
+    "end": 96.94,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.12",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 96.95,
+    "end": 98.27,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.13",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 98.27,
+    "end": 101.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "My screen is gone ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.14",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 101.35,
+    "end": 102.05,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.4",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 101.48,
+    "end": 103.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's called black ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.8",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 104.39,
+    "end": 105.73,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Kick-off meeting , wow ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.5",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 106.91,
+    "end": 109.03,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I'm afraid I'm a bit slow for this stuff uh ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.9",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 106.94,
+    "end": 108.18,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "It's uh looks uh nice ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.10",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 110.99,
+    "end": 111.12,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Hmm ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.6",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 111.26,
+    "end": 111.61,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.6",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 111.63,
+    "end": 113.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm afraid I'm a bit too slow ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.7",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 113.33,
+    "end": 115.28,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I don't know how much preparation you guys did ,"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.12",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 114.96,
+    "end": 115.29,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.8",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 115.28,
+    "end": 116.13,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but not a lot ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.16",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 115.57,
+    "end": 116.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.11",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 116.38,
+    "end": 118.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No , it's it was uh not enough ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.7",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 117.99,
+    "end": 121.23,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "You see this beautiful presentation ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.17",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 120.06,
+    "end": 121.73,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . Very nice ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.8",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 121.23,
+    "end": 122.25,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.9",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 122.25,
+    "end": 123.18,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "let's get started ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.18",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 123.28,
+    "end": 123.55,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.10",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 125.0,
+    "end": 128.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh I sort of prepared this ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.11",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 128.39,
+    "end": 141.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh opening acquaintance , tool training , uh how to use the things here . Uh project plan discussion , and yeah then the rest of the meeting ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.19",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 134.58,
+    "end": 134.99,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.9",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 140.79,
+    "end": 141.09,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.12",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 141.6,
+    "end": 144.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um we're supposed to develop a new remote control ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.13",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 144.72,
+    "end": 147.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that's both original , trendy and user-friendly ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.14",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 149.14,
+    "end": 150.62,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.15",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 150.62,
+    "end": 151.87,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "hope you have good ideas ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.16",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 151.87,
+    "end": 153.89,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "I don't ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.14",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 152.08,
+    "end": 154.61,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "I did my best ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.17",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 153.89,
+    "end": 160.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um we're work we're working uh from top to bottom . Uh functional design ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.10",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 155.12,
+    "end": 155.44,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Not yet ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.18",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 160.39,
+    "end": 161.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "then we do some in individual work ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.19",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 161.96,
+    "end": 165.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "then we have a meeting to discuss the results , etcetera etcetera ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.20",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 166.73,
+    "end": 170.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And at the end of the day we should have a prototype drawn up ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.21",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 172.13,
+    "end": 177.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh we have available the smart board and the whiteboard . Um"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.22",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 178.53,
+    "end": 181.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "uh we should take some practice ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.23",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 181.11,
+    "end": 184.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I have some instructions now to do that ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.21",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 183.09,
+    "end": 183.35,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.24",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 184.55,
+    "end": 185.3,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh well"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.25",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 185.3,
+    "end": 187.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you know how to the documents work ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.26",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 187.36,
+    "end": 187.95,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.27",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 189.43,
+    "end": 193.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh this for toolbar . You see it next . Um"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.28",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 195.3,
+    "end": 197.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we have a pen ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.29",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 197.65,
+    "end": 202.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And we can use this pen to perform ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.11",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 202.73,
+    "end": 203.53,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Operations ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.30",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 202.87,
+    "end": 204.34,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.31",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 204.34,
+    "end": 204.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.32",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 209.52,
+    "end": 211.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It doesn't always work ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.34",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 212.68,
+    "end": 213.85,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.23",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 212.77,
+    "end": 213.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.33",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 213.85,
+    "end": 214.31,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay so"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.35",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 214.31,
+    "end": 217.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you can draw ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.24",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 217.4,
+    "end": 218.74,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Draw . Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.36",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 218.21,
+    "end": 218.66,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.37",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 218.66,
+    "end": 224.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and in the format menu you can select colour and line width , etcetera etcetera ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.25",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 223.84,
+    "end": 224.11,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "'Kay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.38",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 224.31,
+    "end": 224.49,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "Okay ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.39",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 225.6,
+    "end": 232.11,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.40",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 232.11,
+    "end": 234.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Each of you can uh take some practice"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.41",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 234.17,
+    "end": 241.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and you should draw an animal . Uh you should explain Uh with different colours and with different pen widths ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.43",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 241.96,
+    "end": 246.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you should explain why you draw that particular animal ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.44",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 246.53,
+    "end": 247.06,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.45",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 247.06,
+    "end": 247.42,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Julian ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.18",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 247.86,
+    "end": 248.49,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.26",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 249.06,
+    "end": 250.56,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Don't take up too much space ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.19",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 251.01,
+    "end": 253.87,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Um yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.13",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 254.62,
+    "end": 256.71,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Different pen widths , how do you do that ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.46",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 257.02,
+    "end": 258.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh with the format menu ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.14",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 258.33,
+    "end": 258.87,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.47",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 261.47,
+    "end": 263.26,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And use different colours etcetera ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.15",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 266.27,
+    "end": 267.57,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Are you serious ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.48",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 266.36,
+    "end": 269.8,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And what's that supposed to be ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.21",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 270.27,
+    "end": 272.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a giraffe . Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.27",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 270.62,
+    "end": 271.66,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Should it be one"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.49",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 271.86,
+    "end": 275.03,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh yeah . Oh yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.50",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 275.03,
+    "end": 275.63,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "four legs ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.22",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 275.41,
+    "end": 275.9,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.51",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 275.63,
+    "end": 276.97,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Uh-huh ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.28",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 275.64,
+    "end": 277.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Giraffe's yellow ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.23",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 277.12,
+    "end": 281.51,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Uh it needs some uh some yellow uh Oh format ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.29",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 282.36,
+    "end": 285.39,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Can you use one blank sheet per drawing ? Or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.52",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 284.86,
+    "end": 285.22,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.30",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 285.39,
+    "end": 287.29,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "so y you must save it at the end"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.31",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 287.29,
+    "end": 287.66,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and then"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.53",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 287.67,
+    "end": 287.97,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.54",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 287.97,
+    "end": 289.8,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you can press the next button ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.55",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 289.8,
+    "end": 291.73,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "which is uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.57",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 291.73,
+    "end": 292.29,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.24",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 291.91,
+    "end": 292.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's some spots ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.58",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 292.29,
+    "end": 293.56,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I'll show you ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.16",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 292.52,
+    "end": 293.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I in the file option menu ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.59",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 293.56,
+    "end": 295.11,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . In file menu ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.32",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 295.68,
+    "end": 296.69,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.33",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 296.69,
+    "end": 298.0,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "then m make a new one ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.25",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 296.73,
+    "end": 296.92,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.17",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 297.96,
+    "end": 299.9,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "How much time do we have to draw anyway ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.18",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 299.9,
+    "end": 302.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'Cause I can take forever on this ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.60",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 300.96,
+    "end": 301.58,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.28",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 303.0,
+    "end": 303.15,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.29",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 303.15,
+    "end": 306.11,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do I have to explain uh why I chose this uh this animal ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.62",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 306.26,
+    "end": 309.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.30",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 307.53,
+    "end": 310.79,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I think it's a it's a great animal ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.63",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 309.39,
+    "end": 310.58,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "What is it ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.31",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 310.79,
+    "end": 311.97,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a it's a giraffe ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.64",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 311.99,
+    "end": 313.74,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "A giraffe okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.32",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 313.52,
+    "end": 313.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.65",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 313.74,
+    "end": 313.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.33",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 313.74,
+    "end": 314.29,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "that's a"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.66",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 313.97,
+    "end": 314.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I see a long neck"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.67",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 314.88,
+    "end": 317.63,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "but"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.35",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 315.28,
+    "end": 317.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's more like a dinosaur ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.34",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 318.73,
+    "end": 321.42,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um Okay"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.35",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 321.42,
+    "end": 323.1,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I'll will give it an uh an eye ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.68",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 323.38,
+    "end": 324.21,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.36",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 324.11,
+    "end": 324.18,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.69",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 324.21,
+    "end": 325.13,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "That's nice of you ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.36",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 325.02,
+    "end": 325.73,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Hey . Come on ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.37",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 325.8,
+    "end": 327.76,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Some leaf to eat ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.70",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 328.17,
+    "end": 330.7,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Okay . Yeah pretty good ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.71",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 330.7,
+    "end": 332.6,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Uh could you press the next uh"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.38",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 332.82,
+    "end": 334.21,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "The next ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.39",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 334.21,
+    "end": 334.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.72",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 335.32,
+    "end": 335.89,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.73",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 335.89,
+    "end": 337.83,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Then uh ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.38",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 337.06,
+    "end": 338.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.40",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 337.38,
+    "end": 340.85,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Here you go ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.39",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 338.15,
+    "end": 338.53,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thanks ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.41",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 340.85,
+    "end": 341.06,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.40",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 342.26,
+    "end": 342.61,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.20",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 350.13,
+    "end": 354.35,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is this part of our a acquai or introduction to each other ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.74",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 353.28,
+    "end": 353.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.75",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 353.75,
+    "end": 354.18,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "sorry ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.76",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 354.18,
+    "end": 356.05,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "introduction and get acquainted"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.41",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 354.34,
+    "end": 354.65,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.77",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 356.05,
+    "end": 356.24,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.21",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 356.65,
+    "end": 357.17,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.78",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 358.04,
+    "end": 358.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's the idea ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.79",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 358.76,
+    "end": 359.02,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "so"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.22",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 365.47,
+    "end": 368.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh . Your line broke ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.42",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 369.55,
+    "end": 372.25,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . Alright ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.43",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 372.25,
+    "end": 373.5,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's not that fast ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.80",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 372.3,
+    "end": 372.51,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.81",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 372.51,
+    "end": 373.46,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's a bit slow ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.82",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 373.46,
+    "end": 373.93,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "so"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.44",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 373.5,
+    "end": 373.95,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.83",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 375.02,
+    "end": 375.88,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.45",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 376.31,
+    "end": 377.67,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "I see ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.46",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 377.67,
+    "end": 378.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It misses the spot ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.84",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 379.75,
+    "end": 380.21,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "pressure ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.23",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 380.01,
+    "end": 381.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm guessing a turtle ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.25",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 382.52,
+    "end": 383.74,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.24",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 383.74,
+    "end": 384.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm kidding ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.47",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 385.35,
+    "end": 386.68,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I say good guess ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.48",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 388.9,
+    "end": 389.3,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.85",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 389.8,
+    "end": 390.82,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Why a turtle ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.26",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 391.46,
+    "end": 392.45,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Because of its shell ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.49",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 392.74,
+    "end": 396.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Because it's slow ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.86",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 394.25,
+    "end": 395.56,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "It's slow ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.44",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 394.3,
+    "end": 395.36,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "'Cause it's so"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.45",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 395.36,
+    "end": 398.27,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause it's green ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.87",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 395.56,
+    "end": 396.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You were slow too"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.88",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 396.58,
+    "end": 398.86,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "so"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.50",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 396.65,
+    "end": 398.83,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah I was a bit slow too ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.27",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 398.61,
+    "end": 399.72,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Dude you're a good drawer ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.51",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 398.83,
+    "end": 399.29,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.52",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 402.02,
+    "end": 408.28,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Uh some other line uh width uh"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.28",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 408.93,
+    "end": 410.0,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do you have a turtle pet ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.53",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 411.6,
+    "end": 412.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.29",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 412.34,
+    "end": 412.85,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.55",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 416.5,
+    "end": 417.38,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I dunno ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.54",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 417.38,
+    "end": 419.47,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Does it have legs ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.30",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 418.59,
+    "end": 419.37,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah yeah yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.90",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 419.11,
+    "end": 420.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah sure ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.56",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 419.47,
+    "end": 419.88,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.91",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 420.18,
+    "end": 424.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah not exactly legs but More like fins"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.31",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 422.95,
+    "end": 424.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Stumpy stuff ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.93",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 424.26,
+    "end": 424.6,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "or"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.58",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 424.57,
+    "end": 425.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's more like a tank ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.59",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 427.85,
+    "end": 428.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.60",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 428.12,
+    "end": 428.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that's fins"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.61",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 428.76,
+    "end": 429.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but I don't know where ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.32",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 429.14,
+    "end": 432.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They kind of l look like mole legs . With sharp nails on ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.94",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 432.48,
+    "end": 432.87,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.63",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 434.69,
+    "end": 435.72,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Some spots ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.64",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 437.36,
+    "end": 438.3,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Ah some eye ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.95",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 441.34,
+    "end": 441.48,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.96",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 441.48,
+    "end": 447.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's l looks very friendly ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.66",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 441.94,
+    "end": 445.42,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah that's a fr friendly turtle I guess ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.67",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 448.72,
+    "end": 449.33,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah well"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.68",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 449.33,
+    "end": 452.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I think it's uh fair enough ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.97",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 452.08,
+    "end": 452.63,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.34",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 452.91,
+    "end": 453.96,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "A little tail maybe ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.69",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 459.25,
+    "end": 460.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.70",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 460.12,
+    "end": 463.15,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know what the position is ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.71",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 465.88,
+    "end": 466.75,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Does it have ears ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.36",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 467.39,
+    "end": 468.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh no ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.99",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 468.01,
+    "end": 468.32,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.72",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 468.2,
+    "end": 469.64,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "No . Oh okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.48",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 468.35,
+    "end": 468.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.37",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 469.21,
+    "end": 470.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "The little holes maybe ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.73",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 469.64,
+    "end": 470.73,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Can you erase ears"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.74",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 470.73,
+    "end": 471.76,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.100",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 471.21,
+    "end": 471.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah yeah yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.75",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 471.76,
+    "end": 472.09,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.101",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 471.78,
+    "end": 474.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "There's a a gum ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.76",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 473.92,
+    "end": 474.67,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.102",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 474.6,
+    "end": 476.14,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "gum to ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.77",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 474.67,
+    "end": 475.22,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Eraser ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.38",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 477.22,
+    "end": 478.94,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And why did you choose this animal ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.78",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 477.38,
+    "end": 477.76,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.103",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 480.32,
+    "end": 481.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "He said it was slow ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.79",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 480.33,
+    "end": 480.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I dunno ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.80",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 480.91,
+    "end": 483.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I it just came into my mind ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.81",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 483.29,
+    "end": 485.81,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So there's no particular reason"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.39",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 484.29,
+    "end": 484.62,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.82",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 485.81,
+    "end": 487.22,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I pen ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.104",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 493.08,
+    "end": 495.56,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I like it ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.83",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 494.14,
+    "end": 494.57,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.84",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 495.7,
+    "end": 496.14,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.85",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 496.14,
+    "end": 498.15,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm guess I'm done ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.105",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 497.44,
+    "end": 498.89,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.86",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 498.15,
+    "end": 499.04,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's my turtle ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.106",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 500.16,
+    "end": 501.28,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Your turn Niels ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.40",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 500.49,
+    "end": 501.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.87",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 501.61,
+    "end": 503.15,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "How to select the next or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.107",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 502.95,
+    "end": 504.06,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "The next"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.88",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 503.15,
+    "end": 503.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "here ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.108",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 504.06,
+    "end": 504.27,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.89",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 504.61,
+    "end": 505.61,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.90",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 505.61,
+    "end": 506.19,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Here you go ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.109",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 506.04,
+    "end": 507.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Makes new paper ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.41",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 506.55,
+    "end": 508.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Colours were under format"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.42",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 508.05,
+    "end": 510.31,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.110",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 508.33,
+    "end": 508.63,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.43",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 510.31,
+    "end": 513.31,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Let's see ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.111",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 512.78,
+    "end": 513.42,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Orange ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.44",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 513.31,
+    "end": 515.94,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "How am I gonna do this ? Um"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.45",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 524.95,
+    "end": 525.16,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm uh ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.50",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 534.96,
+    "end": 536.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "A rabbit I think ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.112",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 536.04,
+    "end": 536.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Kangaroo ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.51",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 536.85,
+    "end": 537.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Kangaroo ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.46",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 538.5,
+    "end": 539.63,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Not quite actually ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.52",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 540.56,
+    "end": 541.07,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Fox ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.91",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 541.22,
+    "end": 543.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "A fox yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.92",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 543.1,
+    "end": 544.24,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Firefox ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.113",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 543.4,
+    "end": 543.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Dog ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.47",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 544.87,
+    "end": 546.19,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.114",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 545.62,
+    "end": 545.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Cat ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.48",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 546.19,
+    "end": 546.45,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Aye ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.115",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 548.58,
+    "end": 549.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a cat ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.49",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 549.36,
+    "end": 551.01,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "It's a cat ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.54",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 549.88,
+    "end": 550.09,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.50",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 551.01,
+    "end": 552.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Not quite yet through ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.93",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 551.06,
+    "end": 552.62,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "A cat who had an accident or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.116",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 554.72,
+    "end": 555.64,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Why a cat ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.51",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 556.23,
+    "end": 557.09,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh yeah"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.52",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 557.09,
+    "end": 557.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I dunno ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.53",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 557.52,
+    "end": 558.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They're my favourite pets ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.117",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 559.93,
+    "end": 560.99,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "You have some uh ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.54",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 560.79,
+    "end": 562.32,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Uh I have colour already ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.55",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 564.67,
+    "end": 564.91,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.57",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 564.91,
+    "end": 567.38,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "I'm not so good at drawing with this kind of"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.58",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 567.38,
+    "end": 567.65,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "st"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.59",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 567.65,
+    "end": 568.98,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "Oh shit . Um"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.119",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 569.22,
+    "end": 570.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "The pen ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.120",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 570.35,
+    "end": 570.94,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.60",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 570.73,
+    "end": 571.66,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Excuse my language ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.121",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 572.75,
+    "end": 573.91,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Sure ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.61",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 574.37,
+    "end": 575.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know how to draw its face ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.62",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 575.6,
+    "end": 576.43,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But you get the idea ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.63",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 576.43,
+    "end": 577.89,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a cat ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.122",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 576.55,
+    "end": 578.84,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . Alright ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.64",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 577.89,
+    "end": 580.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's my favourite uh pet animal ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.65",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 580.6,
+    "end": 583.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause they're cute , they're independent and cuddly ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.66",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 583.69,
+    "end": 586.44,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I dunno ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.123",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 584.43,
+    "end": 584.84,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.67",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 586.44,
+    "end": 587.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's it ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.68",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 587.42,
+    "end": 589.07,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Or do I need to use more colours"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.124",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 587.8,
+    "end": 588.23,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.69",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 589.07,
+    "end": 590.04,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.125",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 590.78,
+    "end": 592.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think it's okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.70",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 592.37,
+    "end": 593.38,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.126",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 592.42,
+    "end": 593.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You get idea"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.71",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 593.38,
+    "end": 593.85,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.127",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 593.58,
+    "end": 595.08,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.128",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 595.08,
+    "end": 598.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay um"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.129",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 598.81,
+    "end": 601.97,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "we have a financial aspect to this project ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.130",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 601.97,
+    "end": 605.93,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um we can sell them at twenty five Euros . Uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.131",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 607.03,
+    "end": 613.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the aim is to reach uh uh to sell as much as fifty million Euros ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.132",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 613.2,
+    "end": 616.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh that's quite a big amount of money ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.133",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 617.39,
+    "end": 621.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And the production cost should be the half of the selling price ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.73",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 626.09,
+    "end": 627.17,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So we have to s"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.134",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 626.42,
+    "end": 626.85,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.135",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 626.85,
+    "end": 628.59,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "now it's time for some discussion ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.56",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 640.45,
+    "end": 641.44,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.137",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 641.39,
+    "end": 641.79,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.57",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 641.44,
+    "end": 645.03,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "What uh what uh do you want to discuss ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.74",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 643.49,
+    "end": 644.67,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.138",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 645.18,
+    "end": 646.17,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.139",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 646.17,
+    "end": 647.31,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "We should get started ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.95",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 647.73,
+    "end": 648.07,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.58",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 648.17,
+    "end": 648.53,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.140",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 651.22,
+    "end": 655.12,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Uh I'm taking notes . Um"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.96",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 652.7,
+    "end": 653.33,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.97",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 653.33,
+    "end": 653.61,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Great ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.141",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 656.89,
+    "end": 659.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we each have a specific task ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.142",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 659.51,
+    "end": 661.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "as I saw in my mail ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.75",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 661.58,
+    "end": 662.0,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.143",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 661.64,
+    "end": 663.98,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I didn't know if you received the same mail ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.98",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 661.93,
+    "end": 662.27,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.144",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 663.98,
+    "end": 664.93,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.99",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 664.01,
+    "end": 664.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.76",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 664.42,
+    "end": 665.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I guess so . Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.145",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 664.93,
+    "end": 667.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay so the um uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.146",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 667.81,
+    "end": 674.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "this industrati Industrial Designer should produce a working design ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.147",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 674.52,
+    "end": 675.1,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Am I correct ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.77",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 676.18,
+    "end": 676.73,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "True ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.148",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 676.8,
+    "end": 677.97,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.149",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 677.97,
+    "end": 683.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh the User Interface Designer should specify the technical functions ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.150",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 684.42,
+    "end": 686.35,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Right ? Yeah ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.59",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 684.8,
+    "end": 685.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.151",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 686.35,
+    "end": 694.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And the Marketing uh Expert should come up with user requirements ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.100",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 693.25,
+    "end": 693.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.152",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 694.11,
+    "end": 698.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh did any of you already do some work on this part"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.153",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 698.68,
+    "end": 698.95,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "or"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.78",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 700.13,
+    "end": 700.67,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.79",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 700.67,
+    "end": 704.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I started making an overview for myself , um what I had to do ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.80",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 704.59,
+    "end": 707.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause we have three design steps"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.81",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 707.6,
+    "end": 712.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and in every step I have a s specific task to perform or whatever ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.154",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 708.89,
+    "end": 709.19,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.155",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 711.95,
+    "end": 712.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.82",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 712.2,
+    "end": 717.8,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So I had to uh , I dunno , make an overview for myself about what I have to do ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.156",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 716.1,
+    "end": 716.59,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.83",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 717.8,
+    "end": 725.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and kind of let it work in to get ideas about well how I have to fill it ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.157",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 722.26,
+    "end": 723.04,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.158",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 723.04,
+    "end": 726.76,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "And do you have any ideas about the product uh so far ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.84",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 725.62,
+    "end": 725.97,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.85",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 725.97,
+    "end": 728.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I started I started with the first phase ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.86",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 728.18,
+    "end": 730.02,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think was the functional ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.159",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 729.6,
+    "end": 729.88,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.87",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 730.02,
+    "end": 732.89,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "And uh let's see"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.88",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 732.89,
+    "end": 738.09,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I had to focus on the working design , which you said ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.160",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 737.06,
+    "end": 737.47,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.89",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 738.09,
+    "end": 740.2,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "How does the apparatus work ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.90",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 740.2,
+    "end": 741.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "And well"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.91",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 741.52,
+    "end": 742.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I basically had two points ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.92",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 743.05,
+    "end": 750.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh according to the coffee uh machine example , I have batteries to supply energy ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.101",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 747.58,
+    "end": 747.93,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.161",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 747.67,
+    "end": 748.16,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.93",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 750.05,
+    "end": 758.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and we ye use button presses to activate or deactivate certain functions on the T_V_ ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.162",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 757.13,
+    "end": 758.95,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm . Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.94",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 758.57,
+    "end": 760.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And that's basically all I have so far ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.163",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 760.92,
+    "end": 761.35,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.164",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 761.35,
+    "end": 762.46,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I got another point ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.165",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 762.46,
+    "end": 770.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It uses infrared light to communicate the signal to the T_V_ apparatus or stereo ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.60",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 764.72,
+    "end": 765.17,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.61",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 765.17,
+    "end": 766.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Wireless uh huh ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.102",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 765.32,
+    "end": 765.64,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.103",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 766.78,
+    "end": 767.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.95",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 767.14,
+    "end": 768.08,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.96",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 770.34,
+    "end": 770.65,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.104",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 770.75,
+    "end": 770.89,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.105",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 770.89,
+    "end": 771.88,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "that's very common ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.62",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 771.71,
+    "end": 774.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh it's uh some buttons for for the on off function ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.63",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 774.6,
+    "end": 776.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You d you already told that ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.64",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 776.17,
+    "end": 781.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And for the changing up to the to all the channels and changing the volume ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.65",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 783.06,
+    "end": 785.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That are the the basic options for a remote control ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.97",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 783.09,
+    "end": 783.57,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.98",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 785.63,
+    "end": 785.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.99",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 785.81,
+    "end": 786.82,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I kept it global"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.100",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 786.82,
+    "end": 787.78,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "'cause"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.101",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 787.78,
+    "end": 790.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that it activates or deactivates specific functions ,"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.102",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 790.29,
+    "end": 792.43,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause I wasn't thinking yet about that ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.66",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 790.38,
+    "end": 790.94,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay , yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.103",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 792.43,
+    "end": 794.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean , you wanna ch ch flip the channel"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.67",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 793.67,
+    "end": 794.08,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.104",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 794.62,
+    "end": 798.46,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but you might wanna use teletext also ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.68",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 797.26,
+    "end": 797.43,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.106",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 797.6,
+    "end": 797.92,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.105",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 798.46,
+    "end": 801.31,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I dunno what the word is in English . Uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.166",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 802.83,
+    "end": 803.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Same I believe ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.107",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 803.93,
+    "end": 804.75,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.167",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 807.18,
+    "end": 809.99,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Uh and what did the Marketing Expert do ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.108",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 810.12,
+    "end": 811.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh well"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.109",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 811.12,
+    "end": 819.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "from a marketing uh perspective , um well the function des design phase uh consists out of the user requirements ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.168",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 819.36,
+    "end": 819.77,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.110",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 819.69,
+    "end": 823.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um what needs and desires are to be fulfilled ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.111",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 823.52,
+    "end": 823.95,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.112",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 823.95,
+    "end": 833.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "there are a few means to reach that um by by doing research uh to see what existing products are there out in the market ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.169",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 828.97,
+    "end": 829.31,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.113",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 833.4,
+    "end": 835.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean , what functions do they have ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.170",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 834.7,
+    "end": 835.09,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.114",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 835.76,
+    "end": 838.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um especially what are their shortcomings ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.115",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 838.41,
+    "end": 843.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Are there any new functions uh which can be added to our product ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.171",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 839.3,
+    "end": 839.55,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.172",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 842.92,
+    "end": 843.2,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.116",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 844.16,
+    "end": 859.44,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um therefore we have to to do some internet search . For example for um well what kind of applications do current remote controls support , and what are f featur features of uh current and future televisions ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.173",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 848.53,
+    "end": 848.98,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.174",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 858.92,
+    "end": 859.3,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.117",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 859.44,
+    "end": 862.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So we can see uh what needs to be supported ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.118",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 862.46,
+    "end": 874.53,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um and we can interview current users and future users . What w what would they like to see uh on a new remote control ? Um especially for future users ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.175",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 867.92,
+    "end": 868.39,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.176",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 871.35,
+    "end": 871.69,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.120",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 874.53,
+    "end": 877.13,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "uh I'm thinking of early adopters ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.121",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 877.13,
+    "end": 880.22,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "because they they use new technology first ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.177",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 879.95,
+    "end": 880.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.122",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 880.22,
+    "end": 882.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and they play with a lot of tools and stuff"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.123",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 882.39,
+    "end": 886.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so maybe they have some good ideas to uh to add ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.178",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 885.48,
+    "end": 886.38,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.179",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 886.38,
+    "end": 888.21,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And you can get that information ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.124",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 888.43,
+    "end": 890.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think I can get that information , yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.180",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 890.05,
+    "end": 891.28,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.181",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 891.28,
+    "end": 893.34,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That would be very handy ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.125",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 891.35,
+    "end": 892.39,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.126",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 892.39,
+    "end": 892.7,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.182",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 893.34,
+    "end": 898.14,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Um but have you any idea so far as what uh the user requirements are ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.127",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 898.37,
+    "end": 900.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No n not specifically ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.128",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 900.16,
+    "end": 901.5,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "More to how to get them"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.183",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 900.24,
+    "end": 900.55,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "No ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.129",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 901.5,
+    "end": 901.77,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.184",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 901.79,
+    "end": 902.38,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "No okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.69",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 901.89,
+    "end": 903.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I got some uh requirements"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.70",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 903.11,
+    "end": 907.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it has uh it has to be user-friendly ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.185",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 903.46,
+    "end": 903.7,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.130",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 904.17,
+    "end": 904.42,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.131",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 906.07,
+    "end": 906.34,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.106",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 906.26,
+    "end": 907.43,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . Obviously ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.186",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 906.32,
+    "end": 907.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Of course ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.71",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 907.83,
+    "end": 909.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Uh really easy to use buttons ,"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.72",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 909.8,
+    "end": 911.56,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "not not uh very small buttons ,"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.73",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 911.56,
+    "end": 914.59,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but not the the also the big big buttons ,"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.74",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 914.59,
+    "end": 917.3,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but just normal buttons ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.75",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 917.3,
+    "end": 918.95,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "It has to be a small unit ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.76",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 918.95,
+    "end": 920.01,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "It has to be uh"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.77",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 920.01,
+    "end": 920.65,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "yeah ,"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.78",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 920.65,
+    "end": 923.94,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you can take it with you uh everywhere in in your house ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.79",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 923.94,
+    "end": 928.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So it has n has not to be l yeah , gigantic uh machine ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.187",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 928.17,
+    "end": 928.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Big ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.188",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 928.6,
+    "end": 929.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.132",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 929.04,
+    "end": 929.38,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.80",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 930.24,
+    "end": 933.29,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Uh and a and a good uh zapping range ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.189",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 933.56,
+    "end": 934.83,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Uh what do you mean by that ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.133",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 934.86,
+    "end": 935.21,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.81",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 935.05,
+    "end": 942.83,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Uh the distance uh from your television to your uh remote control has to be , uh yeah um yeah , quite a big distance ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.134",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 942.8,
+    "end": 943.28,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.82",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 942.83,
+    "end": 945.63,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "It has to be capable for zapping uh"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.135",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 945.88,
+    "end": 948.24,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "From the other end of the room or something ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.83",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 946.8,
+    "end": 947.21,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.136",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 948.24,
+    "end": 948.62,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.190",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 951.41,
+    "end": 955.11,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay um Well"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.191",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 955.11,
+    "end": 959.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't think I have anything more to add at the moment ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.192",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 962.76,
+    "end": 967.84,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um I think the best is to go to work ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.107",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 967.41,
+    "end": 969.31,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Whoa ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.108",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 969.31,
+    "end": 969.74,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is that you"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.109",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 969.74,
+    "end": 970.63,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.193",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 969.95,
+    "end": 970.38,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.110",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 970.63,
+    "end": 971.25,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.194",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 975.13,
+    "end": 975.73,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.137",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 976.05,
+    "end": 977.85,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Any more points to discuss ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.195",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 977.11,
+    "end": 978.21,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.196",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 978.21,
+    "end": 983.39,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think we can go ahead with what we have ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.197",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 983.39,
+    "end": 985.88,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I will summarise the things we discussed"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.198",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 985.88,
+    "end": 987.54,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "and put it in the project folder ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.199",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 989.52,
+    "end": 996.43,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh the use of the Industrial Designer can work on the working design , etcetera etcetera ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.200",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 996.43,
+    "end": 998.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And it seems you get more information by email ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.138",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1000.49,
+    "end": 1001.08,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.201",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1000.51,
+    "end": 1002.33,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.111",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1001.02,
+    "end": 1001.68,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.84",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1002.22,
+    "end": 1002.64,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.202",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1002.33,
+    "end": 1004.15,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that was it for me ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.139",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1005.42,
+    "end": 1005.74,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "'Kay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.140",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1005.74,
+    "end": 1006.38,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thanks ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.203",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1007.49,
+    "end": 1007.99,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.85",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1007.52,
+    "end": 1009.53,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Are you going to put the the notes on the"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.204",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1009.48,
+    "end": 1012.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah , in the project folder . Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.141",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1009.89,
+    "end": 1010.5,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.142",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1010.5,
+    "end": 1011.43,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "The pro okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.86",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1011.03,
+    "end": 1012.02,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.112",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1012.23,
+    "end": 1013.06,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.205",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1012.67,
+    "end": 1015.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm writing very fast ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.87",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1014.4,
+    "end": 1014.97,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.143",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1014.75,
+    "end": 1015.73,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah . Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.206",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1015.33,
+    "end": 1017.95,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Hope it's readable ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.144",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1016.93,
+    "end": 1017.29,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.88",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1017.02,
+    "end": 1017.23,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.207",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1017.95,
+    "end": 1018.72,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Okay"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.145",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1018.49,
+    "end": 1019.24,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I guess so ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.208",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1018.72,
+    "end": 1021.56,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "um anything more you want to add to the discussion ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.113",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1021.97,
+    "end": 1022.94,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.115",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1022.94,
+    "end": 1023.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "no"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.114",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1023.26,
+    "end": 1029.12,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I'm just a bit wondering what we're gonna do the next uh session ?"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.89",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1027.33,
+    "end": 1027.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.90",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1027.74,
+    "end": 1031.34,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do we only have to to do uh phase one , the functional design uh ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.209",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1030.99,
+    "end": 1031.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.210",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1031.51,
+    "end": 1032.92,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Because then we have a"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.91",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1033.14,
+    "end": 1035.62,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "After that we are going to the conceptual uh"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.211",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1035.22,
+    "end": 1036.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.146",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1035.53,
+    "end": 1036.19,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.147",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1036.19,
+    "end": 1037.8,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We're just working the three phases ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.212",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1036.33,
+    "end": 1038.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Y you do some individual work ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.213",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1038.1,
+    "end": 1038.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we have meeting ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.214",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1038.96,
+    "end": 1040.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "individual work , meeting ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.215",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1040.14,
+    "end": 1042.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And at the end of the day we have a final meeting ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.216",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1042.49,
+    "end": 1046.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And then I have to prepare uh I have to defend our design ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.217",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1046.87,
+    "end": 1049.81,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so make it good ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.116",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1048.15,
+    "end": 1049.88,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah okay . We'll do our best ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.148",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1048.18,
+    "end": 1049.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.93",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1049.41,
+    "end": 1049.94,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.218",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1049.81,
+    "end": 1050.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I depend on you ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.149",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1049.81,
+    "end": 1051.49,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Better make it"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.117",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1050.93,
+    "end": 1053.9,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I am gonna work on the conceptual design already"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.118",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1053.9,
+    "end": 1059.86,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "'cause yeah it's fairly important to know what kind of components we want to put in ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.219",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1054.79,
+    "end": 1056.98,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ? If you can mix it it's okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.220",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1058.62,
+    "end": 1059.91,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm . Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.119",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1059.86,
+    "end": 1060.68,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Do we"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.120",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1060.68,
+    "end": 1063.89,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "I mean , is it gonna be a multimedia control centre ?"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.121",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1063.89,
+    "end": 1068.09,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Do we want to be able to use the video recorder with it ?"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.150",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1066.73,
+    "end": 1068.88,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . That is my question also"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.221",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1067.36,
+    "end": 1067.7,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.151",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1068.88,
+    "end": 1072.0,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "because like new new functions"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.222",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1070.61,
+    "end": 1071.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.223",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1071.12,
+    "end": 1076.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think that is the user requirements part ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.152",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1073.96,
+    "end": 1075.73,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Requirements . Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.224",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1076.36,
+    "end": 1080.07,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "As to what they want . Uh do they want all those functions on that small"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.122",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1076.78,
+    "end": 1077.42,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah . True ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.153",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1079.09,
+    "end": 1079.44,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.123",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1080.29,
+    "end": 1082.63,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But but we need good communication about this stuff ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.154",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1080.8,
+    "end": 1081.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Unit ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.225",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1081.98,
+    "end": 1082.28,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.124",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1082.63,
+    "end": 1086.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause I have to f put the components into the design ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.155",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1085.41,
+    "end": 1085.81,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.226",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1086.06,
+    "end": 1086.49,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.94",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1086.42,
+    "end": 1087.37,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I would first m"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.125",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1086.66,
+    "end": 1090.09,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "So if I don't know what components to put in , it's kind of hard ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.156",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1088.0,
+    "end": 1088.92,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah well"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.157",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1088.92,
+    "end": 1089.31,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I I was"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.227",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1089.29,
+    "end": 1090.42,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah I understand ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.95",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1089.62,
+    "end": 1089.78,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.96",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1089.78,
+    "end": 1092.95,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I I think we have first to start with the basic functions"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.159",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1092.76,
+    "end": 1094.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.97",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1092.95,
+    "end": 1095.54,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and we can uh expand them ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.158",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1094.15,
+    "end": 1094.38,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "well"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.228",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1094.2,
+    "end": 1095.99,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "You can always add a few"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.160",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1094.38,
+    "end": 1104.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "like l li like some like some some remotes who are out there , which I know , there's one button which is very easy to switch between devices ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.229",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1104.33,
+    "end": 1104.66,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.161",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1104.54,
+    "end": 1106.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So you can switch to your video"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.162",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1106.62,
+    "end": 1109.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and then the same buttons control your video ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.231",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1106.72,
+    "end": 1107.29,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Hmm ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.230",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1107.29,
+    "end": 1109.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the C_D_ player ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.232",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1109.35,
+    "end": 1109.73,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.98",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1109.51,
+    "end": 1109.68,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.163",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1109.79,
+    "end": 1112.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And another function I'll think of switch to your media centre ,"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.164",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1112.8,
+    "end": 1115.13,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "because that's getting very popular ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.126",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1114.99,
+    "end": 1115.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah so"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.165",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1115.13,
+    "end": 1123.07,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "And then use your Windows media centre under your T_V_ with the same remote control . So with the switch , one single switch"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.233",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1120.26,
+    "end": 1120.53,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.127",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1120.98,
+    "end": 1121.33,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.128",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1122.84,
+    "end": 1124.02,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah I I know what you mean ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.234",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1122.96,
+    "end": 1123.34,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.129",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1124.02,
+    "end": 1128.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but you'll ne need several other buttons for a video player ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.166",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1127.83,
+    "end": 1128.2,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "S"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.130",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1128.54,
+    "end": 1131.61,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You need a play and a forw fast forward and a stop function ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.235",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1128.99,
+    "end": 1129.46,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.167",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1130.95,
+    "end": 1131.38,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.168",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1131.38,
+    "end": 1133.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "records and stuff like that ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.131",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1131.61,
+    "end": 1134.74,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you you don't need that for a T_V_ ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.236",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1132.1,
+    "end": 1132.7,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.169",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1134.42,
+    "end": 1134.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.132",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1134.74,
+    "end": 1141.44,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And and for a t uh teletext you need additional buttons as well ,"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.237",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1138.93,
+    "end": 1139.84,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You need additional"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.238",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1139.84,
+    "end": 1140.34,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.99",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1139.84,
+    "end": 1140.2,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.133",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1141.44,
+    "end": 1145.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so I kind of need to know what we uh need ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.170",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1141.46,
+    "end": 1141.76,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.239",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1141.7,
+    "end": 1142.84,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.240",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1142.84,
+    "end": 1143.59,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.171",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1145.73,
+    "end": 1146.06,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.135",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1146.98,
+    "end": 1151.37,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Whatever , I'll just put my ideas in uh in here"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.241",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1150.43,
+    "end": 1150.74,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.136",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1151.37,
+    "end": 1157.19,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and then we can discuss it with the next uh meeting ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.172",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1151.74,
+    "end": 1152.96,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "In the project uh"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.173",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1153.94,
+    "end": 1154.37,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.242",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1154.4,
+    "end": 1155.33,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.243",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1155.33,
+    "end": 1159.78,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "We could just start with the assumption that's only for T_V_ and video ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.244",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1159.78,
+    "end": 1164.76,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And um reserve the possibility to add other features ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.137",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1163.35,
+    "end": 1163.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.245",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1164.76,
+    "end": 1166.48,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So we have a basic starting point"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.138",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1164.81,
+    "end": 1165.11,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.246",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1166.48,
+    "end": 1167.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and you can always extend that"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.247",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1167.78,
+    "end": 1170.48,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so make sure it's extendible . Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.100",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1169.75,
+    "end": 1170.2,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.174",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1169.81,
+    "end": 1170.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.139",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1169.97,
+    "end": 1170.47,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.101",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1170.2,
+    "end": 1172.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it it has yeah it has to be user-friendly ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.102",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1172.86,
+    "end": 1175.23,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So it's hasn't it's yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.248",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1175.21,
+    "end": 1177.77,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Th the least amount of functions possible"
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.104",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1176.74,
+    "end": 1176.99,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.249",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1177.77,
+    "end": 1180.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so it's easier to get to know how it works etcetera ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.105",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1178.08,
+    "end": 1178.62,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.140",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1179.39,
+    "end": 1179.87,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.106",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1179.83,
+    "end": 1179.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.141",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1179.87,
+    "end": 1181.35,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "I understand . Yeah ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.175",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1180.31,
+    "end": 1180.83,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.250",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1181.72,
+    "end": 1182.58,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.251",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1182.58,
+    "end": 1183.16,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay"
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.142",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1182.67,
+    "end": 1183.07,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.176",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1182.75,
+    "end": 1183.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.252",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1183.16,
+    "end": 1186.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh I'll see you again uh when the computer tells us to ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.143",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1186.56,
+    "end": 1186.93,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.107",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1188.57,
+    "end": 1189.33,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Can we leave now"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.177",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1188.83,
+    "end": 1189.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Half an hour ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.108",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1189.33,
+    "end": 1189.43,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "or"
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.253",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1189.66,
+    "end": 1194.26,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , you're di dismissed ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.144",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1192.21,
+    "end": 1194.14,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thanks ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.178",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1192.65,
+    "end": 1195.0,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "You're fired ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.254",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1194.26,
+    "end": 1196.72,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Not yet ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.179",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1195.0,
+    "end": 1195.5,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "No ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.110",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1196.14,
+    "end": 1196.35,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.145",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1196.22,
+    "end": 1196.78,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Alright ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.255",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1196.72,
+    "end": 1197.23,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.180",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1196.87,
+    "end": 1197.88,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Alright"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.181",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1197.88,
+    "end": 1198.77,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "let's move on ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.256",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1200.58,
+    "end": 1201.93,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Let's see what we got to do ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.182",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1202.35,
+    "end": 1202.91,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.146",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1206.88,
+    "end": 1207.74,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "See you later ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.183",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1208.0,
+    "end": 1209.44,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Yeah see you later ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.111",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1208.13,
+    "end": 1208.48,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.257",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1208.25,
+    "end": 1208.5,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "TS3006a.B.dialog-act.vkaraisk.112",
+    "speaker": "B",
+    "global_speaker": "MTD023UID",
+    "start": 1212.44,
+    "end": 1213.32,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Good luck ."
+  },
+  {
+    "id": "TS3006a.A.dialog-act.vkaraisk.258",
+    "speaker": "A",
+    "global_speaker": "MTD021PM",
+    "start": 1213.1,
+    "end": 1214.49,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Yeah . Thank you ."
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.184",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1220.59,
+    "end": 1221.07,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "TS3006a.D.dialog-act.vkaraisk.185",
+    "speaker": "D",
+    "global_speaker": "MTD024ME",
+    "start": 1221.07,
+    "end": 1222.09,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "good luck ."
+  },
+  {
+    "id": "TS3006a.C.dialog-act.vkaraisk.147",
+    "speaker": "C",
+    "global_speaker": "MTD022ID",
+    "start": 1226.58,
+    "end": 1227.02,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "What the"
+  }
+]

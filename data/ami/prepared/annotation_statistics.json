@@ -1,0 +1,100 @@
+{
+  "ES2003a": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "B": "MEE009",
+      "D": "MEE010",
+      "A": "MEE011",
+      "C": "MEE012"
+    },
+    "dialogue_act_count": 296,
+    "linked_information_qa_count": 11,
+    "unresolved_adjacency_pairs": 12,
+    "candidate_reversals": 2,
+    "candidate_controls": 2
+  },
+  "ES2003d": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "B": "MEE009",
+      "D": "MEE010",
+      "A": "MEE011",
+      "C": "MEE012"
+    },
+    "dialogue_act_count": 927,
+    "linked_information_qa_count": 41,
+    "unresolved_adjacency_pairs": 47,
+    "candidate_reversals": 0,
+    "candidate_controls": 1
+  },
+  "TS3006a": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "A": "MTD021PM",
+      "C": "MTD022ID",
+      "B": "MTD023UID",
+      "D": "MTD024ME"
+    },
+    "dialogue_act_count": 655,
+    "linked_information_qa_count": 43,
+    "unresolved_adjacency_pairs": 11,
+    "candidate_reversals": 1,
+    "candidate_controls": 0
+  },
+  "TS3006b": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "A": "MTD021PM",
+      "C": "MTD022ID",
+      "B": "MTD023UID",
+      "D": "MTD024ME"
+    },
+    "dialogue_act_count": 1205,
+    "linked_information_qa_count": 49,
+    "unresolved_adjacency_pairs": 29,
+    "candidate_reversals": 0,
+    "candidate_controls": 3
+  },
+  "IS1000b": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "D": "MIO016",
+      "B": "MIO082",
+      "A": "FIE081",
+      "C": "MIO050"
+    },
+    "dialogue_act_count": 956,
+    "linked_information_qa_count": 21,
+    "unresolved_adjacency_pairs": 24,
+    "candidate_reversals": 0,
+    "candidate_controls": 1
+  },
+  "IS1000d": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "D": "MIO050",
+      "B": "MIO082",
+      "A": "FIE081",
+      "C": "MIO016"
+    },
+    "dialogue_act_count": 1491,
+    "linked_information_qa_count": 80,
+    "unresolved_adjacency_pairs": 40,
+    "candidate_reversals": 2,
+    "candidate_controls": 1
+  },
+  "IS1009d": {
+    "meeting_type": "scenario",
+    "speakers": {
+      "D": "FIO089",
+      "B": "FIO087",
+      "A": "FIE088",
+      "C": "FIO084"
+    },
+    "dialogue_act_count": 777,
+    "linked_information_qa_count": 36,
+    "unresolved_adjacency_pairs": 3,
+    "candidate_reversals": 1,
+    "candidate_controls": 1
+  }
+}

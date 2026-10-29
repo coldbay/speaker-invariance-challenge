@@ -1,0 +1,58 @@
+{
+  "status": "pilot_candidates_pending_human_review",
+  "clip_count": 8,
+  "event_counts": {
+    "question_answer_reversal": 4,
+    "same_direction_control": 4
+  },
+  "audio_seconds": 265.97006250000004,
+  "reference_count": 40,
+  "reference_seconds": 3,
+  "speaker_sets_disjoint": true,
+  "split_speaker_ids": {
+    "development": [
+      "MEE009",
+      "MEE010",
+      "MEE011",
+      "MEE012",
+      "MTD021PM",
+      "MTD022ID",
+      "MTD023UID",
+      "MTD024ME"
+    ],
+    "evaluation": [
+      "FIE081",
+      "FIE088",
+      "FIO084",
+      "FIO087",
+      "FIO089",
+      "MIO016",
+      "MIO050",
+      "MIO082"
+    ]
+  },
+  "clip_speaker_counts": {
+    "ES2003a_question_answer_reversal_01": 2,
+    "ES2003a_same_direction_control_01": 2,
+    "ES2003d_same_direction_control_01": 2,
+    "TS3006a_question_answer_reversal_01": 2,
+    "TS3006b_same_direction_control_01": 2,
+    "IS1000b_same_direction_control_01": 3,
+    "IS1000d_question_answer_reversal_01": 4,
+    "IS1009d_question_answer_reversal_01": 4
+  },
+  "eligible_segment_count": 70,
+  "scored_answer_after_count": 8,
+  "provenance": "Contiguous PCM ranges of official AMI Mix-Headset WAV. No resampling, reordering, or speaker removal.",
+  "limitations": [
+    "Small starter set with balanced selected event counts, not a representative final benchmark.",
+    "Selected meetings are scenario-elicited spontaneous meetings, not scripts read by speakers.",
+    "Event interpretations still require transcript/audio review.",
+    "References come from outside all selected clips and can be recorded after the evaluation interval.",
+    "At most 5% other-speaker aligned-word overlap is allowed for scored segments; this is not an exact overlap-free annotation.",
+    "Model outputs are stored separately in runs/; dataset labels remain pending listening review."
+  ],
+  "protocol_version": "natural-qa-v2-same-person",
+  "same_person_pair_count": 16,
+  "eligible_same_person_pair_count": 12
+}

@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "candidate_clips": 8,
+  "registered_reference_files": 40,
+  "eligible_segments": 70,
+  "reference_duration_range_seconds": [
+    3.0,
+    3.0000625
+  ],
+  "checks": [
+    "WAV payload lengths",
+    "Audio SHA256",
+    "Portable input paths",
+    "Segment bounds",
+    "Reference SHA256 and one-sample duration tolerance",
+    "Registered ID coverage",
+    "Development/evaluation speaker separation",
+    "Scorer perfect/missing synthetic checks",
+    "Python syntax"
+  ],
+  "not_tested": [
+    "Model inference",
+    "Human listening",
+    "Role-change semantic confirmation"
+  ],
+  "prepared_mib": 13.99
+}

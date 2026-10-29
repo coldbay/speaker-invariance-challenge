@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.1",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 50.42,
+    "end": 50.99,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.2",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 53.56,
+    "end": 53.96,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.3",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 55.98,
+    "end": 60.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um well this is the kick-off meeting for our our project ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.16",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 60.35,
+    "end": 64.16,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um and um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.17",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 64.16,
+    "end": 67.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "this is just what we're gonna be doing over the next twenty five minutes ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.1",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 67.21,
+    "end": 67.45,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.6",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 67.55,
+    "end": 72.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um so first of all , just to kind of make sure that we all know each other ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.9",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 72.79,
+    "end": 74.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm Laura and I'm the project manager ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.7",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 74.42,
+    "end": 77.29,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do you want to introduce yourself again ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.2",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 74.89,
+    "end": 75.24,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Great ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.1",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 77.44,
+    "end": 80.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Hi , I'm David and I'm supposed to be an industrial designer ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.8",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 80.81,
+    "end": 81.26,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.3",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 82.08,
+    "end": 84.46,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And I'm Andrew and I'm uh our marketing"
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.1",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 85.99,
+    "end": 88.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um I'm Craig and I'm User Interface ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.4",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 86.07,
+    "end": 86.5,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "expert ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.10",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 89.3,
+    "end": 90.01,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Great ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.11",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 90.01,
+    "end": 92.79,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay . Um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.12",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 92.79,
+    "end": 96.34,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so we're designing a new remote control and um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.13",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 96.34,
+    "end": 98.57,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Oh I have to record who's here actually ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.14",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 98.57,
+    "end": 101.76,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "So that's David , Andrew and Craig , isn't it ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.15",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 104.89,
+    "end": 106.58,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "And you all arrived on time ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.18",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 108.96,
+    "end": 111.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um yeah so des uh design a new remote control ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.19",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 111.72,
+    "end": 116.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , as you can see it's supposed to be original , trendy and user friendly ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.21",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 116.66,
+    "end": 120.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um so that's kind of our our brief , as it were ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.22",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 120.98,
+    "end": 126.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um and so there are three different stages to the design ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.23",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 126.12,
+    "end": 131.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um I'm not really sure what what you guys have already received um in your emails ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.24",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 131.36,
+    "end": 132.03,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "What did you get ?"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.2",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 132.57,
+    "end": 136.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , I just got the project announcement about what the project is ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.20",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 135.08,
+    "end": 135.44,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.3",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 136.68,
+    "end": 138.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Designing a remote control ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.5",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 137.12,
+    "end": 137.39,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.4",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 138.2,
+    "end": 140.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's about it , didn't get anything else ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.6",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 138.96,
+    "end": 140.56,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Mm-hmm . Yeah , that's that's it ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.25",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 140.1,
+    "end": 141.53,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is that what everybody got ?"
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.2",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 140.47,
+    "end": 140.83,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.5",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 140.77,
+    "end": 141.98,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Did you get the same thing ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.29",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 141.53,
+    "end": 142.66,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.7",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 141.8,
+    "end": 141.95,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.26",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 142.66,
+    "end": 144.43,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.28",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 144.43,
+    "end": 147.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So we're gonna have like individual work and then a meeting about it ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.31",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 147.92,
+    "end": 151.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And repeat that process three times ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.32",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 151.79,
+    "end": 158.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um and at this point we get try out the whiteboard over there ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.27",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 158.41,
+    "end": 159.59,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.33",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 159.59,
+    "end": 165.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So uh you get to draw your favourite animal and sum up your favourite characteristics of it ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.30",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 165.91,
+    "end": 167.31,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "So who would like to go first ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.8",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 166.67,
+    "end": 167.81,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I will go . That's fine ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.34",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 167.84,
+    "end": 168.84,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Very good ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.9",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 174.2,
+    "end": 176.69,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Alright . So"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.11",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 181.39,
+    "end": 182.34,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "This one here , right ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.35",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 183.26,
+    "end": 184.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.14",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 183.93,
+    "end": 186.46,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay . Very nice ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.15",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 186.46,
+    "end": 187.46,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Alright ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.16",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 187.46,
+    "end": 191.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "My favourite animal is like"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.17",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 203.45,
+    "end": 204.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "A beagle ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.18",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 211.97,
+    "end": 213.16,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.20",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 213.16,
+    "end": 216.46,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "charac favourite characteristics of it ? Is that right ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.37",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 215.95,
+    "end": 216.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah . Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.23",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 216.46,
+    "end": 229.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh , right , well basically um high priority for any animal for me is that they be willing to take a lot of physical affection from their family ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.24",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 229.16,
+    "end": 232.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And , yeah that they have lots of personality"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.25",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 232.72,
+    "end": 237.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh be fit and in robust good health ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.26",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 237.96,
+    "end": 239.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So this is blue ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.27",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 239.85,
+    "end": 241.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Blue beagle ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.28",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 241.42,
+    "end": 242.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "My family's beagle ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.38",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 243.4,
+    "end": 244.71,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Right ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.39",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 244.71,
+    "end": 245.7,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Lovely ."
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.4",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 255.07,
+    "end": 257.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Well , my favourite animal would be a monkey ."
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.7",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 268.0,
+    "end": 270.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Then they're small cute and furry ,"
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.8",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 270.01,
+    "end": 273.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh when planet of the apes becomes real , I'm gonna be up there with them ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.41",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 275.67,
+    "end": 276.02,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Right ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.8",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 275.83,
+    "end": 276.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Cool ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.9",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 280.75,
+    "end": 282.65,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "There's too much gear ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.42",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 285.96,
+    "end": 287.73,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You can take as long over this as you like ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.103",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 287.73,
+    "end": 290.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "because we haven't got an awful lot to discuss ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.43",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 290.31,
+    "end": 290.59,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Ok oh"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.104",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 290.59,
+    "end": 291.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we do we do"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.44",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 291.76,
+    "end": 293.37,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Don't feel like you're in a rush , anyway ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.11",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 293.26,
+    "end": 294.25,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.30",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 296.02,
+    "end": 298.03,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I coulda told you a whole lot more about beagles ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.46",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 297.94,
+    "end": 298.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Ach why not"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.31",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 298.03,
+    "end": 300.92,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Boy , let me tell you ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.47",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 298.97,
+    "end": 300.43,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "We might have to get you up again then ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.48",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 301.14,
+    "end": 302.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know what mine is ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.49",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 302.11,
+    "end": 303.58,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I'm gonna have to think on the spot now ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.32",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 307.06,
+    "end": 307.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Impressionist ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.12",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 309.38,
+    "end": 310.85,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Can't draw ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.50",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 312.05,
+    "end": 315.13,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is that a whale ?"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.13",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 312.06,
+    "end": 312.84,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.14",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 313.09,
+    "end": 313.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.15",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 318.58,
+    "end": 321.53,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um , well anyway ,"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.16",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 321.53,
+    "end": 324.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know , it's just the first animal I can think off the top of my head ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.17",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 324.11,
+    "end": 327.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um . Yes . Big reason is 'cause I'm allergic to most animals ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.18",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 327.86,
+    "end": 328.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Allergic to animal fur ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.51",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 327.91,
+    "end": 328.53,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Ah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.19",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 328.76,
+    "end": 331.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so um fish was a natural choice ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.20",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 332.03,
+    "end": 333.1,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um , yeah ,"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.21",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 333.1,
+    "end": 334.32,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and I kind of like whales ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.22",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 334.32,
+    "end": 337.7,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They come in and go eat everything in sight ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.23",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 338.22,
+    "end": 341.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And they're quite harmless and mild and interesting ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.34",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 338.48,
+    "end": 339.05,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Alright ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.35",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 341.85,
+    "end": 342.2,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.54",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 342.42,
+    "end": 343.63,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.53",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 343.63,
+    "end": 346.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "God , I still don't know what I'm gonna write about ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.52",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 346.39,
+    "end": 346.85,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.36",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 349.66,
+    "end": 350.84,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Superb sketch , by the way ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.24",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 353.86,
+    "end": 355.11,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Tail's a bit big , I think ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.55",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 354.91,
+    "end": 357.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I was gonna choose a dog as well ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.56",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 357.54,
+    "end": 360.21,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "But I'll just draw a different kind of dog ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.38",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 359.62,
+    "end": 359.9,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.57",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 360.21,
+    "end": 364.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "M my favourite animal is my own dog at home ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.58",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 364.23,
+    "end": 364.92,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.59",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 367.01,
+    "end": 368.63,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That doesn't really look like him , actually ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.60",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 373.3,
+    "end": 374.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "He looks more like a pig , actually ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.61",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 375.84,
+    "end": 376.27,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Ah well ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.40",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 378.46,
+    "end": 379.99,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I see a dog in there ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.62",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 379.52,
+    "end": 380.06,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do you ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.41",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 379.99,
+    "end": 380.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.63",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 380.06,
+    "end": 380.97,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Oh that's very good of you ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.42",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 382.82,
+    "end": 383.68,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Now I see a rooster ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.64",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 388.27,
+    "end": 389.07,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.43",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 393.42,
+    "end": 394.21,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "What kind is it ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.66",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 394.87,
+    "end": 398.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um he's a mixture of uh various things ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.67",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 398.71,
+    "end": 403.23,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Um and what do I like about him , um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.68",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 403.23,
+    "end": 405.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's just to suggest that his tail wags ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.70",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 405.71,
+    "end": 409.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um he's very friendly and cheery and always pleased to see you ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.71",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 409.2,
+    "end": 411.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and very kind of affectionate"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.69",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 411.11,
+    "end": 413.77,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "and um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.72",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 415.0,
+    "end": 415.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "uh"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.73",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 415.12,
+    "end": 421.48,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and he's quite quite wee as well so you know he can doesn't take up too much space ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.74",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 421.48,
+    "end": 422.22,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.75",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 425.56,
+    "end": 430.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh And he does a funny thing where he chases his tail as well ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.76",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 430.28,
+    "end": 431.6,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "which is quite amusing , so"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.46",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 431.27,
+    "end": 433.44,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is he aware that th it's his own cha tail he's chasing ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.77",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 433.83,
+    "end": 434.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It is . I think it is ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.78",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 434.67,
+    "end": 436.84,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "He only does it after he's had his dinner"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.79",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 436.84,
+    "end": 441.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and um he'll just all of a sudden just get up and start chasing his tail 'round the living room ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.48",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 440.33,
+    "end": 440.47,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Hmm ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.28",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 442.02,
+    "end": 443.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's an after dinner dog then ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.80",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 443.59,
+    "end": 444.02,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.81",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 444.02,
+    "end": 445.26,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so uh"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.49",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 444.05,
+    "end": 448.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Probably when he was little he got lots of attention for doing it and has forever been conditioned ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.82",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 447.15,
+    "end": 447.47,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.105",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 447.47,
+    "end": 448.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "maybe ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.83",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 449.0,
+    "end": 450.7,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Maybe ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.84",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 450.7,
+    "end": 452.3,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Right , um where did you find this ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.85",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 452.3,
+    "end": 453.61,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Just down here ? Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.86",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 455.51,
+    "end": 456.76,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.87",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 458.92,
+    "end": 462.97,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Um what are we doing next ? Uh um ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.88",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 465.51,
+    "end": 470.01,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Okay , uh we now need to discuss the project finance ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.89",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 470.01,
+    "end": 476.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um so according to the brief um we're gonna be selling this remote control for twenty five Euro ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.90",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 476.53,
+    "end": 482.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um and we're aiming to make fifty million Euro ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.91",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 482.77,
+    "end": 487.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um so we're gonna be selling this on an international scale ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.92",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 487.21,
+    "end": 495.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And uh we don't want it to cost any more than uh twelve fifty Euros , so fifty percent of the selling price ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.51",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 488.56,
+    "end": 488.91,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "'Kay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.52",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 496.02,
+    "end": 497.6,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um , can we just go over that again ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.93",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 497.99,
+    "end": 498.46,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Sure ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.53",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 499.16,
+    "end": 502.11,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Uh , so bas at twel"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.54",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 502.11,
+    "end": 504.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Alright , yeah . Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.55",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 505.28,
+    "end": 509.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So cost like production cost is twelve fifty ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.94",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 508.17,
+    "end": 508.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "All together ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.56",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 509.26,
+    "end": 513.06,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "but selling price is is that wholesale or retail ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.57",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 513.06,
+    "end": 514.0,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Like on the shelf ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.95",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 515.16,
+    "end": 516.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um I dunno ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.99",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 516.78,
+    "end": 517.97,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I imagine"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.96",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 517.97,
+    "end": 518.91,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That's a good question ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.59",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 518.31,
+    "end": 520.65,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Our sale our sale anyway ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.97",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 519.67,
+    "end": 521.58,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I imagine it probably is our sale actually"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.58",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 520.65,
+    "end": 522.57,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah , okay okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.98",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 521.58,
+    "end": 530.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "because it's probably up to the the um the retailer to uh sell it for whatever price they want . Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.60",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 526.79,
+    "end": 527.05,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.61",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 528.9,
+    "end": 529.14,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.62",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 531.58,
+    "end": 531.81,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Alright ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.106",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 531.83,
+    "end": 532.46,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "But I I don't know ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.100",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 532.46,
+    "end": 538.19,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "I mean do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.63",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 538.77,
+    "end": 539.13,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.107",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 539.31,
+    "end": 541.17,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Think it will ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.64",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 540.69,
+    "end": 540.94,
+    "dialogue_act": "Unknown",
+    "type_id": null,
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.102",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 541.17,
+    "end": 542.15,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.65",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 543.86,
+    "end": 544.12,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.101",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 545.43,
+    "end": 546.06,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.66",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 548.28,
+    "end": 554.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Well right away I'm wondering if there's um th th uh , like with D_V_D_ players , if there are zones ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.108",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 553.78,
+    "end": 554.46,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh yeah ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.67",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 554.28,
+    "end": 557.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um f frequencies or something"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.109",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 554.46,
+    "end": 556.62,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "regions and stuff , yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.110",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 556.62,
+    "end": 557.56,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.68",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 557.41,
+    "end": 561.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um as well as uh characters ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.111",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 557.56,
+    "end": 558.06,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.69",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 561.17,
+    "end": 565.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um different uh keypad styles and s symbols ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.30",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 565.05,
+    "end": 565.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.112",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 565.13,
+    "end": 565.93,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.113",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 565.93,
+    "end": 568.3,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Well for a remote control , do you think that will be"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.70",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 566.17,
+    "end": 566.7,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.114",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 568.3,
+    "end": 571.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I suppose it's depends on how complicated our remote control is ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.71",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 568.46,
+    "end": 568.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.72",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 571.22,
+    "end": 571.58,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.31",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 571.74,
+    "end": 574.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It does make sense from maybe the design point of view"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.32",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 574.91,
+    "end": 580.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause you have more complicated characters like European languages , then you need more buttons ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.115",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 580.42,
+    "end": 583.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.73",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 580.66,
+    "end": 580.94,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.33",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 581.3,
+    "end": 582.52,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "So , possibly ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.75",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 582.33,
+    "end": 583.5,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.117",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 583.04,
+    "end": 583.9,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.76",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 583.5,
+    "end": 587.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And then a and then al the other thing international is on top of the price ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.77",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 587.78,
+    "end": 596.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm thinking the price might might appeal to a certain market in one region , whereas in another it'll be different , so"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.118",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 597.79,
+    "end": 600.43,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "What , just like in terms of like the wealth of the country ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.74",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 598.26,
+    "end": 600.01,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Just a chara just a characteristic of the"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.119",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 600.43,
+    "end": 603.43,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Like how much money people have to spend on things like ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.79",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 601.09,
+    "end": 601.65,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Just"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.80",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 602.87,
+    "end": 606.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Or just like , basic product podi positioning ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.81",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 606.29,
+    "end": 611.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the twenty five Euro remote control might be a big hit in London ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.82",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 611.16,
+    "end": 615.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "might not be such a big hit in Greece ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.84",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 615.2,
+    "end": 615.98,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "who knows ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.120",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 615.74,
+    "end": 617.28,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Aye , I see what you mean , yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.85",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 615.98,
+    "end": 616.94,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "something like that , yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.121",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 619.01,
+    "end": 620.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Marketing ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.122",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 620.06,
+    "end": 621.09,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Good marketing thoughts ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.86",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 620.48,
+    "end": 620.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.123",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 621.09,
+    "end": 621.49,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh gosh ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.124",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 621.49,
+    "end": 624.87,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I should be writing all this down . Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.87",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 655.45,
+    "end": 660.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Right away I'm making some kind of assumptions about what what information we're given here ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.125",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 660.7,
+    "end": 661.22,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.88",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 660.71,
+    "end": 665.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "thinking , 'kay trendy probably means something other than just basic ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.126",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 665.36,
+    "end": 665.84,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.89",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 665.64,
+    "end": 669.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "something other than just standard . Um"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.90",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 670.31,
+    "end": 672.15,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so I'm wondering right away ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.93",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 672.15,
+    "end": 674.38,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "is selling twenty five Euros , is that sort of the"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.92",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 674.38,
+    "end": 677.53,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "thi is this gonna to be like the premium product kinda thing or"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.127",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 677.15,
+    "end": 677.66,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.128",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 677.66,
+    "end": 680.53,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Like how much does , you know , a remote control cost ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.94",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 680.52,
+    "end": 680.81,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh-huh ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.129",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 681.66,
+    "end": 687.09,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Well twenty five Euro , I mean that's um that's about like eighteen pounds or something ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.130",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 687.09,
+    "end": 687.81,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "isn't it ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.95",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 687.72,
+    "end": 688.11,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.131",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 687.81,
+    "end": 688.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Or no ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.132",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 688.04,
+    "end": 689.7,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "is it as much as that ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.133",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 689.7,
+    "end": 691.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Sixteen seventeen eighteen pounds ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.96",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 689.77,
+    "end": 689.98,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.97",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 691.16,
+    "end": 691.33,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.98",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 691.33,
+    "end": 691.82,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'd say so ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.99",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 691.82,
+    "end": 691.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.135",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 692.42,
+    "end": 694.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , I dunno ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.136",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 694.16,
+    "end": 695.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I've never bought a remote control ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.137",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 695.53,
+    "end": 700.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so I don't know how how good a remote control that would get you . Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.100",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 696.23,
+    "end": 696.58,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "No ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.102",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 697.98,
+    "end": 699.19,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.103",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 699.19,
+    "end": 702.01,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.138",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 702.02,
+    "end": 705.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But yeah , I suppose it has to look kind of cool and gimmicky ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.104",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 704.03,
+    "end": 704.41,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.139",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 707.1,
+    "end": 710.07,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um right , okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.140",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 711.43,
+    "end": 713.81,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Let me just scoot on ahead here ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.141",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 713.81,
+    "end": 714.96,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.142",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 714.96,
+    "end": 721.44,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Um well d Does anybody have anything to add to uh to the finance issue at all ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.106",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 722.77,
+    "end": 727.01,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do we have any other background information on like how that compares to other"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.143",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 722.81,
+    "end": 723.0,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Thin"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.145",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 727.65,
+    "end": 728.32,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No , actually ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.146",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 728.32,
+    "end": 729.45,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That would be useful , though ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.108",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 728.35,
+    "end": 728.78,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "other"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.147",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 729.45,
+    "end": 729.81,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "wouldn't it ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.148",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 729.81,
+    "end": 732.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "if you knew like what your money would get you now ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.109",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 730.73,
+    "end": 731.07,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.34",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 732.32,
+    "end": 732.54,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.107",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 734.73,
+    "end": 735.08,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.144",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 735.11,
+    "end": 735.7,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.111",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 753.67,
+    "end": 759.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah , interesting thing about discussing um production of a remote control for me is that l"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.112",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 759.58,
+    "end": 760.59,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "as you point out ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.113",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 760.59,
+    "end": 767.74,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I just don't think of remote controls as somethin something people consciously assess in their purchasing habits ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.149",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 767.69,
+    "end": 768.25,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah , yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.114",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 767.74,
+    "end": 772.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's just like getting shoelaces with shoes or something ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.150",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 772.01,
+    "end": 772.14,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.115",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 772.49,
+    "end": 773.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It just comes along ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.152",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 772.8,
+    "end": 774.17,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Five minutes to end of meeting ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.153",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 774.17,
+    "end": 775.33,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh , okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.151",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 775.33,
+    "end": 776.97,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We're a bit behind ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.116",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 776.12,
+    "end": 777.67,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Do you know what I mean ?"
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.19",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 777.32,
+    "end": 777.89,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.117",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 777.67,
+    "end": 779.25,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Like so sort of like how do you"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.35",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 777.7,
+    "end": 778.02,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.118",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 779.25,
+    "end": 786.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I I mean one one way of looking at it would be , well the people producing television sets , maybe they have to buy remote controls ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.119",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 786.49,
+    "end": 793.63,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something ."
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.20",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 792.52,
+    "end": 793.22,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I know um"
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.17",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 794.52,
+    "end": 801.38,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.120",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 794.53,
+    "end": 794.97,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "But"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.121",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 799.88,
+    "end": 801.75,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Right . Right ."
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.18",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 801.38,
+    "end": 804.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So um for them it was just how many devices control ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.123",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 801.75,
+    "end": 802.2,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Okay so"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.122",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 804.47,
+    "end": 804.72,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Right ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.125",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 804.72,
+    "end": 810.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so in function one of the priorities might be to combine as many uses"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.154",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 806.46,
+    "end": 806.98,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.155",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 811.51,
+    "end": 815.56,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Right , so do you think that should be like a main design aim of our remote control d you know ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.124",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 814.98,
+    "end": 815.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I think so ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.156",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 815.56,
+    "end": 820.83,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "do your your satellite and your regular telly and your V_C_R_ and everything ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.127",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 815.81,
+    "end": 817.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah , yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.126",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 818.45,
+    "end": 818.67,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.128",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 819.79,
+    "end": 821.05,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well like um ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.129",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 821.05,
+    "end": 828.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.130",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 828.28,
+    "end": 834.09,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They're gone from being just like little sort of scribble boards to cameras , M_P_ three players , telephones ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.157",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 832.76,
+    "end": 833.2,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.131",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 835.22,
+    "end": 836.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "everything , agenda ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.132",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 836.31,
+    "end": 840.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So , like , I wonder if we might add something new to the to the remote control market ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.158",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 840.25,
+    "end": 840.69,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.133",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 840.68,
+    "end": 844.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "such as the lighting in your house , or um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.159",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 843.99,
+    "end": 847.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Or even like , you know , notes about um what you wanna watch ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.160",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 847.62,
+    "end": 850.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Like you might put in there oh I want to watch such and such and look a"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.134",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 849.08,
+    "end": 849.78,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.135",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 849.78,
+    "end": 851.06,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.161",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 850.33,
+    "end": 851.55,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh that's a good idea ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.136",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 851.06,
+    "end": 851.42,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "An"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.162",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 851.55,
+    "end": 853.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So extra functionalities ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.138",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 852.79,
+    "end": 853.54,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.139",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 853.54,
+    "end": 862.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Like , p personally for me , at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.140",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 862.9,
+    "end": 864.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So they w all work actually function together"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.141",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 864.62,
+    "end": 866.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but I have different remote controls for each of them ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.163",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 866.59,
+    "end": 867.24,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.142",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 866.91,
+    "end": 870.27,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "So it's sort of ironic that that then they're in there"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.137",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 872.03,
+    "end": 872.56,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "um"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.143",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 874.02,
+    "end": 876.45,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you know , the sound and everything it's just one system ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.144",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 876.45,
+    "end": 877.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But each one's got its own little"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.164",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 876.88,
+    "end": 877.46,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.145",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 878.95,
+    "end": 879.22,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "part ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.167",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 883.05,
+    "end": 885.66,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um okay ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.168",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 885.66,
+    "end": 886.62,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "uh I'd wel"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.166",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 886.62,
+    "end": 889.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we're gonna have to wrap up pretty quickly in the next couple of minutes ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.169",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 889.88,
+    "end": 891.96,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Um I'll just check we've nothing else"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.170",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 891.96,
+    "end": 892.58,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": ". Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.171",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 892.58,
+    "end": 898.27,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Um so anything else anybody wants to add about what they don't like about remote controls they've used ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.172",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 898.27,
+    "end": 902.62,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "what they would really like to be part of this new one at all ?"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.36",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 903.08,
+    "end": 903.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you keep losing them ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.173",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 904.6,
+    "end": 905.58,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "You keep losing them ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.146",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 904.75,
+    "end": 905.26,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.174",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 905.58,
+    "end": 906.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.37",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 906.45,
+    "end": 908.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Finding them is really a pain , you know ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.147",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 907.47,
+    "end": 909.26,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm . Mm ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.38",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 908.59,
+    "end": 910.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean it's usually quite small ,"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.39",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 910.62,
+    "end": 912.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "or when you want it right , it slipped behind the couch"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.148",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 911.1,
+    "end": 912.1,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.40",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 912.9,
+    "end": 914.44,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "or it's kicked under the table ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.175",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 913.17,
+    "end": 914.71,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.149",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 913.22,
+    "end": 913.58,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.178",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 914.71,
+    "end": 920.04,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "W You get those ones where you can , if you like , whistle or make a really high pitched noise they beep ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.150",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 914.77,
+    "end": 915.13,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.41",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 915.45,
+    "end": 916.11,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "You know ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.156",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 916.12,
+    "end": 916.97,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "That's just really good id"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.157",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 919.28,
+    "end": 919.69,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.179",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 920.04,
+    "end": 920.5,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "There"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.180",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 920.5,
+    "end": 922.53,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "I mean is that something we'd want to include , do you think ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.154",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 924.35,
+    "end": 925.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.181",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 925.37,
+    "end": 926.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Dunno ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.155",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 925.74,
+    "end": 927.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "sure ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.182",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 926.64,
+    "end": 927.4,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay maybe ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.151",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 927.64,
+    "end": 932.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I remember when the first remote control my my family had was on a cable ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.152",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 932.01,
+    "end": 933.48,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Actually had a cable between it and the T_V_"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.153",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 933.48,
+    "end": 937.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and big like buttons that sort of like , like on a blender or something ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.177",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 937.0,
+    "end": 937.62,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "My goodness ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.159",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 937.36,
+    "end": 938.4,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "And um , you know ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.160",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 938.4,
+    "end": 940.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "when I think about what they are now , it's better ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.161",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 940.72,
+    "end": 946.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but actually it's still kind of , I dunno , like a massive junky thing on the table ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.183",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 946.26,
+    "end": 948.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Still feels quite primitive ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.158",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 946.4,
+    "end": 952.63,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Maybe we could think about how , could be more , you know , streamlined . S"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.184",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 951.41,
+    "end": 952.78,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Maybe like a touch screen or something ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.162",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 953.06,
+    "end": 954.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Something like that , yeah ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.185",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 954.09,
+    "end": 954.42,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.163",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 954.2,
+    "end": 956.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Or whatever would be technologically reasonable ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.186",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 956.36,
+    "end": 957.42,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Uh-huh , okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.187",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 957.42,
+    "end": 959.3,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Well I guess that's up to our industrial designer ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.166",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 957.54,
+    "end": 959.24,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "'Cause it could b it could it could be that f"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.167",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 959.24,
+    "end": 961.34,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it could be that functionally that doesn't make it any better ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.168",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 961.34,
+    "end": 963.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but that just the appeal of of not having"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.189",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 962.22,
+    "end": 963.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It looks better ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.169",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 963.91,
+    "end": 969.56,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You know , these days there's a r pe things in people's homes are becoming more and more like chic , you know ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.190",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 969.0,
+    "end": 969.47,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.170",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 969.56,
+    "end": 971.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , nicer materials"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.171",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 971.36,
+    "end": 972.96,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and might be"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.191",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 971.85,
+    "end": 972.39,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.192",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 975.24,
+    "end": 975.63,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.172",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 975.57,
+    "end": 976.83,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "be worth exploring anyway ."
+  },
+  {
+    "id": "ES2002a.C.dialog-act.dharshi.21",
+    "speaker": "C",
+    "global_speaker": "MEE007",
+    "start": 976.66,
+    "end": 976.73,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Uh ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.198",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 977.17,
+    "end": 978.62,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right , well um"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.193",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 978.62,
+    "end": 979.73,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "so just to wrap up"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.194",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 979.73,
+    "end": 981.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the next meeting's gonna be in thirty minutes ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.195",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 981.67,
+    "end": 985.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So that's about um about ten to twelve by my watch ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.196",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 985.49,
+    "end": 994.81,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um so inbetween now and then , um as the industrial designer , you're gonna be working on you know the actual working design of it"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.42",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 993.88,
+    "end": 994.02,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.197",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 994.81,
+    "end": 996.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so y you know what you're doing there ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.199",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 996.69,
+    "end": 1000.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um for user interface , technical functions ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.200",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1000.99,
+    "end": 1003.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I guess that's you know like what we've been talking about ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.201",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1003.16,
+    "end": 1004.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "what it'll actually do ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.202",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1004.08,
+    "end": 1008.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um and uh marketing executive ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.203",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1010.02,
+    "end": 1016.48,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you'll be just thinking about what it actually what , you know , what requirements it has to has to fulfil"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.204",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1016.48,
+    "end": 1019.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and you'll all get instructions emailed to you , I guess ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.173",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1019.67,
+    "end": 1020.01,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.205",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1021.55,
+    "end": 1022.56,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.206",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1028.05,
+    "end": 1031.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah , so it's th the functional design stage is next , I guess ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.207",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1034.47,
+    "end": 1035.27,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "And uh"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.208",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1036.47,
+    "end": 1037.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and that's the end of the meeting ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.209",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1039.12,
+    "end": 1042.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So I got that little message a lot sooner than I thought I would , so"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.174",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1039.8,
+    "end": 1040.97,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.175",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1047.17,
+    "end": 1050.09,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Before we wrap up , just to make sure we're all on the same page here ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.210",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1049.54,
+    "end": 1050.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.176",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1050.09,
+    "end": 1052.89,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "um , do we"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.177",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1052.89,
+    "end": 1056.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We were given sort of an example of a coffee machine or something ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.211",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1056.3,
+    "end": 1057.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh-huh , yeah ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.178",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1056.51,
+    "end": 1057.14,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "right ?"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.43",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1056.93,
+    "end": 1057.09,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.179",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1057.14,
+    "end": 1057.41,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.180",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1058.61,
+    "end": 1059.15,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "um"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.181",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1060.99,
+    "end": 1067.54,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "are we at ma right now on the assumption that our television remote control may have features which go beyond the television ?"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.182",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1067.54,
+    "end": 1073.79,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Or are we keeping sort of like a a design commitment to television features ?"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.212",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1068.76,
+    "end": 1068.8,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Th"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.213",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1073.56,
+    "end": 1073.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.183",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1073.79,
+    "end": 1074.44,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I I don't know ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.214",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1073.97,
+    "end": 1075.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "well just very quickly"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.215",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1075.12,
+    "end": 1076.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'cause this we're supposed to finish now ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.185",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1076.56,
+    "end": 1077.45,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.216",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1076.64,
+    "end": 1079.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um I guess that's up to us ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.186",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1077.45,
+    "end": 1078.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , sure ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.217",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1079.1,
+    "end": 1082.39,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I mean you probably want some kind of unique selling point of it ,"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.184",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1081.99,
+    "end": 1082.38,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.218",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1082.39,
+    "end": 1084.8,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so um , you know"
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.44",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1084.36,
+    "end": 1086.91,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think one factor would be production cost ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.187",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1086.96,
+    "end": 1087.76,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay , yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.45",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1087.57,
+    "end": 1088.74,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Because there's a cap there ,"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.219",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1087.59,
+    "end": 1088.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.46",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1088.74,
+    "end": 1094.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so um depends on how much you can cram into that price . Um ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.188",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1089.89,
+    "end": 1090.23,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.220",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1093.82,
+    "end": 1094.41,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.189",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1093.83,
+    "end": 1094.13,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.221",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1095.78,
+    "end": 1096.16,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.47",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1096.03,
+    "end": 1098.43,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think that that's the main factor ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.222",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1098.51,
+    "end": 1099.43,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.190",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1098.52,
+    "end": 1098.85,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.225",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1099.43,
+    "end": 1103.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Right , okay , we'll that's that's the end of the meeting , then . Um"
+  },
+  {
+    "id": "ES2002a.D.dialog-act.dharshi.193",
+    "speaker": "D",
+    "global_speaker": "MEE008",
+    "start": 1102.4,
+    "end": 1102.86,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Alright ."
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.223",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1104.58,
+    "end": 1105.58,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So , uh"
+  },
+  {
+    "id": "ES2002a.B.dialog-act.dharshi.224",
+    "speaker": "B",
+    "global_speaker": "FEE005",
+    "start": 1106.58,
+    "end": 1109.39,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "thank you all for coming ."
+  },
+  {
+    "id": "ES2002a.A.dialog-act.dharshi.48",
+    "speaker": "A",
+    "global_speaker": "MEE006",
+    "start": 1109.23,
+    "end": 1109.45,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Cool ."
+  }
+]

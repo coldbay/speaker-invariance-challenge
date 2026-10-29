@@ -1,0 +1,6222 @@
+[
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.1",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 37.25,
+    "end": 38.01,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.1",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 38.71,
+    "end": 40.89,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Or you get it ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.2",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 40.89,
+    "end": 41.34,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.2",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 44.93,
+    "end": 45.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No I don't think so"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.3",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 45.83,
+    "end": 48.14,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "it has to be like that"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.4",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 48.14,
+    "end": 49.86,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.5",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 49.86,
+    "end": 51.42,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and you have to adjust the length ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.6",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 70.02,
+    "end": 72.86,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay , and then ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.1",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 93.56,
+    "end": 94.15,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.2",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 94.15,
+    "end": 97.48,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we uh we will wait for Anna , a few minutes ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.7",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 96.02,
+    "end": 99.02,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , s yeah , um ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.4",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 104.96,
+    "end": 105.45,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.5",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 105.45,
+    "end": 107.68,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yours is well"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.8",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 110.91,
+    "end": 113.13,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think you can put anywhere you want , actually ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.6",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 114.31,
+    "end": 114.5,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.9",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 114.49,
+    "end": 114.73,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "I thin"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.7",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 114.5,
+    "end": 116.34,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but the the mic should not"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.10",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 116.89,
+    "end": 118.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's not a directional mic , anyway ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.3",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 122.88,
+    "end": 126.94,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think it should work like this ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.11",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 126.4,
+    "end": 126.88,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Uh ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.4",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 126.94,
+    "end": 133.43,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "So I will try to get my presentation running ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.9",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 133.07,
+    "end": 134.12,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.12",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 133.51,
+    "end": 134.26,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.5",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 138.26,
+    "end": 138.75,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.10",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 141.52,
+    "end": 141.98,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.11",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 141.98,
+    "end": 142.97,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Can't help you with that ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.13",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 143.39,
+    "end": 144.61,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "Last ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.6",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 144.84,
+    "end": 147.15,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "It's no matter ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.12",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 144.85,
+    "end": 145.11,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.13",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 145.11,
+    "end": 145.38,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "it's y"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.14",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 145.38,
+    "end": 145.79,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.7",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 148.98,
+    "end": 149.33,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "No problem ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.8",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 150.61,
+    "end": 150.93,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.9",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 150.93,
+    "end": 151.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "yes ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.15",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 154.37,
+    "end": 154.61,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Right ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.14",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 158.83,
+    "end": 159.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.16",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 161.88,
+    "end": 163.89,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Then press uh al"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.15",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 165.23,
+    "end": 165.59,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.17",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 165.37,
+    "end": 166.36,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "This ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.10",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 166.09,
+    "end": 167.57,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "I don't know ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.18",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 166.36,
+    "end": 166.72,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "You know ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.11",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 167.57,
+    "end": 168.13,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Just try ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.16",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 169.27,
+    "end": 169.47,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "'Kay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.12",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 169.96,
+    "end": 171.13,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "On this normal"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.19",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 170.19,
+    "end": 170.87,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh oh ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.17",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 171.11,
+    "end": 172.43,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Alt F_ five ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.13",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 174.1,
+    "end": 174.96,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Good ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.14",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 174.96,
+    "end": 176.95,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Doesn't appear on the screen here ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.21",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 179.28,
+    "end": 181.26,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Right well"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.15",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 183.66,
+    "end": 183.87,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.22",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 184.08,
+    "end": 186.39,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Wow . Amazing ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.24",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 186.39,
+    "end": 188.8,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's working ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.16",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 188.04,
+    "end": 189.32,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.17",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 189.32,
+    "end": 192.49,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thank you . Uh ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.1",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 208.3,
+    "end": 208.68,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Hold that ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.18",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 212.93,
+    "end": 213.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yes"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.19",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 213.12,
+    "end": 215.07,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and you can put can clip it uh on your"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.2",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 213.26,
+    "end": 213.44,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.20",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 216.44,
+    "end": 216.87,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Somewhere ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.3",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 216.64,
+    "end": 217.97,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay . Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.21",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 224.47,
+    "end": 225.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.22",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 225.52,
+    "end": 226.35,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "good morning , everyone ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.23",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 227.6,
+    "end": 227.95,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.24",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 229.22,
+    "end": 233.5,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Welcome at uh at the kick off meeting of our uh latest project ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.25",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 233.5,
+    "end": 235.93,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I hope you all have been uh updated about it ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.26",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 236.98,
+    "end": 237.34,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.26",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 238.52,
+    "end": 239.02,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Good ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.18",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 238.76,
+    "end": 239.89,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "So . Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.27",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 240.34,
+    "end": 240.6,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.28",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 240.6,
+    "end": 247.91,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "w we will try to structure this uh meeting with an a with an agenda uh as presented here ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.29",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 247.91,
+    "end": 255.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um after the opening we will tr get acquainted to each other ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.30",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 255.03,
+    "end": 257.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "See what our roles are in this project ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.31",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 258.77,
+    "end": 260.24,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So , um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.32",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 262.14,
+    "end": 272.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We have been provided with uh some uh w technical tools to uh to communicate and to well , learn from each other's plans"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.33",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 272.66,
+    "end": 274.89,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "uh as I can say"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.34",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 274.89,
+    "end": 276.02,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "um so"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.35",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 276.02,
+    "end": 282.73,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "w we will also try to uh to get acquainted to this tools"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.37",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 282.73,
+    "end": 283.25,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.38",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 283.25,
+    "end": 284.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "they are also new to me"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.39",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 284.64,
+    "end": 288.56,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know whether you worked with them before ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.40",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 288.56,
+    "end": 293.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um then we will come to the uh to the to the actual project plan ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.41",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 293.77,
+    "end": 300.17,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "You all know I hope how it's about uh the uh new r remote control we are going going to design ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.4",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 298.36,
+    "end": 298.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.20",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 299.33,
+    "end": 299.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Total ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.42",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 301.7,
+    "end": 304.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh then we will uh discuss"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.43",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 304.58,
+    "end": 306.72,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "uh , well , how it should be"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.44",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 306.72,
+    "end": 313.46,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "and uh wh what uh what our new product should look lite like ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.45",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 313.46,
+    "end": 319.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And uh well then uh after some twenty five minutes I hope uh we can end this meeting ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.46",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 322.58,
+    "end": 325.67,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So . Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.47",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 325.67,
+    "end": 331.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "basically this is about a uh a new c remote control . Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.48",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 334.07,
+    "end": 335.77,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "We"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.49",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 335.77,
+    "end": 339.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "When you design a new product you of uh you of course want it to be original ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.50",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 339.99,
+    "end": 340.64,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Be uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.51",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 340.64,
+    "end": 342.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we want to be distinguished ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.52",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 342.1,
+    "end": 342.62,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "mm ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.53",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 342.62,
+    "end": 350.37,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "People uh want to uh when they look at the shelf want to think , well that's the product I I need ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.54",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 350.37,
+    "end": 352.04,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So it needs to be trendy ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.55",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 352.04,
+    "end": 353.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean trendy is what people want ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.56",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 353.65,
+    "end": 355.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so then I w they will buy our product ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.57",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 357.68,
+    "end": 362.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "But then , uh , it also should work uh user friendly"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.58",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 362.8,
+    "end": 373.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh otherwise people uh uh well it will not be uh be rated very well in consumer uh articles and like that ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.59",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 378.66,
+    "end": 379.12,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.60",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 379.12,
+    "end": 391.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the general outline of uh new project will be we first uh go through a functional design phase . Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.61",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 392.96,
+    "end": 398.25,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You all get uh um certain task uh in this uh in this phase"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.62",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 398.25,
+    "end": 403.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh then we will meet again"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.63",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 403.1,
+    "end": 405.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh discuss this functional design ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.64",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 405.76,
+    "end": 418.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And the same holds for the uh ph two phases uh after this , the conceptual design and after that a a more detailed design"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.66",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 418.83,
+    "end": 423.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "in which the the final project should get its definite shape ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.67",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 426.45,
+    "end": 426.79,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Alright ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.68",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 426.79,
+    "end": 429.45,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but first we will do some uh tool training ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.69",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 431.25,
+    "end": 438.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "In all in front of you uh you see uh the uh notebooks and w uh n note blocks"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.70",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 438.6,
+    "end": 443.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and we have here a a a a white-board ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.21",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 442.8,
+    "end": 443.41,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Whitebo"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.5",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 443.55,
+    "end": 443.74,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.71",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 445.88,
+    "end": 448.93,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "And um well it should work uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.72",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 448.93,
+    "end": 454.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I've read it from my uh from some colleague that it should work with some kind of toolbar ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.73",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 454.57,
+    "end": 456.73,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I didn't find out yet how it work ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.74",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 456.73,
+    "end": 460.8,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "but maybe one of you did , so Um"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.28",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 461.0,
+    "end": 463.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Under documents in the shared folder ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.29",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 463.1,
+    "end": 463.33,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.75",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 464.26,
+    "end": 465.55,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.76",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 465.55,
+    "end": 467.41,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do Do we have to say something about that ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.77",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 467.41,
+    "end": 471.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I I I'm not fully updated about this shared folder uh ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.30",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 472.5,
+    "end": 472.63,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.31",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 472.63,
+    "end": 476.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I guess we'll have a shared folder uh with documents that we can share ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.32",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 476.57,
+    "end": 478.41,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "And uh , yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.78",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 478.02,
+    "end": 478.51,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yes well"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.79",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 478.51,
+    "end": 482.05,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we will then find out ho how it works ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.33",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 482.66,
+    "end": 483.05,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.80",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 483.65,
+    "end": 486.7,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um . Well ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.81",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 486.7,
+    "end": 489.34,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "this seems to me , yes , some computer program"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.82",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 489.34,
+    "end": 490.47,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but I didn't find it yet ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.83",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 492.0,
+    "end": 492.87,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.84",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 492.87,
+    "end": 493.83,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we'll come to that later ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.85",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 495.3,
+    "end": 498.25,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So , uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.86",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 498.25,
+    "end": 500.32,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "now we will try out the white-board we have here ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.87",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 502.29,
+    "end": 502.68,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.88",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 504.97,
+    "end": 507.19,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I would suggest uh"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.34",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 507.51,
+    "end": 508.51,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Each of us is going ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.89",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 508.8,
+    "end": 509.21,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.90",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 509.21,
+    "end": 509.76,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yes ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.91",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 509.76,
+    "end": 513.95,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "um we uh we should try to t to draw on it"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.92",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 513.95,
+    "end": 517.07,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and then well it should be smart some way ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.93",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 517.07,
+    "end": 521.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I I'm not really sure how this works , but"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.35",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 521.19,
+    "end": 521.68,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.36",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 521.68,
+    "end": 522.32,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "shall I start ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.6",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 522.34,
+    "end": 523.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm . Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.22",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 522.47,
+    "end": 522.84,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.23",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 522.84,
+    "end": 524.08,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "you can start it you know ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.94",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 522.85,
+    "end": 523.19,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.95",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 523.19,
+    "end": 524.93,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "a good idea Mael ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.7",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 524.13,
+    "end": 526.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think for us it's just like a normal whiteboard ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.8",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 526.57,
+    "end": 528.7,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but they'll be recording what we write down ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.37",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 527.85,
+    "end": 528.13,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.38",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 528.13,
+    "end": 528.72,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "i"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.24",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 528.85,
+    "end": 529.09,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "No"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.25",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 529.09,
+    "end": 530.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "they will record through that ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.26",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 530.24,
+    "end": 531.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "There's a sensor over there"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.9",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 531.12,
+    "end": 532.15,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm . Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.27",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 531.42,
+    "end": 533.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "which is going to record the strokes that you make ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.10",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 533.24,
+    "end": 535.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But for us it's just like a normal whiteboard ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.96",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 533.61,
+    "end": 533.85,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.28",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 534.97,
+    "end": 535.26,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.97",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 536.23,
+    "end": 536.45,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "'Kay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.39",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 539.8,
+    "end": 540.26,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "But it's"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.40",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 545.11,
+    "end": 547.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Actually , I think I cannot go with uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.98",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 548.4,
+    "end": 548.86,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "You you"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.99",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 551.54,
+    "end": 552.38,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "D doesn't it work ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.100",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 553.6,
+    "end": 554.23,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Maybe someo"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.101",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 554.23,
+    "end": 556.82,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Maybe maybe Anna , maybe you can start ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.12",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 555.66,
+    "end": 555.88,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.41",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 555.73,
+    "end": 556.98,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.102",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 556.82,
+    "end": 560.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Then he can maybe find out to get his cord right ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.13",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 562.38,
+    "end": 563.09,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "I have to draw ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.103",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 562.6,
+    "end": 564.24,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.104",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 565.16,
+    "end": 566.17,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "L"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.105",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 566.17,
+    "end": 571.23,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Why don't you draw uh your favourite animal on on th on the white-board ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.14",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 570.62,
+    "end": 573.58,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "M my my favourite animal ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.15",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 573.58,
+    "end": 573.82,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Sorry"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.16",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 573.82,
+    "end": 574.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "this is all tangled up here ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.106",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 579.42,
+    "end": 581.59,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh , I see uh"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.17",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 580.98,
+    "end": 581.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That's better ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.30",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 584.46,
+    "end": 584.79,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.107",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 585.56,
+    "end": 588.46,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Yeah . Yes . Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.108",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 594.54,
+    "end": 595.05,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So draw it ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.109",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 595.05,
+    "end": 597.32,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "We will try to guess what it is ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.19",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 595.69,
+    "end": 597.19,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.20",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 597.19,
+    "end": 600.65,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "I'm a very bad drawer ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.21",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 602.83,
+    "end": 603.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Weird ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.22",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 607.11,
+    "end": 610.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um . You're not gonna be able to guess from my drawing ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.23",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 610.75,
+    "end": 611.89,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "I'm a bad drawer ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.24",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 611.89,
+    "end": 612.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.111",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 614.73,
+    "end": 614.94,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.25",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 617.71,
+    "end": 619.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They're ears , by the way ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.31",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 617.72,
+    "end": 618.37,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "'s a cat ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.26",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 619.08,
+    "end": 619.87,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "No ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.27",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 619.87,
+    "end": 621.18,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Um close though ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.28",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 626.75,
+    "end": 627.43,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay so"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.29",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 627.43,
+    "end": 628.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "like a pet animal ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.43",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 632.98,
+    "end": 633.31,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.30",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 636.19,
+    "end": 636.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Like a cat ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.32",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 637.14,
+    "end": 637.55,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.112",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 639.34,
+    "end": 640.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's like a cat ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.113",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 640.08,
+    "end": 641.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so I guess it's a cat ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.31",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 641.35,
+    "end": 641.93,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.32",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 641.93,
+    "end": 643.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "not a cat though ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.114",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 645.03,
+    "end": 645.8,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "What is this now ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.33",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 658.87,
+    "end": 660.22,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Ah you forget about it ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.44",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 661.6,
+    "end": 662.25,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "You're on the knife ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.34",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 662.65,
+    "end": 663.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.35",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 663.75,
+    "end": 667.23,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "uh I think it's fine ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.36",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 667.23,
+    "end": 669.07,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I just don't want to carry it off ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.37",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 671.29,
+    "end": 673.26,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Man , this wires ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.38",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 673.26,
+    "end": 673.41,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "eh ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.39",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 673.41,
+    "end": 675.01,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "We need a wireless microphone ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.40",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 678.79,
+    "end": 680.79,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "You know ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.41",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 680.79,
+    "end": 681.73,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Pro specially we should"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.42",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 681.73,
+    "end": 683.56,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "next project we should take l like that ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.115",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 688.88,
+    "end": 690.15,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.33",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 688.96,
+    "end": 690.26,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay . So ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.116",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 690.15,
+    "end": 691.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that's the cat ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.34",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 690.26,
+    "end": 691.32,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "It's not a cat ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.117",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 691.14,
+    "end": 691.36,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.35",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 691.32,
+    "end": 692.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's a dog ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.43",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 691.38,
+    "end": 691.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.46",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 691.54,
+    "end": 691.79,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mael ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.118",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 692.26,
+    "end": 692.78,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "It's a dog ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.36",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 692.77,
+    "end": 694.56,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.119",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 694.35,
+    "end": 694.56,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.120",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 694.56,
+    "end": 696.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but that's also kind of cat ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.44",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 695.69,
+    "end": 695.84,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.45",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 695.84,
+    "end": 697.12,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "the dog doesn't have a tail ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.121",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 696.2,
+    "end": 696.81,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "isn't it ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.37",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 697.62,
+    "end": 698.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's got a tail then ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.122",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 697.88,
+    "end": 699.68,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "B bo both predators ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.46",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 698.95,
+    "end": 701.37,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , sure , yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.38",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 700.6,
+    "end": 701.48,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.47",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 701.37,
+    "end": 703.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I thought so . The dogs have a tail ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.123",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 703.29,
+    "end": 703.47,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.124",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 703.47,
+    "end": 704.0,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "thank you ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.39",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 703.49,
+    "end": 705.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So do cats ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.125",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 704.0,
+    "end": 706.66,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Uh d did you uh work out cord ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.40",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 705.53,
+    "end": 707.73,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you guessed cats without a tail ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.49",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 708.06,
+    "end": 708.48,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.48",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 708.52,
+    "end": 708.75,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.49",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 708.75,
+    "end": 712.0,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I think I will go without without it ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.41",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 710.34,
+    "end": 710.67,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.50",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 712.0,
+    "end": 712.21,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.126",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 712.4,
+    "end": 712.78,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.50",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 715.86,
+    "end": 717.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It'll still not extend ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.51",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 717.18,
+    "end": 717.41,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.52",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 717.41,
+    "end": 718.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's not up to that ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.42",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 722.42,
+    "end": 723.78,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Okay , there you go ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.43",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 723.78,
+    "end": 724.13,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.44",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 724.13,
+    "end": 729.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "what favourite characteristics . Uh . Dogs are always friendly and loyal and fun ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.45",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 750.07,
+    "end": 750.58,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "A horse ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.53",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 750.59,
+    "end": 751.47,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a horse ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.46",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 755.75,
+    "end": 757.54,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "This is why you're the designer ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.47",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 757.54,
+    "end": 761.93,
+    "dialogue_act": "Be-Negative",
+    "type_id": "ami_da_15",
+    "text": "And I'm marketing ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.127",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 757.81,
+    "end": 762.76,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes . Yes , yes this is Yes definitely a horse . Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.128",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 762.76,
+    "end": 766.51,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh very good . So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.48",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 766.79,
+    "end": 767.4,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.129",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 767.71,
+    "end": 768.7,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I suppose it"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.54",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 768.01,
+    "end": 768.58,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.55",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 768.58,
+    "end": 770.1,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think you can put that ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.49",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 775.57,
+    "end": 776.48,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm . That's it ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.50",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 782.56,
+    "end": 784.09,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "A blue and black zebra ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.130",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 785.25,
+    "end": 786.41,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.131",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 790.23,
+    "end": 792.47,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Can you can meet them in Africa , I think ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.132",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 792.47,
+    "end": 794.37,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes . Very good . So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.52",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 794.55,
+    "end": 796.42,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "The very rare blue zebras . Yes ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.57",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 796.94,
+    "end": 800.11,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I'll tell to get it off my"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.133",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 798.05,
+    "end": 798.77,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Ma Matthew ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.58",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 805.41,
+    "end": 805.84,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Uh ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.59",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 809.24,
+    "end": 810.24,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.134",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 809.98,
+    "end": 810.26,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.53",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 813.44,
+    "end": 814.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You got a lot of room here ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.135",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 813.7,
+    "end": 813.98,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Maybe"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.54",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 814.33,
+    "end": 815.66,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You can probably reach ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.60",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 815.64,
+    "end": 815.72,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.61",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 815.72,
+    "end": 815.99,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "y"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.62",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 815.99,
+    "end": 816.9,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "it's not for that ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.55",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 817.25,
+    "end": 817.43,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "No ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.63",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 817.84,
+    "end": 817.95,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "No ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.136",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 818.54,
+    "end": 822.24,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I hope you have some space in your uh the horse of uh Mael ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.64",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 820.64,
+    "end": 821.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Okay . Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.65",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 826.41,
+    "end": 827.56,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "So what should I draw ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.67",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 827.56,
+    "end": 827.78,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.66",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 828.82,
+    "end": 831.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "He has already to do cat ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.56",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 831.48,
+    "end": 834.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I took a dog ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.57",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 841.26,
+    "end": 844.45,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Um . A mouse ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.137",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 849.43,
+    "end": 855.43,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "This looks likes a cat who has been driven over ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.58",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 856.36,
+    "end": 856.93,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.52",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 857.49,
+    "end": 860.58,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.53",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 860.58,
+    "end": 864.45,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And we should sum up its favourite charas characteristics ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.54",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 864.45,
+    "end": 865.26,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.59",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 866.37,
+    "end": 867.98,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.139",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 870.23,
+    "end": 871.48,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Yes , the moustache ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.55",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 872.3,
+    "end": 872.93,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.140",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 873.42,
+    "end": 874.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "That's that's definitely a cat ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.60",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 875.13,
+    "end": 875.36,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.56",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 875.62,
+    "end": 876.82,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Uh yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.57",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 876.82,
+    "end": 878.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And i Th They like to sleep ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.58",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 878.88,
+    "end": 881.92,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "that's why you said you they are like this ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.59",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 887.17,
+    "end": 887.31,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.141",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 889.07,
+    "end": 893.74,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's quite , you know relaxed situation ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.142",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 893.74,
+    "end": 894.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.62",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 894.95,
+    "end": 895.23,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.144",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 906.2,
+    "end": 909.13,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes , okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.61",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 911.75,
+    "end": 912.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "She has the small legs ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.145",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 912.96,
+    "end": 913.81,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Th thank you , Matthew ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.62",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 914.06,
+    "end": 915.28,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.63",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 919.12,
+    "end": 922.24,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thank you , Matthew ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.64",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 922.14,
+    "end": 926.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It's a very big rat . Or a very small cat ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.64",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 922.24,
+    "end": 922.67,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Perfect ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.65",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 923.86,
+    "end": 924.14,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.66",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 924.14,
+    "end": 925.43,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "a rat , okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.147",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 927.93,
+    "end": 934.19,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes , this is certain uh some contribution to our project ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.67",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 932.51,
+    "end": 934.11,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "And you ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.65",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 932.88,
+    "end": 933.19,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm 'kay ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.66",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 933.59,
+    "end": 934.92,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Your turn ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.149",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 934.19,
+    "end": 937.92,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So . Let's see ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.150",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 937.92,
+    "end": 940.57,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Which animal has not been drawn yet ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.151",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 952.27,
+    "end": 952.44,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.152",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 952.44,
+    "end": 954.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you've all drawn land animals ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.153",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 954.11,
+    "end": 957.21,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "so why not draw an animal from the water ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.68",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 956.47,
+    "end": 957.86,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "A bird ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.69",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 957.86,
+    "end": 958.51,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay , in the water ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.69",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 968.95,
+    "end": 969.31,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.70",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 969.31,
+    "end": 971.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I don't know what that is ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.71",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 971.26,
+    "end": 971.55,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "It's a bit"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.70",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 971.35,
+    "end": 972.64,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.72",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 972.66,
+    "end": 973.76,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "It's a bit hard to guess ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.71",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 973.84,
+    "end": 978.36,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.154",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 976.13,
+    "end": 977.09,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.68",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 977.43,
+    "end": 977.65,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.72",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 978.36,
+    "end": 979.02,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Put it colours ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.73",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 979.02,
+    "end": 980.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Maybe it would help us ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.74",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 980.0,
+    "end": 980.37,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.155",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 980.64,
+    "end": 980.94,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.69",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 981.22,
+    "end": 983.27,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "The cat is going to eat the fish or the rat ?"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.74",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 982.85,
+    "end": 984.46,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "With different pen widths ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.75",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 984.64,
+    "end": 985.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.157",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 987.27,
+    "end": 987.77,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.76",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 993.41,
+    "end": 993.51,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.77",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 993.51,
+    "end": 994.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's a shark now ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.75",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 994.15,
+    "end": 994.24,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.76",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 994.24,
+    "end": 994.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's a shark ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.77",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 994.83,
+    "end": 995.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.158",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 996.0,
+    "end": 996.26,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.159",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 996.26,
+    "end": 997.86,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yes , why not ?"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.160",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 997.86,
+    "end": 998.93,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Good idea ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.70",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 999.36,
+    "end": 999.43,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.71",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 999.43,
+    "end": 1001.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's a baby shark , it looks to me ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.72",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1001.28,
+    "end": 1005.38,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "you know it's going to eat the cat rather than the cat eating the fish , no ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.79",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1001.3,
+    "end": 1001.57,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.79",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1004.83,
+    "end": 1005.49,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Oh ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.80",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1005.67,
+    "end": 1007.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Now it's a swordfish ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.162",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1010.46,
+    "end": 1011.43,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Why not . A swordfish ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.80",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1010.87,
+    "end": 1012.47,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You have some in in Australia ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.81",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1012.47,
+    "end": 1013.64,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.82",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1013.07,
+    "end": 1014.29,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Swordfish ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.82",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1013.64,
+    "end": 1014.31,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.83",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1014.29,
+    "end": 1016.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Um , maybe ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.83",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1014.31,
+    "end": 1015.02,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I dunno ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.84",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1017.36,
+    "end": 1018.48,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I've never seen one , no ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.85",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1017.6,
+    "end": 1017.87,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh well ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.84",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1018.86,
+    "end": 1019.04,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.164",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1022.01,
+    "end": 1024.36,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "I hope it still works ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.86",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1023.89,
+    "end": 1024.39,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Perfect ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.165",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1024.36,
+    "end": 1024.62,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.87",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1024.39,
+    "end": 1024.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.88",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1024.52,
+    "end": 1027.94,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "I dunno if we need to spend time on that , actually"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.89",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1027.94,
+    "end": 1028.84,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "But uh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.73",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1028.48,
+    "end": 1030.96,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You should go for the next one it seems to me ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.166",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1029.29,
+    "end": 1030.06,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "W Well ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.167",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1030.06,
+    "end": 1033.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "this uh this tool seemed to work ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.90",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1033.04,
+    "end": 1034.18,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , exactly , yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.85",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1033.27,
+    "end": 1033.71,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.168",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1033.78,
+    "end": 1036.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Let's continue to uh to the real stuff ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.91",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1035.93,
+    "end": 1037.38,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Wow ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.169",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1039.08,
+    "end": 1045.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um our project uh finance uh thing ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.170",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1045.01,
+    "end": 1056.44,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh when we are and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.171",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1056.44,
+    "end": 1067.25,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so when designing a project uh I also look at you uh Mael , keep in mind uh uh uh People uh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.74",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1059.18,
+    "end": 1059.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Twenty four ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.92",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1064.39,
+    "end": 1064.54,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.172",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1068.31,
+    "end": 1072.91,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "want to get the feeling this is a twenty five Euro project uh pr um"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.93",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1073.59,
+    "end": 1074.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Per remote control ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.173",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1074.05,
+    "end": 1074.54,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "product ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.94",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1074.66,
+    "end": 1075.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.86",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1074.99,
+    "end": 1075.36,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.95",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1075.04,
+    "end": 1075.89,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Per project ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.174",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1076.13,
+    "end": 1076.83,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.175",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1076.83,
+    "end": 1079.09,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay . Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.176",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1079.09,
+    "end": 1086.04,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "more interesting for our company of course , p uh profit aim , about fifty million Euro ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.177",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1086.04,
+    "end": 1087.85,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.178",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1087.85,
+    "end": 1095.07,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we have to sell uh quite a lot of this uh um things ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.179",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1095.07,
+    "end": 1098.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh we will try to uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.180",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1099.43,
+    "end": 1101.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "to get at a international market"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.181",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1101.18,
+    "end": 1102.24,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "uh so um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.182",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1102.24,
+    "end": 1106.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it will be I think mainly Europe and uh Northern America ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.75",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1106.68,
+    "end": 1108.98,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Ah yeah , the sale man , four million ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.183",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1107.91,
+    "end": 1109.44,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "maybe some uh Asian countries ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.184",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1111.01,
+    "end": 1125.07,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.97",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1124.0,
+    "end": 1128.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So it's half of the selling price , if I am good in mathematics ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.185",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1127.6,
+    "end": 1128.7,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes , of course ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.186",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1128.7,
+    "end": 1130.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh um I mean"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.187",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1130.81,
+    "end": 1133.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we still have to uh to make a profit ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.188",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1133.36,
+    "end": 1133.55,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "huh ?"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.98",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1133.72,
+    "end": 1134.32,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Of course ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.76",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1133.83,
+    "end": 1136.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They have to sell at least four million to make a profit"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.87",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1134.45,
+    "end": 1135.07,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.189",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1134.79,
+    "end": 1136.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "You all have to be paid ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.88",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1136.4,
+    "end": 1136.65,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.77",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1138.07,
+    "end": 1138.36,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.190",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1138.14,
+    "end": 1138.68,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Excuse me ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.78",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1138.36,
+    "end": 1139.0,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "we have to make"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.79",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1139.0,
+    "end": 1142.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we have to sell at least four million to make our own profit . Fifty mill"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.99",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1141.94,
+    "end": 1142.12,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.100",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1142.12,
+    "end": 1146.0,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "you're g very good in mathematics ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.89",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1143.36,
+    "end": 1143.65,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.191",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1145.19,
+    "end": 1146.7,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes , indeed ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.101",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1146.0,
+    "end": 1146.76,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Four million ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.192",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1148.25,
+    "end": 1149.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So uh well"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.102",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1149.19,
+    "end": 1149.39,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.193",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1149.52,
+    "end": 1155.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think w when we are working on the international market , uh in principle it has enough customers"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.194",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1155.99,
+    "end": 1156.69,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "uh so"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.195",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1156.69,
+    "end": 1161.24,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "when we have a good product we uh we could uh meet this this aim , I think ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.196",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1162.48,
+    "end": 1162.73,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.197",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1162.73,
+    "end": 1163.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that about finance ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.198",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1165.08,
+    "end": 1172.51,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And uh now just let have some discussion about what is a good remote control"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.199",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1172.51,
+    "end": 1176.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh well keep in mind this this first point , it has to be original ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.200",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1176.88,
+    "end": 1178.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it has to be trendy ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.201",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1178.11,
+    "end": 1179.44,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it has to be user friendly ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.202",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1182.06,
+    "end": 1191.67,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "Um , maybe someone can mention some additional uh prerequisites for a good remote control ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.90",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1190.32,
+    "end": 1190.53,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.82",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1195.54,
+    "end": 1197.42,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Of course it should have a on off button ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.91",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1197.71,
+    "end": 1197.98,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.203",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1198.92,
+    "end": 1199.57,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yes , well"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.204",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1199.57,
+    "end": 1204.43,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "i it should have the the the the expected functionality uh of a remote control ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.92",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1202.62,
+    "end": 1204.7,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm . Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.83",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1204.59,
+    "end": 1205.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.84",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1205.08,
+    "end": 1205.43,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "s"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.85",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1205.43,
+    "end": 1208.93,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "and it depends what application you are using it for ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.93",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1208.4,
+    "end": 1208.67,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.86",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1208.93,
+    "end": 1210.15,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "You might need uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.205",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1210.45,
+    "end": 1212.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We wer we were thinking television . Uh ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.94",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1212.05,
+    "end": 1212.3,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.87",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1212.33,
+    "end": 1214.95,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We are targ targeting the television set ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.88",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1214.95,
+    "end": 1216.03,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.95",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1215.71,
+    "end": 1215.92,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.89",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1216.03,
+    "end": 1219.45,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "you need to record the channels ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.96",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1217.97,
+    "end": 1218.14,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.206",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1218.97,
+    "end": 1219.3,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.90",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1219.45,
+    "end": 1226.73,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You need to browse the browse the channels in upward downward way ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.207",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1225.98,
+    "end": 1226.93,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes , yes ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.97",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1226.41,
+    "end": 1226.59,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.208",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1226.93,
+    "end": 1228.0,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Th th that's very handy"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.209",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1228.0,
+    "end": 1229.13,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I I always miss it"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.210",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1229.13,
+    "end": 1236.7,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.91",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1229.4,
+    "end": 1229.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Uh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.92",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1230.85,
+    "end": 1231.38,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "And"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.98",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1233.47,
+    "end": 1235.21,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm . Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.93",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1236.19,
+    "end": 1237.39,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Uh , and"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.103",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1237.12,
+    "end": 1240.5,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "And uh just before starting the detailed discussion , maybe we"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.104",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1240.66,
+    "end": 1242.28,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "are the marketing guy ? Or"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.99",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1242.12,
+    "end": 1243.02,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm marketing ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.105",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1242.28,
+    "end": 1243.02,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "th"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.94",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1242.55,
+    "end": 1243.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Marketing ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.106",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1243.02,
+    "end": 1245.23,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "So you are the marketing ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.100",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1244.69,
+    "end": 1244.81,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.107",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1245.23,
+    "end": 1249.22,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you are in the u use user interface uh design ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.95",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1247.48,
+    "end": 1247.75,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.211",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1248.08,
+    "end": 1248.21,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.108",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1249.22,
+    "end": 1249.7,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "So just yeah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.96",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1249.23,
+    "end": 1249.46,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.109",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1249.7,
+    "end": 1251.08,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I wanted to to be sure ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.110",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1251.08,
+    "end": 1254.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And I I'm the the industrial designer"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.97",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1251.08,
+    "end": 1251.43,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Sure ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.101",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1254.58,
+    "end": 1254.81,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.111",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1254.59,
+    "end": 1255.43,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.212",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1254.96,
+    "end": 1255.38,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.112",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1255.43,
+    "end": 1257.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Because I I don't know you very well , actually , but yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.99",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1255.69,
+    "end": 1256.04,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.100",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1257.17,
+    "end": 1259.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm Matthew . You know ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.113",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1257.98,
+    "end": 1258.98,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.114",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1258.98,
+    "end": 1260.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Mael ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.101",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1259.51,
+    "end": 1261.71,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Matth s uh"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.115",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1260.01,
+    "end": 1261.49,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Happy to meet you ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.102",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1261.23,
+    "end": 1261.57,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Anna ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.116",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1261.49,
+    "end": 1262.17,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.102",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1261.71,
+    "end": 1262.89,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Anna ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.117",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1262.17,
+    "end": 1264.43,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "It's very uh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.103",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1262.89,
+    "end": 1263.97,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.213",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1263.38,
+    "end": 1264.61,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "A and I'm Nanne ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.104",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1263.97,
+    "end": 1266.37,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um uh Matthew , yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.105",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1266.37,
+    "end": 1267.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I thi think you know me ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.214",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1266.51,
+    "end": 1266.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.118",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1266.59,
+    "end": 1274.43,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Uh so yeah uh Just uh on your web page but uh yeah not uh not face to face ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.106",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1267.4,
+    "end": 1267.77,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "yeah ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.107",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1267.77,
+    "end": 1268.99,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "right yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.215",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1267.78,
+    "end": 1269.01,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.216",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1272.0,
+    "end": 1273.63,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So . Um"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.217",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1276.44,
+    "end": 1276.58,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "S"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.108",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1277.05,
+    "end": 1277.8,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.119",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1277.07,
+    "end": 1277.8,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So mm"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.218",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1277.56,
+    "end": 1278.04,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "S s"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.103",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1278.58,
+    "end": 1278.81,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.219",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1279.03,
+    "end": 1283.77,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Are there some other very important things to to do well ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.109",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1279.1,
+    "end": 1279.47,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.120",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1279.11,
+    "end": 1279.36,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.121",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1279.36,
+    "end": 1279.93,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.220",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1285.38,
+    "end": 1289.75,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "to specify in this first phase of of the project ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.221",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1289.75,
+    "end": 1290.38,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.222",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1290.38,
+    "end": 1293.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the browse function , as you m mentioned ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.104",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1291.39,
+    "end": 1294.21,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm . Yeah . Oth yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.110",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1293.16,
+    "end": 1301.91,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And uh , you'd need the usual ones , like the changing the volume , changing the the channel"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.111",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1301.91,
+    "end": 1304.55,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and then you uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.223",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1303.25,
+    "end": 1304.08,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yes . Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.112",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1304.55,
+    "end": 1309.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Today we have uh um teletext and all those things ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.113",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1309.85,
+    "end": 1312.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Tomorrow you might have a some more functions"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.114",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1312.28,
+    "end": 1314.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "which might come through that , so"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.224",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1313.28,
+    "end": 1313.66,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yes ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.122",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1313.96,
+    "end": 1314.75,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Like what ?"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.123",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1314.75,
+    "end": 1317.71,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Like internet on the on T_V_ ?"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.115",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1316.1,
+    "end": 1316.65,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.105",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1316.4,
+    "end": 1316.75,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.116",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1316.65,
+    "end": 1318.18,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I_P_O_ or ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.117",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1318.18,
+    "end": 1319.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Now we are looking for"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.118",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1320.74,
+    "end": 1323.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "television things or I_P_ ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.119",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1323.83,
+    "end": 1328.37,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "For example personal video recorder and all those stuffs are coming up ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.124",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1323.92,
+    "end": 1324.16,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.106",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1326.19,
+    "end": 1326.49,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.107",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1328.61,
+    "end": 1331.37,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "But we can't really design for something that hasn't been invented yet ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.121",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1329.71,
+    "end": 1329.93,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.122",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1331.49,
+    "end": 1331.7,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Ah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.123",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1331.7,
+    "end": 1337.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "it's it's it's it's coming up , actually . The personal video recorder and all those things it is coming up ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.225",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1336.23,
+    "end": 1337.4,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Mm , well uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.226",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1337.4,
+    "end": 1338.52,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I I think"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.227",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1341.49,
+    "end": 1349.47,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Uh w y you two should should , I think , think this over uh w espec what , what functionality ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.125",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1341.51,
+    "end": 1342.34,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Actually , yeah"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.124",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1342.11,
+    "end": 1343.21,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Let's Let's take"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.126",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1342.34,
+    "end": 1342.76,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "w"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.127",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1349.56,
+    "end": 1350.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Of course ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.128",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1350.04,
+    "end": 1353.36,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and first before um designing the func"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.129",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1353.36,
+    "end": 1353.77,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "well"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.130",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1353.77,
+    "end": 1358.03,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "thinking about the functionalities , we need to know what are the user requirements ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.108",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1357.26,
+    "end": 1358.08,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm . Yeah ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.131",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1358.03,
+    "end": 1367.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.228",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1358.75,
+    "end": 1359.13,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.109",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1359.3,
+    "end": 1359.45,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.110",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1361.42,
+    "end": 1361.6,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.111",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1363.57,
+    "end": 1363.76,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.113",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1367.4,
+    "end": 1373.94,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "But Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.114",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1373.94,
+    "end": 1375.03,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.115",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1375.03,
+    "end": 1376.55,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we can have all the fancy things as well"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.116",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1376.55,
+    "end": 1379.69,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but the main controls need to be very obvious and very easy to use ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.229",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1379.07,
+    "end": 1383.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Mm mm mm . Keep k keep in mind i it's a it's a twenty five Euro unit ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.230",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1383.87,
+    "end": 1391.36,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so uh uh the the very fancy stuff uh w we can leave that out , I think ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.231",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1391.36,
+    "end": 1391.9,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.117",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1391.69,
+    "end": 1391.93,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.232",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1391.9,
+    "end": 1400.04,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "twenty five Euro you expect a quite , well normal but good functioning user friendly remote control ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.118",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1396.77,
+    "end": 1396.97,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.125",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1400.45,
+    "end": 1400.63,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.126",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1400.63,
+    "end": 1405.68,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "in that case you can you always hook up with uh someone who is providing that"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.127",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1405.68,
+    "end": 1412.98,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and you know , you you sell their product as well as your product with them , you know ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.119",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1410.62,
+    "end": 1410.81,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.132",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1413.09,
+    "end": 1413.23,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.120",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1413.11,
+    "end": 1414.97,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So try and get T_V_ manufacturers to"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.133",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1413.23,
+    "end": 1420.13,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "but w w we want to design a new one . Mm ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.128",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1416.04,
+    "end": 1418.1,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.129",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1418.1,
+    "end": 1418.36,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "No ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.130",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1418.36,
+    "end": 1420.19,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "it's okay , yeah I understand ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.131",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1420.19,
+    "end": 1422.9,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So we need some numbering buttons , some teletext things"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.134",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1420.5,
+    "end": 1420.68,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.132",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1422.9,
+    "end": 1424.43,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and then um"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.135",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1424.51,
+    "end": 1424.71,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "The"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.136",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1424.71,
+    "end": 1424.88,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.137",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1424.88,
+    "end": 1426.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the main is browsing . Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.233",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1425.52,
+    "end": 1425.75,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yes ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.234",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1425.75,
+    "end": 1434.05,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.133",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1428.76,
+    "end": 1429.13,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.134",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1434.24,
+    "end": 1434.56,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.235",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1435.35,
+    "end": 1439.85,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "Uh I would like to get this wrapped up"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.236",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1439.85,
+    "end": 1441.46,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "and go to an end of this meeting ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.135",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1442.0,
+    "end": 1442.41,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.237",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1443.68,
+    "end": 1443.9,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.136",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1443.7,
+    "end": 1444.09,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ,"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.137",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1444.09,
+    "end": 1445.75,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "we are alread mm . Mm ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.138",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1445.31,
+    "end": 1445.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.238",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1445.62,
+    "end": 1445.85,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.239",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1445.85,
+    "end": 1449.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you know now the basic the basic things ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.138",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1448.28,
+    "end": 1448.56,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.121",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1448.68,
+    "end": 1448.89,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.240",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1451.36,
+    "end": 1451.82,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "well"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.241",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1451.82,
+    "end": 1454.34,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "just just for the next meeting , um"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.139",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1451.87,
+    "end": 1452.14,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "L"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.242",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1457.14,
+    "end": 1463.16,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "well , uh , you wor yes , work on a design ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.243",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1463.16,
+    "end": 1464.0,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "keep it general ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.244",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1464.0,
+    "end": 1469.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean so w we will be still fle flexible with maybe adding some functions ."
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.139",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1469.76,
+    "end": 1470.2,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.245",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1469.92,
+    "end": 1470.26,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.246",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1471.46,
+    "end": 1478.02,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um you will be working on on technical function design , so"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.140",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1479.35,
+    "end": 1479.83,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah , sure ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.247",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1480.45,
+    "end": 1486.8,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And uh you and you and uh uh uh well , think about requirements ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.248",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1486.8,
+    "end": 1487.12,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "eh ?"
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.122",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1486.87,
+    "end": 1487.15,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.249",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1487.12,
+    "end": 1488.33,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Does it need internet ,"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.250",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1488.33,
+    "end": 1490.21,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "or or do do we stay at"
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.141",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1491.35,
+    "end": 1491.79,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Stam ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.251",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1491.36,
+    "end": 1494.83,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "basic basic television uh interface ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.123",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1492.16,
+    "end": 1492.29,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.252",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1497.64,
+    "end": 1500.19,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So , uh"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.253",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1501.36,
+    "end": 1505.36,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think we should now all go work uh uh at this"
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.254",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1505.36,
+    "end": 1510.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh you will be informed via email and other kind of communication ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.124",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1505.63,
+    "end": 1505.84,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "IS1000a.A.dialog-act.vkaraisk.125",
+    "speaker": "A",
+    "global_speaker": "FIE081",
+    "start": 1510.0,
+    "end": 1510.15,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "IS1000a.C.dialog-act.vkaraisk.142",
+    "speaker": "C",
+    "global_speaker": "MIO050",
+    "start": 1510.78,
+    "end": 1511.29,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.255",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1511.37,
+    "end": 1511.56,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "IS1000a.D.dialog-act.vkaraisk.140",
+    "speaker": "D",
+    "global_speaker": "MIO016",
+    "start": 1511.51,
+    "end": 1511.99,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Perfect ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.256",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1511.56,
+    "end": 1513.61,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "next meeting will be in uh in thirty minutes uh ."
+  },
+  {
+    "id": "IS1000a.B.dialog-act.vkaraisk.257",
+    "speaker": "B",
+    "global_speaker": "MIO082",
+    "start": 1513.61,
+    "end": 1514.65,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "K keep it in mind ."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "protocol_version": "natural-qa-v2-same-person",
+  "previous_labels_sha256": "881cc460d24bdaaa5b52ecfc41795d81bc65078b4f4c4c1f6579a72b0b953a95",
+  "labels_sha256": "3c627512f47b87e8d311e88a494109d45fceae03749872160ed62065c969c0ed",
+  "same_person_pairs": 16,
+  "eligible_pairs": 12,
+  "audio_unchanged": true,
+  "review_csv_unchanged": true
+}

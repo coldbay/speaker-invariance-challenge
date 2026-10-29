@@ -1,0 +1,10 @@
+{
+  "code": {
+    "url": "https://api.github.com/repos/OpenMOSS/MOSS-Transcribe-Diarize/commits/main",
+    "revision": "79c675f0670cc2f824bcbcdd98263704f40f1f7e"
+  },
+  "model": {
+    "url": "https://huggingface.co/api/models/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+    "revision": "704aa4a9c304e8520be88901e0d1960158ef5b15"
+  }
+}

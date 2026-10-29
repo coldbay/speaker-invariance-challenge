@@ -1,0 +1,536 @@
+{
+  "ES2003a": {
+    "B": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_B_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 1009600,
+        "source_frame_end_exclusive": 1057600,
+        "sha256": "a8cfc7445ee8d9158cb18fc0aa92083e9257a60faf406badd161e0549c74210e",
+        "bytes": 96044,
+        "start": 63.1,
+        "end": 66.1,
+        "source_dialogue_act": "ES2003a.B.dialog-act.vkaraisk.22",
+        "global_speaker": "MEE009"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_B_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 1124320,
+        "source_frame_end_exclusive": 1172320,
+        "sha256": "9f11037922eed51bc91ad6e8ae1d2e4b7a664913e0969d44960a1667cf93a71a",
+        "bytes": 96044,
+        "start": 70.27,
+        "end": 73.27,
+        "source_dialogue_act": "ES2003a.B.dialog-act.vkaraisk.23",
+        "global_speaker": "MEE009"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 2596640,
+        "source_frame_end_exclusive": 2644640,
+        "sha256": "609dee097c0c21cf50ea60e01bd1d87be93f5cbdb4361e3542de321e7e9ca0dd",
+        "bytes": 96044,
+        "start": 162.29,
+        "end": 165.29,
+        "source_dialogue_act": "ES2003a.C.dialog-act.vkaraisk.15",
+        "global_speaker": "MEE012"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 3492799,
+        "source_frame_end_exclusive": 3540800,
+        "sha256": "b300140623a38506d9dd4044380cbaed4c07a9646ee35d22132f34191826a359",
+        "bytes": 96046,
+        "start": 218.29999999999998,
+        "end": 221.29999999999998,
+        "source_dialogue_act": "ES2003a.C.dialog-act.vkaraisk.18",
+        "global_speaker": "MEE012"
+      }
+    ],
+    "D": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_D_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 6506240,
+        "source_frame_end_exclusive": 6554241,
+        "sha256": "265f2aaf14dfa4a23bc8bc0ec1ef7e42d01377ed3210ea809ef60c931b4b503d",
+        "bytes": 96046,
+        "start": 406.64000000000004,
+        "end": 409.64000000000004,
+        "source_dialogue_act": "ES2003a.D.dialog-act.vkaraisk.22",
+        "global_speaker": "MEE010"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003a_D_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003a/audio/ES2003a.Mix-Headset.wav",
+        "source_frame_start": 6642400,
+        "source_frame_end_exclusive": 6690401,
+        "sha256": "6b6e477a8eded9f424908a79f5af3eea9634bcac2825746568f52edcf078cd0a",
+        "bytes": 96046,
+        "start": 415.15000000000003,
+        "end": 418.15000000000003,
+        "source_dialogue_act": "ES2003a.D.dialog-act.vkaraisk.28",
+        "global_speaker": "MEE010"
+      }
+    ]
+  },
+  "ES2003d": {
+    "B": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003d_B_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003d/audio/ES2003d.Mix-Headset.wav",
+        "source_frame_start": 325920,
+        "source_frame_end_exclusive": 373920,
+        "sha256": "53f4d70ab31551ec0843b9c01be0cadbe9b10389e9b60ab6b14c5f2f76201cb8",
+        "bytes": 96044,
+        "start": 20.37,
+        "end": 23.37,
+        "source_dialogue_act": "ES2003d.B.dialog-act.vkaraisk.4",
+        "global_speaker": "MEE009"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003d_B_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003d/audio/ES2003d.Mix-Headset.wav",
+        "source_frame_start": 392640,
+        "source_frame_end_exclusive": 440641,
+        "sha256": "4fd80db329f692ba851c91b05208ab67adbfee841412e1eb785b98af11a11f25",
+        "bytes": 96046,
+        "start": 24.540000000000003,
+        "end": 27.540000000000003,
+        "source_dialogue_act": "ES2003d.B.dialog-act.vkaraisk.5",
+        "global_speaker": "MEE009"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003d_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003d/audio/ES2003d.Mix-Headset.wav",
+        "source_frame_start": 5280640,
+        "source_frame_end_exclusive": 5328640,
+        "sha256": "77739d489bf0181d0049e8f5d67a1b78cd77541dd1019d6112650d0e4c44dee8",
+        "bytes": 96044,
+        "start": 330.04,
+        "end": 333.04,
+        "source_dialogue_act": "ES2003d.C.dialog-act.vkaraisk.8",
+        "global_speaker": "MEE012"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\ES2003d_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2003d/audio/ES2003d.Mix-Headset.wav",
+        "source_frame_start": 5411680,
+        "source_frame_end_exclusive": 5459680,
+        "sha256": "82f5b0fd02a49ef2602dcd8cdd48bf7c60b9e75157adfb1c9d819454f1d7d988",
+        "bytes": 96044,
+        "start": 338.23,
+        "end": 341.23,
+        "source_dialogue_act": "ES2003d.C.dialog-act.vkaraisk.10",
+        "global_speaker": "MEE012"
+      }
+    ]
+  },
+  "IS1000b": {
+    "A": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_A_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 5910080,
+        "source_frame_end_exclusive": 5958080,
+        "sha256": "cacfc7c8fa59f9c3e06a3cc2c4262886d7872157aed86ebb5a3d5ea24d6c422e",
+        "bytes": 96044,
+        "start": 369.38,
+        "end": 372.38,
+        "source_dialogue_act": "IS1000b.A.dialog-act.vkaraisk.18",
+        "global_speaker": "FIE081"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_A_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 5976800,
+        "source_frame_end_exclusive": 6024800,
+        "sha256": "8682df4f000f514156c33b8bf29abd021f3c6e4a4f1325a984f713ce31575236",
+        "bytes": 96044,
+        "start": 373.55,
+        "end": 376.55,
+        "source_dialogue_act": "IS1000b.A.dialog-act.vkaraisk.20",
+        "global_speaker": "FIE081"
+      }
+    ],
+    "B": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_B_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 3404960,
+        "source_frame_end_exclusive": 3452960,
+        "sha256": "8110e6506897fd008fd8f74db6602ddcd96f2c1e919ed20237785146bb4d7f5b",
+        "bytes": 96044,
+        "start": 212.81,
+        "end": 215.81,
+        "source_dialogue_act": "IS1000b.B.dialog-act.vkaraisk.6",
+        "global_speaker": "MIO082"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_B_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 3632160,
+        "source_frame_end_exclusive": 3680160,
+        "sha256": "ec57d794121e6b80d9cc11d86122f83f195ca1b225957e7cbb27af6f33cd9445",
+        "bytes": 96044,
+        "start": 227.01,
+        "end": 230.01,
+        "source_dialogue_act": "IS1000b.B.dialog-act.vkaraisk.9",
+        "global_speaker": "MIO082"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 11168160,
+        "source_frame_end_exclusive": 11216160,
+        "sha256": "bef6dfa769aa675a78913f7fe65fd3e8391acf209f1331476496980e5bccc476",
+        "bytes": 96044,
+        "start": 698.01,
+        "end": 701.01,
+        "source_dialogue_act": "IS1000b.C.dialog-act.vkaraisk.26",
+        "global_speaker": "MIO050"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000b_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000b/audio/IS1000b.Mix-Headset.wav",
+        "source_frame_start": 11419520,
+        "source_frame_end_exclusive": 11467520,
+        "sha256": "a4e6564670ce86fdd84f7f345604e12d7ab7990efaeca6264207d7140d04f894",
+        "bytes": 96044,
+        "start": 713.72,
+        "end": 716.72,
+        "source_dialogue_act": "IS1000b.C.dialog-act.vkaraisk.30",
+        "global_speaker": "MIO050"
+      }
+    ]
+  },
+  "IS1000d": {
+    "A": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_A_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 12114880,
+        "source_frame_end_exclusive": 12162881,
+        "sha256": "cdfc0d89a345f6944f51778513855414571a21893bba20a317877674e20f58c9",
+        "bytes": 96046,
+        "start": 757.1800000000001,
+        "end": 760.1800000000001,
+        "source_dialogue_act": "IS1000d.A.dialog-act.vkaraisk.76",
+        "global_speaker": "FIE081"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_A_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 12245440,
+        "source_frame_end_exclusive": 12293440,
+        "sha256": "c0390b80bc681e9b1bb21222222905064533277876e8c1c50bea45395ecbf69f",
+        "bytes": 96044,
+        "start": 765.34,
+        "end": 768.34,
+        "source_dialogue_act": "IS1000d.A.dialog-act.vkaraisk.77",
+        "global_speaker": "FIE081"
+      }
+    ],
+    "B": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_B_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 1188480,
+        "source_frame_end_exclusive": 1236480,
+        "sha256": "dcdbc90bb5c58f822a0d266f7ba57cf9bd6fea42eb783326fb5d12378807a39a",
+        "bytes": 96044,
+        "start": 74.28,
+        "end": 77.28,
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.5",
+        "global_speaker": "MIO082"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_B_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 2390080,
+        "source_frame_end_exclusive": 2438080,
+        "sha256": "09a6827828f6298f3822c0d8a9979ef71f74efe80af4e4419f35d2bbd1ea507d",
+        "bytes": 96044,
+        "start": 149.38,
+        "end": 152.38,
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.20",
+        "global_speaker": "MIO082"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 624800,
+        "source_frame_end_exclusive": 672801,
+        "sha256": "5178ae79ff8abd58d2e027f44ed96b33cc54eea062128dc2f524dc55af5a40a1",
+        "bytes": 96046,
+        "start": 39.050000000000004,
+        "end": 42.050000000000004,
+        "source_dialogue_act": "IS1000d.C.dialog-act.vkaraisk.2",
+        "global_speaker": "MIO016"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 1460480,
+        "source_frame_end_exclusive": 1508480,
+        "sha256": "411ed30ead01529a23e4b2ae27f114a8cadad1555f9e5576ca4b10e25ccad2d1",
+        "bytes": 96044,
+        "start": 91.28,
+        "end": 94.28,
+        "source_dialogue_act": "IS1000d.C.dialog-act.vkaraisk.9",
+        "global_speaker": "MIO016"
+      }
+    ],
+    "D": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_D_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 5065600,
+        "source_frame_end_exclusive": 5113600,
+        "sha256": "c7e42334f9107526cdd50e3773ab00203364a48ca29e26d2ddb536cbce796482",
+        "bytes": 96044,
+        "start": 316.6,
+        "end": 319.6,
+        "source_dialogue_act": "IS1000d.D.dialog-act.vkaraisk.8",
+        "global_speaker": "MIO050"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1000d_D_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1000d/audio/IS1000d.Mix-Headset.wav",
+        "source_frame_start": 5217280,
+        "source_frame_end_exclusive": 5265281,
+        "sha256": "2bafc712f694bdd23a5f6da4df2a6dcf5d6b56a87e60c50ba1fed0b89bf5b12b",
+        "bytes": 96046,
+        "start": 326.08000000000004,
+        "end": 329.08000000000004,
+        "source_dialogue_act": "IS1000d.D.dialog-act.vkaraisk.10",
+        "global_speaker": "MIO050"
+      }
+    ]
+  },
+  "IS1009d": {
+    "A": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_A_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 711680,
+        "source_frame_end_exclusive": 759681,
+        "sha256": "2fcbe8a381f4cae8b6111a92ee272df068b923cfc04425dc9aaee1ce4fd34486",
+        "bytes": 96046,
+        "start": 44.480000000000004,
+        "end": 47.480000000000004,
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.3",
+        "global_speaker": "FIE088"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_A_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 896160,
+        "source_frame_end_exclusive": 944160,
+        "sha256": "8e252a544ab84eace7064224402e0d9edaf340f4b06d44528fc9f155d80f4a64",
+        "bytes": 96044,
+        "start": 56.01,
+        "end": 59.01,
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.5",
+        "global_speaker": "FIE088"
+      }
+    ],
+    "B": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_B_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 7217920,
+        "source_frame_end_exclusive": 7265920,
+        "sha256": "c2f285454cc63df21dfca6dba7f49561dc29c1117125e15bd600e1d9aef3643f",
+        "bytes": 96044,
+        "start": 451.12,
+        "end": 454.12,
+        "source_dialogue_act": "IS1009d.B.dialog-act.dharshi.11",
+        "global_speaker": "FIO087"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_B_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 7288320,
+        "source_frame_end_exclusive": 7336321,
+        "sha256": "bf7907389b8e5208b8b306a977cd8a48ca80f4fa4ff75d2d3d674a28b04b92e2",
+        "bytes": 96046,
+        "start": 455.52000000000004,
+        "end": 458.52000000000004,
+        "source_dialogue_act": "IS1009d.B.dialog-act.dharshi.12",
+        "global_speaker": "FIO087"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 5751840,
+        "source_frame_end_exclusive": 5799840,
+        "sha256": "e9cbc41bf7a451f0f78a99dea7c8d4f5e1113786dda13fd73ffeace1c1b7efd0",
+        "bytes": 96044,
+        "start": 359.49,
+        "end": 362.49,
+        "source_dialogue_act": "IS1009d.C.dialog-act.dharshi.6",
+        "global_speaker": "FIO084"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 6150240,
+        "source_frame_end_exclusive": 6198241,
+        "sha256": "9ac3ba16327817d5485d368a97fc0d519760f6b650e192dffb4bc3ccb67c22cd",
+        "bytes": 96046,
+        "start": 384.39000000000004,
+        "end": 387.39000000000004,
+        "source_dialogue_act": "IS1009d.C.dialog-act.dharshi.13",
+        "global_speaker": "FIO084"
+      }
+    ],
+    "D": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_D_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 6350880,
+        "source_frame_end_exclusive": 6398880,
+        "sha256": "e30fc8588a8132d63f498d0b78d1f755afde0b1297fb130a554a483863792621",
+        "bytes": 96044,
+        "start": 396.93,
+        "end": 399.93,
+        "source_dialogue_act": "IS1009d.D.dialog-act.dharshi.13",
+        "global_speaker": "FIO089"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\IS1009d_D_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009d/audio/IS1009d.Mix-Headset.wav",
+        "source_frame_start": 9288160,
+        "source_frame_end_exclusive": 9336160,
+        "sha256": "d1959cdce7418801b63756103a8fd2c5334376587972542182d7c12194b1067f",
+        "bytes": 96044,
+        "start": 580.51,
+        "end": 583.51,
+        "source_dialogue_act": "IS1009d.D.dialog-act.dharshi.33",
+        "global_speaker": "FIO089"
+      }
+    ]
+  },
+  "TS3006a": {
+    "A": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006a_A_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006a/audio/TS3006a.Mix-Headset.wav",
+        "source_frame_start": 2001600,
+        "source_frame_end_exclusive": 2049600,
+        "sha256": "0e76385cd33e78f07d5a4fe17c457a9f0f98f4ed310e5d1f5971df9277eae4c3",
+        "bytes": 96044,
+        "start": 125.1,
+        "end": 128.1,
+        "source_dialogue_act": "TS3006a.A.dialog-act.vkaraisk.10",
+        "global_speaker": "MTD021PM"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006a_A_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006a/audio/TS3006a.Mix-Headset.wav",
+        "source_frame_start": 2055839,
+        "source_frame_end_exclusive": 2103840,
+        "sha256": "174bd830da4878ba66fc8c8466594630e04c5dbe71d1df8c0df42f072b715ab8",
+        "bytes": 96046,
+        "start": 128.48999999999998,
+        "end": 131.48999999999998,
+        "source_dialogue_act": "TS3006a.A.dialog-act.vkaraisk.11",
+        "global_speaker": "MTD021PM"
+      }
+    ],
+    "C": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006a_C_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006a/audio/TS3006a.Mix-Headset.wav",
+        "source_frame_start": 5603680,
+        "source_frame_end_exclusive": 5651680,
+        "sha256": "71812d77f0c4355e0bf62d8bf4f7eb9b6e6dae0abe2dceb32abd4fbb18bf459c",
+        "bytes": 96044,
+        "start": 350.23,
+        "end": 353.23,
+        "source_dialogue_act": "TS3006a.C.dialog-act.vkaraisk.20",
+        "global_speaker": "MTD022ID"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006a_C_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006a/audio/TS3006a.Mix-Headset.wav",
+        "source_frame_start": 11212320,
+        "source_frame_end_exclusive": 11260320,
+        "sha256": "fe8b546df7d808537476287adf88766e5d4de783ae7e07c3a4e2d66e84ccfc69",
+        "bytes": 96044,
+        "start": 700.77,
+        "end": 703.77,
+        "source_dialogue_act": "TS3006a.C.dialog-act.vkaraisk.79",
+        "global_speaker": "MTD022ID"
+      }
+    ]
+  },
+  "TS3006b": {
+    "A": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006b_A_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006b/audio/TS3006b.Mix-Headset.wav",
+        "source_frame_start": 1746719,
+        "source_frame_end_exclusive": 1794720,
+        "sha256": "5fd744a01ed9d3d96b496616d157a0c05cc66abe1cca0e5a0221680f4e98e904",
+        "bytes": 96046,
+        "start": 109.16999999999999,
+        "end": 112.16999999999999,
+        "source_dialogue_act": "TS3006b.A.dialog-act.dharshi.17",
+        "global_speaker": "MTD021PM"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006b_A_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006b/audio/TS3006b.Mix-Headset.wav",
+        "source_frame_start": 3665279,
+        "source_frame_end_exclusive": 3713280,
+        "sha256": "01c7dd51440222124651c44eb4706788d89f8f506e2b417a372ee857f3b7eaf0",
+        "bytes": 96046,
+        "start": 229.07999999999998,
+        "end": 232.07999999999998,
+        "source_dialogue_act": "TS3006b.A.dialog-act.dharshi.31",
+        "global_speaker": "MTD021PM"
+      }
+    ],
+    "D": [
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006b_D_ref01.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006b/audio/TS3006b.Mix-Headset.wav",
+        "source_frame_start": 4095040,
+        "source_frame_end_exclusive": 4143040,
+        "sha256": "dc306f80740fc774a0f63335fd11b92ea2c708c6694bda86c3f8b793c22aa74e",
+        "bytes": 96044,
+        "start": 255.94,
+        "end": 258.94,
+        "source_dialogue_act": "TS3006b.D.dialog-act.dharshi.38",
+        "global_speaker": "MTD024ME"
+      },
+      {
+        "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\prepared\\references\\TS3006b_D_ref02.wav",
+        "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3006b/audio/TS3006b.Mix-Headset.wav",
+        "source_frame_start": 4154080,
+        "source_frame_end_exclusive": 4202080,
+        "sha256": "c76893794a732f894d8982bc2bac5686c4b05d0903564a31337488128c041520",
+        "bytes": 96044,
+        "start": 259.63,
+        "end": 262.63,
+        "source_dialogue_act": "TS3006b.D.dialog-act.dharshi.39",
+        "global_speaker": "MTD024ME"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "heldout_candidates_pending_human_review",
+  "clips": 8,
+  "events": {
+    "overlap_dense": 4,
+    "question_answer_reversal": 4
+  },
+  "audio_seconds": 487.98000000000025,
+  "meetings": [
+    "ES2002d",
+    "ES2009d",
+    "IS1004b",
+    "TS3010b",
+    "ES2008a",
+    "IS1006b",
+    "TS3004c",
+    "IS1008c"
+  ],
+  "speakers_disjoint_from_starter_set": true,
+  "scored_utterances": 70,
+  "utterances": 292,
+  "provenance": "Contiguous PCM ranges of official AMI Mix-Headset WAV; CC BY 4.0 (see ../prepared/LICENCE_AMI.txt)."
+}

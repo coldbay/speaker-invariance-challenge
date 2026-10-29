@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.1",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 2.13,
+    "end": 2.67,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay , well"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.2",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 2.67,
+    "end": 5.63,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think we're ready to begin ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.3",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 5.63,
+    "end": 6.65,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.4",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 6.65,
+    "end": 7.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "my name's Adam Duguid ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.5",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 7.55,
+    "end": 9.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we're here because of real reaction ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.6",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 9.2,
+    "end": 13.18,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "um , we have in the group"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.1",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 13.24,
+    "end": 13.6,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Oh ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.2",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 13.6,
+    "end": 15.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Ebenezer Ademesoye ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.3",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 15.21,
+    "end": 16.81,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Would you like me to spell that ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.4",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 18.09,
+    "end": 18.34,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "S"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.7",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 18.43,
+    "end": 19.33,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Um , yeah ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.8",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 19.33,
+    "end": 20.56,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "go for it mate ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.5",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 20.58,
+    "end": 21.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , N_E_Z_"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.9",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 21.97,
+    "end": 24.41,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "N_ E_ Z_ ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.6",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 23.09,
+    "end": 23.7,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "E_R_ ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.10",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 24.41,
+    "end": 24.9,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Ebenezer ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.11",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 24.9,
+    "end": 26.16,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And your role is ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.7",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 26.3,
+    "end": 28.26,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm the Marketing Expert ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.12",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 28.5,
+    "end": 30.19,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "You're the Marketing Expert , okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.13",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 33.33,
+    "end": 34.18,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Next we have ?"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.1",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 34.34,
+    "end": 36.3,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Tarik Rahman . T_A_R_I_K_ ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.14",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 36.52,
+    "end": 38.29,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "T_ R_ I_ K_ ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.15",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 38.29,
+    "end": 39.75,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And your role in this is ?"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.2",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 39.84,
+    "end": 40.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Industrial Designer ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.16",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 41.01,
+    "end": 41.95,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Industrial Designer ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.17",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 47.69,
+    "end": 49.09,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "And , lastly we have ?"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.1",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 49.38,
+    "end": 50.77,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh , Dave Cochrane ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.18",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 53.02,
+    "end": 54.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And you're going to be the User Interface ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.2",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 54.24,
+    "end": 56.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "User Interface Defin Designer , yes ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.19",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 54.55,
+    "end": 55.07,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "is it ?"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.20",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 55.07,
+    "end": 57.21,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Designer . Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.21",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 62.12,
+    "end": 63.0,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.22",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 63.0,
+    "end": 70.17,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "This is the agenda for today's meeting . As you can see , w opening , acquaintance , tool training , project plan discussion , and closing ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.23",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 70.17,
+    "end": 75.83,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , we already got n through opening , and partially through acquaintance ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.24",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 75.83,
+    "end": 76.26,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.25",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 76.26,
+    "end": 78.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the reason we're here , we're gonna design a new remote control ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.26",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 78.87,
+    "end": 81.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "as you probably all know ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.27",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 81.4,
+    "end": 85.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "The very broad overview is original , trendy , and user-friendly ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.28",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 85.24,
+    "end": 89.05,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Course , we'll have to go into a bit more um detail than that ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.29",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 89.05,
+    "end": 95.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but uh personally I think that the original is gonna be a very key aspect to this design ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.30",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 95.87,
+    "end": 98.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , there's a lot of remote controls out there anyway ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.31",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 98.0,
+    "end": 100.18,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so we're gonna need something that's really gonna set it apart ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.32",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 105.69,
+    "end": 107.73,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "This is how today seems to be going to work ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.33",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 107.73,
+    "end": 109.27,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "We're gonna have the three kay phases ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.34",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 109.27,
+    "end": 110.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "as you've probably already been told ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.35",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 110.87,
+    "end": 114.5,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the functional , architectural , and the detailed design . Um"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.36",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 119.1,
+    "end": 123.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "First one's gonna be covering the user requirement spec , technical functions , working design ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.37",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 123.67,
+    "end": 126.98,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Second seems to be conceptual components , properties , materials ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.38",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 126.98,
+    "end": 131.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and the last one is a detailed analysis of our design so far ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.39",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 131.85,
+    "end": 134.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Of course , you've all got the similar emails , I believe ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.40",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 134.72,
+    "end": 135.0,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "right ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.41",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 138.15,
+    "end": 139.33,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "What can I say ?"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.42",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 139.33,
+    "end": 143.48,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Ebenezer , you wanna have a you wanna draw your favourite animal ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.8",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 143.48,
+    "end": 144.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Sure ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.9",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 147.95,
+    "end": 150.92,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "Whiteboard ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.10",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 150.92,
+    "end": 152.07,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "'Kay ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.11",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 154.61,
+    "end": 155.54,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "S"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.12",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 155.54,
+    "end": 156.83,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "okay ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.13",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 156.83,
+    "end": 157.64,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I will make this quick ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.14",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 157.64,
+    "end": 158.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "since we don't have much time ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.15",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 162.19,
+    "end": 213.05,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um . 'Kay , so"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.16",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 213.05,
+    "end": 214.73,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "it's not the best picture in the world ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.17",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 216.03,
+    "end": 217.16,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Here we have an elephant ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.18",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 218.2,
+    "end": 223.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "First point , begins with an E_ , same like Ebenezer ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.19",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 223.11,
+    "end": 227.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Also , elephants have a very good memory , much like myself ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.20",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 227.52,
+    "end": 228.78,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and I can't remember"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.22",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 228.78,
+    "end": 230.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "back when I used to live back in Nigeria ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.21",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 230.06,
+    "end": 232.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but I think I used to have a pet elephant ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.23",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 234.6,
+    "end": 234.76,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.24",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 234.76,
+    "end": 237.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "elephants are big , strong and gentle ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.25",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 237.11,
+    "end": 238.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and they have great memories ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.26",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 238.76,
+    "end": 241.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and they begin with the letter E_ , just like Ebenezer ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.44",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 243.68,
+    "end": 244.76,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Brilliantly done ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.27",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 244.72,
+    "end": 245.55,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thank you ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.45",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 244.76,
+    "end": 247.45,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Thank you ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.46",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 247.45,
+    "end": 252.65,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Tarik , would you like to have a shot at a bit of artistry ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.28",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 255.89,
+    "end": 257.92,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh . Oh oh"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.47",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 256.21,
+    "end": 256.72,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh , um ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.48",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 256.72,
+    "end": 257.93,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "you can clip them to your belt ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.6",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 256.77,
+    "end": 258.29,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Do we take them off ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.29",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 257.92,
+    "end": 259.03,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I think you ga"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.7",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 258.29,
+    "end": 258.68,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh right ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.8",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 258.68,
+    "end": 258.96,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.49",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 259.01,
+    "end": 262.62,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You should also l um have your the lapel mic on as well ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.30",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 260.02,
+    "end": 261.51,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "The little"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.9",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 263.78,
+    "end": 264.31,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Ah-ha ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.31",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 263.84,
+    "end": 264.25,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "The the"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.32",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 266.0,
+    "end": 266.48,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Oh that's good ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.33",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 266.48,
+    "end": 267.49,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we can clip them on ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.34",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 267.49,
+    "end": 267.95,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.35",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 267.95,
+    "end": 268.14,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.10",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 273.26,
+    "end": 273.52,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Now"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.11",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 273.52,
+    "end": 274.03,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "where do I put the"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.36",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 274.37,
+    "end": 276.04,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Just um somewhere"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.50",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 284.51,
+    "end": 284.71,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.51",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 284.71,
+    "end": 286.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "the , it's just across there ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.52",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 286.4,
+    "end": 286.65,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "that's it ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.53",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 291.13,
+    "end": 291.32,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.12",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 299.95,
+    "end": 301.08,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "Is this supposed to be clipped as well ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.37",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 301.31,
+    "end": 301.69,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think so ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.54",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 301.67,
+    "end": 301.96,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.55",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 301.96,
+    "end": 302.62,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "It'll follow you"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.56",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 302.62,
+    "end": 303.25,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "if you"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.38",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 303.94,
+    "end": 305.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Yeah . There you go ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.57",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 308.26,
+    "end": 309.94,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "You can probably just stick it in your pocket for now ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.58",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 309.94,
+    "end": 311.23,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "I wouldn't worry too much ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.59",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 311.23,
+    "end": 312.85,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Should have good range ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.13",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 317.08,
+    "end": 318.81,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh , destroying your elephant here ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.15",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 393.91,
+    "end": 396.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh , here we have a tiger . Uh"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.16",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 397.92,
+    "end": 399.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I've always loved tigers ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.17",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 399.52,
+    "end": 400.02,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "They're just"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.18",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 400.02,
+    "end": 401.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "they're big , they're biggest cats ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.19",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 401.6,
+    "end": 403.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "uh I did a project on cats in the wild"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.20",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 403.41,
+    "end": 404.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "when I was a kid"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.21",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 404.54,
+    "end": 406.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and uh it was my favourite cat ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.22",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 406.54,
+    "end": 410.01,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "just 'cause it was looks the best , the stripes , orange ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.23",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 410.01,
+    "end": 411.06,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "My dad used to talk about"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.24",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 411.06,
+    "end": 411.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "he's from Bangladesh"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.25",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 411.9,
+    "end": 413.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so he used to tell me all about them"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.26",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 413.03,
+    "end": 413.84,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "when he was"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.27",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 413.84,
+    "end": 415.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "when I was a kid ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.28",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 415.05,
+    "end": 421.56,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And uh they're just the most feared of of uh animals in the wild ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.29",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 421.56,
+    "end": 422.3,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So uh"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.30",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 422.3,
+    "end": 424.13,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that's why I like them ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.31",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 424.13,
+    "end": 425.54,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Didn't say an anything about me really"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.32",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 425.54,
+    "end": 428.15,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "but"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.61",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 428.23,
+    "end": 428.63,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Excellent ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.62",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 428.63,
+    "end": 429.69,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "thank you very much ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.63",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 429.69,
+    "end": 433.99,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Dave , if you'd like to uh have a dash ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.3",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 439.24,
+    "end": 564.21,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um Um , the monkey , um ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.4",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 564.21,
+    "end": 565.58,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "The one f uh"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.5",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 565.58,
+    "end": 567.88,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "in fact this is a somewhat oblique reference"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.6",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 567.88,
+    "end": 568.6,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "in fact to"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.7",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 568.6,
+    "end": 569.35,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "uh well"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.8",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 569.35,
+    "end": 570.14,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "my"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.9",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 570.14,
+    "end": 571.9,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I have a three uh three y year old daughter"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.10",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 571.9,
+    "end": 575.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "who h who who who is affectionately known as Miss Monkey ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.11",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 575.35,
+    "end": 577.97,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Um , monkeys have attitude ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.12",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 577.97,
+    "end": 579.51,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Which I think is a good thing ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.13",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 579.51,
+    "end": 588.74,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "And I mean fr and from uh from the point of view of sort of the study of human evolution they and other primates are terribly interesting ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.14",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 588.74,
+    "end": 592.69,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Um , so I like monkeys ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.15",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 592.69,
+    "end": 597.92,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And and th th th th thi thi this one seems to have perhaps more attitude than most ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.64",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 606.19,
+    "end": 606.62,
+    "dialogue_act": "Be-Positive",
+    "type_id": "ami_da_14",
+    "text": "Cheers ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.65",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 656.53,
+    "end": 658.11,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Hardly what I'd call the best drawing in the world"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.66",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 658.11,
+    "end": 659.64,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "but it'll do for now ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.67",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 659.64,
+    "end": 662.03,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Also not quite as feared as your average tiger ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.68",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 662.03,
+    "end": 664.87,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "but uh cats are one of my favourite animals ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.69",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 664.87,
+    "end": 666.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "they're very independent ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.70",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 666.76,
+    "end": 670.15,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "they're snotty as hell at the best of times ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.72",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 670.15,
+    "end": 674.43,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "and uh , what can you say , you got to love those qualities in an animal ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.73",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 680.46,
+    "end": 681.47,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Right ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.74",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 681.47,
+    "end": 685.28,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I think we've all managed to master the whiteboard there by looks of it ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.75",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 685.28,
+    "end": 685.98,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.76",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 685.98,
+    "end": 687.11,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "on to it ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.77",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 687.11,
+    "end": 693.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Project finance . As you can see , twelve point five Euros per unit ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.78",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 693.12,
+    "end": 696.46,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That's not a terrible lot as far as I'm aware ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.81",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 696.46,
+    "end": 699.14,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and we're hoping to sell them for twenty five ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.82",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 699.14,
+    "end": 702.35,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.40",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 705.6,
+    "end": 705.78,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Oh ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.41",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 705.78,
+    "end": 706.82,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that was profiting ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.42",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 706.82,
+    "end": 710.55,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that was an amount , so that's the amount made ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.83",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 710.0,
+    "end": 711.12,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yep ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.43",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 710.55,
+    "end": 710.77,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.84",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 711.12,
+    "end": 711.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.85",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 711.74,
+    "end": 712.51,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "fifty million ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.86",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 712.51,
+    "end": 718.87,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and if you're making twelve point five Euros on each one , then , awful lot need to be sold ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.44",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 717.09,
+    "end": 717.26,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.87",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 721.12,
+    "end": 722.26,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.88",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 722.26,
+    "end": 725.84,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Now we better actually just get on with the uh the meat of the project ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.89",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 725.84,
+    "end": 726.5,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.90",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 726.5,
+    "end": 728.59,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I'm gonna guess that we've all used remote controls ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.91",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 730.78,
+    "end": 735.08,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "Any ideas of where you think a new remote control could go into this market ?"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.16",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 736.97,
+    "end": 738.58,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.17",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 738.58,
+    "end": 749.41,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.18",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 749.41,
+    "end": 754.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that can be uh programmed in m much more sophisticated ways than sort of conventional models ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.19",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 754.72,
+    "end": 757.99,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "so you get the sort of you get um you"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.20",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 757.99,
+    "end": 762.0,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you can redesign the interface to your own needs ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.21",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 762.0,
+    "end": 764.39,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "you can programme in macros ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.22",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 764.39,
+    "end": 766.17,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "and you get a much greater degree"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.23",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 766.17,
+    "end": 769.66,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um um I mean you get in these sort of three in one , five in one , whatevers ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.24",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 769.66,
+    "end": 777.67,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but you can get integration between the different uh the the the diff the different things that it's designed to control , to a much greater extent ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.25",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 777.67,
+    "end": 790.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and you can have one uh you know one macro to turn the uh you know turn the T_V_ to the right channel , get the uh re uh rewind the tape in the V_C_R_ and get it to play once it's rewound , for instance ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.92",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 790.07,
+    "end": 790.66,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.26",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 790.71,
+    "end": 806.4,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.27",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 806.4,
+    "end": 811.36,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "And therefore putting it into a um well much lower price bracket ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.93",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 812.69,
+    "end": 813.44,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.94",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 813.44,
+    "end": 814.47,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah , tha that's true ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.95",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 814.47,
+    "end": 819.89,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "with the price range we're looking at , going for a touch screen would probably be possibly out of our"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.28",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 819.18,
+    "end": 820.42,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Absolutely prohibitive ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.96",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 819.89,
+    "end": 821.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.29",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 820.42,
+    "end": 821.06,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.45",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 820.69,
+    "end": 820.86,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Oh ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.97",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 821.2,
+    "end": 825.7,
+    "dialogue_act": "Elicit-Inform",
+    "type_id": "ami_da_5",
+    "text": "But you think uh again something to control multiple units in uh a simple fashion ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.30",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 825.96,
+    "end": 826.3,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.31",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 826.3,
+    "end": 827.51,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I mean I wouldn't like to say you g"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.32",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 827.51,
+    "end": 830.72,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I mean you get ones that you can switch between multiple units ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.33",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 830.72,
+    "end": 836.06,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "but something that could um operate between multiple units in a more integrated fashion ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.34",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 836.06,
+    "end": 837.06,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "Some"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.35",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 837.06,
+    "end": 844.61,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and ideally something into which it would have some at least limited facility for um running macros ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.98",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 845.65,
+    "end": 854.29,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that kind of"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.36",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 853.68,
+    "end": 855.26,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "For instance ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.37",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 855.26,
+    "end": 861.37,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "um let's say oh oh um , or um you know"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.38",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 861.37,
+    "end": 869.67,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.100",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 870.89,
+    "end": 875.32,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay , that sounds like a a good strong idea . Um"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.46",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 871.65,
+    "end": 871.94,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "'Kay"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.101",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 877.7,
+    "end": 879.72,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "Any takes on this ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.47",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 879.52,
+    "end": 879.99,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.48",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 879.99,
+    "end": 885.76,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um I've noticed that uh gaming c is becoming quite popular with television ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.49",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 885.76,
+    "end": 886.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um when I was younger"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.50",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 886.64,
+    "end": 894.52,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we used to e play games using our cable , using the cable subscribed the cable providers ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.39",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 894.13,
+    "end": 894.44,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.51",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 894.52,
+    "end": 897.19,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "but our remote controls would get worn out really easily ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.52",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 897.19,
+    "end": 903.3,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "and the remote control was not a great kind of keyboar , um keypad , for playing games ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.53",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 903.3,
+    "end": 904.84,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "So perhaps one that was more um"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.102",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 903.32,
+    "end": 903.67,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.54",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 906.44,
+    "end": 910.0,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "specialised for game playing or interactive television ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.55",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 910.0,
+    "end": 912.94,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "They they've recently brought out this new remote control ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.56",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 912.94,
+    "end": 917.64,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "for people to set their favourite channels , or um to record things ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.57",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 917.64,
+    "end": 924.71,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.58",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 924.71,
+    "end": 927.1,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and slide another bar to say what time it ends ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.103",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 925.19,
+    "end": 925.56,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.59",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 927.1,
+    "end": 927.68,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "you know that's"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.104",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 927.99,
+    "end": 928.19,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Yeah"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.105",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 928.19,
+    "end": 928.54,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I've heard"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.106",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 928.54,
+    "end": 930.05,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "I've seen the bar-code design before ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.34",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 928.82,
+    "end": 929.23,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.107",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 930.05,
+    "end": 930.25,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "yeah ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.40",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 930.23,
+    "end": 930.51,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.60",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 930.48,
+    "end": 930.7,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Yeah ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.61",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 930.7,
+    "end": 932.25,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "it's it's taken out the"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.62",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 933.87,
+    "end": 937.79,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Y you don't have to be uh really clever to use a remote control ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.63",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 937.79,
+    "end": 942.58,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.65",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 944.45,
+    "end": 948.53,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "Uh , you wanna be able to change angles in interactive television ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.66",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 948.53,
+    "end": 952.37,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "so you need buttons to change the television angle , the camera angles and stuff like that ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.109",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 953.03,
+    "end": 953.76,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay , well"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.35",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 953.24,
+    "end": 953.59,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "'Kay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.110",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 953.76,
+    "end": 955.11,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we're beginning to run out of time now ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.111",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 955.11,
+    "end": 955.48,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "so ,"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.67",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 955.24,
+    "end": 955.5,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.112",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 955.48,
+    "end": 956.58,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "we've got a couple of ideas ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.113",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 956.58,
+    "end": 958.53,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "we can"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.114",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 958.53,
+    "end": 961.02,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we'll have to work fast ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.115",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 961.02,
+    "end": 962.63,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "um , alright"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.116",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 962.63,
+    "end": 964.75,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "as you can see we've got thirty minutes until the next meeting ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.117",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 964.75,
+    "end": 970.2,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so we'll have to try and decide on some of the basic functionality ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.118",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 970.2,
+    "end": 972.6,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "um , how the user interface might work ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.119",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 972.6,
+    "end": 977.86,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "that'll be a key aspect especially if the idea of um some kind of macros facility"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.120",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 977.86,
+    "end": 979.4,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "because you have to program it ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.121",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 979.4,
+    "end": 983.98,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "you have to have a lot of response back , or at least some kind . Um"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.41",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 982.47,
+    "end": 982.8,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.122",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 986.88,
+    "end": 990.5,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "And we're gonna maybe n try and have to figure out"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.68",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 991.23,
+    "end": 992.37,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "What the user wants uh ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.123",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 992.08,
+    "end": 994.44,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "what the user wants , yes ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.69",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 993.45,
+    "end": 993.78,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.124",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 994.44,
+    "end": 996.83,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um , right ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.125",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 996.83,
+    "end": 1001.2,
+    "dialogue_act": "Elicit-Offer-Or-Suggestion",
+    "type_id": "ami_da_8",
+    "text": "Has anybody got anything they'd like to add at this stage , anything they think that might have been missed so far ?"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.36",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1002.36,
+    "end": 1002.5,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Well"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.37",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1002.5,
+    "end": 1003.99,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "when you're talking about gaming and stuff ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.38",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1003.99,
+    "end": 1009.3,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "do you think they should have some sort of stick on it , rather than buttons ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.70",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 1008.75,
+    "end": 1010.32,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "Oh . Okay , ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.39",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1010.16,
+    "end": 1012.97,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Like uh control pads , you know of games ,"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.40",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1012.97,
+    "end": 1013.8,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "but"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.71",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 1013.59,
+    "end": 1013.84,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Mm-hmm ."
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.41",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1013.8,
+    "end": 1015.55,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "or is that a bit ridiculous ?"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.126",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1016.96,
+    "end": 1017.99,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "I I don't see why not ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.127",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1017.99,
+    "end": 1020.24,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "almost everybody is probably used to a console by now ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.128",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1020.24,
+    "end": 1023.29,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "and all of them incorporate small keypads on them ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.129",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1023.29,
+    "end": 1026.12,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "in fact even the mobile phones these days are beginning to use them as well ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.130",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1026.12,
+    "end": 1031.32,
+    "dialogue_act": "Inform",
+    "type_id": "ami_da_4",
+    "text": "so it's probably an interface that most people are used to . Um"
+  },
+  {
+    "id": "ES2003a.D.dialog-act.vkaraisk.42",
+    "speaker": "D",
+    "global_speaker": "MEE010",
+    "start": 1026.16,
+    "end": 1026.51,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Yeah ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.131",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1033.18,
+    "end": 1037.74,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "and that could allow n easy navigation , used as a joystick as well ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.42",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1045.78,
+    "end": 1055.3,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Mm-hmm . The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.43",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1055.3,
+    "end": 1060.06,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "something that just fits fits as comfortably as possible into the hand ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.44",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1060.06,
+    "end": 1074.55,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "But of course , uh al al also allows for the possibility of a more sort of slightly unconventional or attractive uh sha shape for it overall , ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.132",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1072.5,
+    "end": 1072.89,
+    "dialogue_act": "Backchannel",
+    "type_id": "ami_da_1",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.133",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1075.58,
+    "end": 1077.06,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "So ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.134",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1077.06,
+    "end": 1081.24,
+    "dialogue_act": "Elicit-Assessment",
+    "type_id": "ami_da_11",
+    "text": "small , stylish , and something that's just a little different ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.45",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1077.09,
+    "end": 1079.03,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "A curve ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.46",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1079.03,
+    "end": 1080.04,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "mm-hmm ."
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.47",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1080.04,
+    "end": 1083.86,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Something sort of sort of sl slightly sort of biomorphic in form ,"
+  },
+  {
+    "id": "ES2003a.A.dialog-act.vkaraisk.48",
+    "speaker": "A",
+    "global_speaker": "MEE011",
+    "start": 1083.86,
+    "end": 1088.16,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "uh which it would need to be to sort of conform to the shape of the hand more efficiently anyway ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.135",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1088.53,
+    "end": 1089.74,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.136",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1089.74,
+    "end": 1092.2,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "That's definitely something that we should be able to do quite easily ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.137",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1093.27,
+    "end": 1095.67,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "I would I would have hoped so anyway ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.138",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1095.67,
+    "end": 1096.92,
+    "dialogue_act": "Stall",
+    "type_id": "ami_da_2",
+    "text": "Um , right ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.139",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1100.31,
+    "end": 1102.71,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "I'd say we finish this one up ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.140",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1102.71,
+    "end": 1103.35,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "we get started ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.141",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1103.35,
+    "end": 1104.2,
+    "dialogue_act": "Fragment",
+    "type_id": "ami_da_3",
+    "text": "I'll get in ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.142",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1104.2,
+    "end": 1107.94,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "I'll write up what we've um kind of quickly done ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.143",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1107.94,
+    "end": 1109.16,
+    "dialogue_act": "Offer",
+    "type_id": "ami_da_7",
+    "text": "and I'll get that out to everybody ."
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.72",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 1109.99,
+    "end": 1111.08,
+    "dialogue_act": "Comment-About-Understanding",
+    "type_id": "ami_da_12",
+    "text": "'Kay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.144",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1110.46,
+    "end": 1111.74,
+    "dialogue_act": "Elicit-Comment-Understanding",
+    "type_id": "ami_da_13",
+    "text": "Yeah ?"
+  },
+  {
+    "id": "ES2003a.C.dialog-act.vkaraisk.73",
+    "speaker": "C",
+    "global_speaker": "MEE012",
+    "start": 1111.08,
+    "end": 1111.28,
+    "dialogue_act": "Other",
+    "type_id": "ami_da_16",
+    "text": "So ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.145",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1111.74,
+    "end": 1112.12,
+    "dialogue_act": "Assess",
+    "type_id": "ami_da_9",
+    "text": "Okay ."
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.147",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1118.69,
+    "end": 1124.76,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "Um , as far as I'm aware we leave the microphones here , um unless we get told otherwise ,"
+  },
+  {
+    "id": "ES2003a.B.dialog-act.vkaraisk.148",
+    "speaker": "B",
+    "global_speaker": "MEE009",
+    "start": 1124.76,
+    "end": 1126.69,
+    "dialogue_act": "Suggest",
+    "type_id": "ami_da_6",
+    "text": "and just take the laptops with us ."
+  }
+]
