@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.scratch/
+condition_inputs/
+models/**/*.onnx
+models/**/*.safetensors
+.venv*/
+.idea/

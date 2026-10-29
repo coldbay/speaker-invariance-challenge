@@ -1,0 +1,229 @@
+{
+  "text": "[1.45][S01] This is the agenda for today's meeting, as you can see, opening, acquaint um we already got through opening and.[7.86][8.26][S02] It was 'cause it was it looks the best, the stripes and uh they're just the most feared of.[14.36][17.08][S01] Next we have.[17.91][18.06][S02] Tarik Ramon, T A R I K.[19.98][20.23][S01] T R I K and your role in this is?[23.58][23.60][S02] Industrial designer.[24.55][24.75][S01] Industrial designer.[25.72]",
+  "prompt_len": 428,
+  "generated_tokens": 191,
+  "job": {
+    "job_id": "pad1500ms_fwd/case_001/full",
+    "condition": "pad1500ms_fwd",
+    "clip_id": "ES2003a_same_direction_control_01",
+    "context": "full",
+    "reference_order": [
+      "B",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_001",
+      "segment_002",
+      "segment_003",
+      "segment_004",
+      "segment_005"
+    ],
+    "leading_silence_seconds": 1.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "6312b9c33b52f0e2046b6bc05b06f0576960d218cad27ebc9d36cd3e0efe0ec1",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "B",
+        "start": 1.5,
+        "end": 4.5
+      },
+      {
+        "speaker": "B",
+        "start": 4.9,
+        "end": 7.9
+      },
+      {
+        "speaker": "D",
+        "start": 8.3,
+        "end": 11.3000625
+      },
+      {
+        "speaker": "D",
+        "start": 11.7000625,
+        "end": 14.700125
+      }
+    ],
+    "clip_offset": 15.100125,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 2.0,
+        "end": 2.8500000000000014
+      },
+      {
+        "segment_id": "segment_001",
+        "start": 3.010000000000005,
+        "end": 4.969999999999999
+      },
+      {
+        "segment_id": "segment_002",
+        "start": 5.190000000000005,
+        "end": 6.960000000000001
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 6.960000000000001,
+        "end": 8.420000000000002
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 8.510000000000005,
+        "end": 9.530000000000001
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 9.68,
+        "end": 10.620000000000005
+      }
+    ],
+    "input_audio_seconds": 26.630125,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 184480,
+    "evaluation_pcm_sha256": "f843ad8a714e614984220e4e6641a591fb983a6ec79e452d8edf570ce0121ec2",
+    "input_pcm_sha256": "5606a66cc1ddadaf0183036afcbb1667d70ae63d5f6741c571a96da206ef091f",
+    "input_wav_sha256": "c2ac405a61ffe29421f14309f0dda2704c14759872856424270b8987baf10c6b",
+    "reference_sha256_multiset": [
+      "265f2aaf14dfa4a23bc8bc0ec1ef7e42d01377ed3210ea809ef60c931b4b503d",
+      "6b6e477a8eded9f424908a79f5af3eea9634bcac2825746568f52edcf078cd0a",
+      "9f11037922eed51bc91ad6e8ae1d2e4b7a664913e0969d44960a1667cf93a71a",
+      "a8cfc7445ee8d9158cb18fc0aa92083e9257a60faf406badd161e0549c74210e"
+    ],
+    "leading_silence_seconds": 1.5,
+    "unpadded_input_pcm_sha256": "184db6fa8aacf429e7761b361fa3f77d94f2ebe8a9a5e1b5e1db5d36594df51b",
+    "frontend_chunk_count": 1
+  },
+  "segments": [
+    {
+      "start": 1.45,
+      "end": 7.86,
+      "speaker": "S01",
+      "text": "This is the agenda for today's meeting, as you can see, opening, acquaint um we already got through opening and."
+    },
+    {
+      "start": 8.26,
+      "end": 14.36,
+      "speaker": "S02",
+      "text": "It was 'cause it was it looks the best, the stripes and uh they're just the most feared of."
+    },
+    {
+      "start": 17.08,
+      "end": 17.91,
+      "speaker": "S01",
+      "text": "Next we have."
+    },
+    {
+      "start": 18.06,
+      "end": 19.98,
+      "speaker": "S02",
+      "text": "Tarik Ramon, T A R I K."
+    },
+    {
+      "start": 20.23,
+      "end": 23.58,
+      "speaker": "S01",
+      "text": "T R I K and your role in this is?"
+    },
+    {
+      "start": 23.6,
+      "end": 24.55,
+      "speaker": "S02",
+      "text": "Industrial designer."
+    },
+    {
+      "start": 24.75,
+      "end": 25.72,
+      "speaker": "S01",
+      "text": "Industrial designer."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 5.96,
+      "D": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "D": 5.659999999999998
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.8098750000000017
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_001",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.8698749999999968
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_002",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.769999999999996
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.4600000000000009
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.9398749999999971
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.9398750000000007
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 6.706924031954259,
+  "peak_cuda_allocated_bytes": 1918718976,
+  "reached_token_limit": false
+}

@@ -1,0 +1,121 @@
+{
+  "text": "[0.06][S01] Falling a little bit behind schedule.[1.56][3.35][S01] And that's uh fifteen twenty.[6.41][6.78][S02] Basic point, uh have a lesser criteria that we need to, it's a seven s- um seven.[11.86][13.56][S01] That's alright.[14.12][14.95][S02] That's fine.[15.41][15.62][S01] Yeah, is that.[16.31][16.68][S02] That's that's fine.[17.54][18.06][S01] Um, so is there anything here that you[23.24][26.51][S01] that you wanted to cover as in the criteria that you've covered, and then we'll come back pretty much promptly to this.[31.61][31.61][S02] What do you mean cri- is there anything I wanna?[33.21][32.94][S01] I- is there any of these criteria that need any explaining, or is there anything that you s- thought that really would stand out compared to the others?[39.62][39.86][S02] Um, a few.[40.81]",
+  "prompt_len": 637,
+  "generated_tokens": 329,
+  "clip_id": "ES2003d_same_direction_control_01",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.56,
+      "speaker": "S01",
+      "text": "Falling a little bit behind schedule."
+    },
+    {
+      "start": 3.35,
+      "end": 6.41,
+      "speaker": "S01",
+      "text": "And that's uh fifteen twenty."
+    },
+    {
+      "start": 6.78,
+      "end": 11.86,
+      "speaker": "S02",
+      "text": "Basic point, uh have a lesser criteria that we need to, it's a seven s- um seven."
+    },
+    {
+      "start": 13.56,
+      "end": 14.12,
+      "speaker": "S01",
+      "text": "That's alright."
+    },
+    {
+      "start": 14.95,
+      "end": 15.41,
+      "speaker": "S02",
+      "text": "That's fine."
+    },
+    {
+      "start": 15.62,
+      "end": 16.31,
+      "speaker": "S01",
+      "text": "Yeah, is that."
+    },
+    {
+      "start": 16.68,
+      "end": 17.54,
+      "speaker": "S02",
+      "text": "That's that's fine."
+    },
+    {
+      "start": 18.06,
+      "end": 23.24,
+      "speaker": "S01",
+      "text": "Um, so is there anything here that you"
+    },
+    {
+      "start": 26.51,
+      "end": 31.61,
+      "speaker": "S01",
+      "text": "that you wanted to cover as in the criteria that you've covered, and then we'll come back pretty much promptly to this."
+    },
+    {
+      "start": 31.61,
+      "end": 33.21,
+      "speaker": "S02",
+      "text": "What do you mean cri- is there anything I wanna?"
+    },
+    {
+      "start": 32.94,
+      "end": 39.62,
+      "speaker": "S01",
+      "text": "I- is there any of these criteria that need any explaining, or is there anything that you s- thought that really would stand out compared to the others?"
+    },
+    {
+      "start": 39.86,
+      "end": 40.81,
+      "speaker": "S02",
+      "text": "Um, a few."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "B",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "speaker": "B",
+      "start": 3.4,
+      "end": 6.4000625
+    },
+    {
+      "speaker": "C",
+      "start": 6.8000625,
+      "end": 9.8000625
+    },
+    {
+      "speaker": "C",
+      "start": 10.2000625,
+      "end": 13.2000625
+    }
+  ],
+  "clip_offset": 13.6000625,
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 4.5000625,
+      "C": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "C": 4.659937499999999
+    }
+  },
+  "inference_seconds": 9.409417255781591,
+  "peak_cuda_allocated_bytes": 1950594048,
+  "peak_cuda_reserved_bytes": 2065694720,
+  "reached_token_limit": false
+}

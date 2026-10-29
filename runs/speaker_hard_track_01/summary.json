@@ -1,0 +1,325 @@
+{
+  "tiers": [
+    "overlap_light",
+    "overlap_heavy",
+    "short_clean",
+    "short_overlap"
+  ],
+  "conditions": [
+    "pad0000ms_fwd",
+    "pad0000ms_rev",
+    "pad0500ms_fwd",
+    "pad1000ms_fwd",
+    "pad1500ms_fwd",
+    "pad2000ms_fwd",
+    "pad2500ms_fwd",
+    "pad3000ms_fwd",
+    "pad3500ms_fwd",
+    "pad4000ms_fwd"
+  ],
+  "summary": {
+    "moss": {
+      "all/all": {
+        "utterances": 52,
+        "correct_runs": 416,
+        "runs": 520,
+        "consistent_correct": 31,
+        "flipped": 20,
+        "missing_runs": 34,
+        "accuracy": 0.8
+      },
+      "development/all": {
+        "utterances": 22,
+        "correct_runs": 182,
+        "runs": 220,
+        "consistent_correct": 17,
+        "flipped": 4,
+        "missing_runs": 14,
+        "accuracy": 0.8272727272727273
+      },
+      "development/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 38,
+        "runs": 60,
+        "consistent_correct": 3,
+        "flipped": 2,
+        "missing_runs": 0,
+        "accuracy": 0.6333333333333333
+      },
+      "development/overlap_light": {
+        "utterances": 7,
+        "correct_runs": 70,
+        "runs": 70,
+        "consistent_correct": 7,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_clean": {
+        "utterances": 4,
+        "correct_runs": 40,
+        "runs": 40,
+        "consistent_correct": 4,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_overlap": {
+        "utterances": 5,
+        "correct_runs": 34,
+        "runs": 50,
+        "consistent_correct": 3,
+        "flipped": 2,
+        "missing_runs": 14,
+        "accuracy": 0.68
+      },
+      "evaluation/all": {
+        "utterances": 30,
+        "correct_runs": 234,
+        "runs": 300,
+        "consistent_correct": 14,
+        "flipped": 16,
+        "missing_runs": 20,
+        "accuracy": 0.78
+      },
+      "evaluation/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 46,
+        "runs": 60,
+        "consistent_correct": 2,
+        "flipped": 4,
+        "missing_runs": 0,
+        "accuracy": 0.7666666666666667
+      },
+      "evaluation/overlap_light": {
+        "utterances": 6,
+        "correct_runs": 58,
+        "runs": 60,
+        "consistent_correct": 4,
+        "flipped": 2,
+        "missing_runs": 1,
+        "accuracy": 0.9666666666666667
+      },
+      "evaluation/short_clean": {
+        "utterances": 9,
+        "correct_runs": 87,
+        "runs": 90,
+        "consistent_correct": 6,
+        "flipped": 3,
+        "missing_runs": 0,
+        "accuracy": 0.9666666666666667
+      },
+      "evaluation/short_overlap": {
+        "utterances": 9,
+        "correct_runs": 43,
+        "runs": 90,
+        "consistent_correct": 2,
+        "flipped": 7,
+        "missing_runs": 19,
+        "accuracy": 0.4777777777777778
+      }
+    },
+    "moss_relink_verify": {
+      "all/all": {
+        "utterances": 52,
+        "correct_runs": 437,
+        "runs": 520,
+        "consistent_correct": 42,
+        "flipped": 5,
+        "missing_runs": 0,
+        "accuracy": 0.8403846153846154
+      },
+      "development/all": {
+        "utterances": 22,
+        "correct_runs": 184,
+        "runs": 220,
+        "consistent_correct": 18,
+        "flipped": 1,
+        "missing_runs": 0,
+        "accuracy": 0.8363636363636363
+      },
+      "development/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 40,
+        "runs": 60,
+        "consistent_correct": 4,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.6666666666666666
+      },
+      "development/overlap_light": {
+        "utterances": 7,
+        "correct_runs": 70,
+        "runs": 70,
+        "consistent_correct": 7,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_clean": {
+        "utterances": 4,
+        "correct_runs": 40,
+        "runs": 40,
+        "consistent_correct": 4,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_overlap": {
+        "utterances": 5,
+        "correct_runs": 34,
+        "runs": 50,
+        "consistent_correct": 3,
+        "flipped": 1,
+        "missing_runs": 0,
+        "accuracy": 0.68
+      },
+      "evaluation/all": {
+        "utterances": 30,
+        "correct_runs": 253,
+        "runs": 300,
+        "consistent_correct": 24,
+        "flipped": 4,
+        "missing_runs": 0,
+        "accuracy": 0.8433333333333334
+      },
+      "evaluation/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 53,
+        "runs": 60,
+        "consistent_correct": 4,
+        "flipped": 2,
+        "missing_runs": 0,
+        "accuracy": 0.8833333333333333
+      },
+      "evaluation/overlap_light": {
+        "utterances": 6,
+        "correct_runs": 60,
+        "runs": 60,
+        "consistent_correct": 6,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "evaluation/short_clean": {
+        "utterances": 9,
+        "correct_runs": 90,
+        "runs": 90,
+        "consistent_correct": 9,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "evaluation/short_overlap": {
+        "utterances": 9,
+        "correct_runs": 50,
+        "runs": 90,
+        "consistent_correct": 5,
+        "flipped": 2,
+        "missing_runs": 0,
+        "accuracy": 0.5555555555555556
+      }
+    },
+    "wespeaker": {
+      "all/all": {
+        "utterances": 52,
+        "correct_runs": 410,
+        "runs": 520,
+        "consistent_correct": 41,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.7884615384615384
+      },
+      "development/all": {
+        "utterances": 22,
+        "correct_runs": 170,
+        "runs": 220,
+        "consistent_correct": 17,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.7727272727272727
+      },
+      "development/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 30,
+        "runs": 60,
+        "consistent_correct": 3,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.5
+      },
+      "development/overlap_light": {
+        "utterances": 7,
+        "correct_runs": 70,
+        "runs": 70,
+        "consistent_correct": 7,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_clean": {
+        "utterances": 4,
+        "correct_runs": 40,
+        "runs": 40,
+        "consistent_correct": 4,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "development/short_overlap": {
+        "utterances": 5,
+        "correct_runs": 30,
+        "runs": 50,
+        "consistent_correct": 3,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.6
+      },
+      "evaluation/all": {
+        "utterances": 30,
+        "correct_runs": 240,
+        "runs": 300,
+        "consistent_correct": 24,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.8
+      },
+      "evaluation/overlap_heavy": {
+        "utterances": 6,
+        "correct_runs": 60,
+        "runs": 60,
+        "consistent_correct": 6,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "evaluation/overlap_light": {
+        "utterances": 6,
+        "correct_runs": 60,
+        "runs": 60,
+        "consistent_correct": 6,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 1.0
+      },
+      "evaluation/short_clean": {
+        "utterances": 9,
+        "correct_runs": 80,
+        "runs": 90,
+        "consistent_correct": 8,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.8888888888888888
+      },
+      "evaluation/short_overlap": {
+        "utterances": 9,
+        "correct_runs": 40,
+        "runs": 90,
+        "consistent_correct": 4,
+        "flipped": 0,
+        "missing_runs": 0,
+        "accuracy": 0.4444444444444444
+      }
+    }
+  }
+}

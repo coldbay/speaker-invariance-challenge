@@ -1,0 +1,20 @@
+{
+  "packages": {
+    "torch": "2.4.0+cu118",
+    "transformers": "5.6.0",
+    "moss-transcribe-diarize": "0.1.0"
+  },
+  "profile": {
+    "dtype": "bfloat16",
+    "max_new_tokens": 4096,
+    "gap_seconds": 0.4,
+    "do_sample": false,
+    "seed": 0,
+    "attention": "sdpa",
+    "cpu_threads": 2
+  },
+  "gpu": "NVIDIA RTX A5000",
+  "torch_cuda": "11.8",
+  "cuda_visible_devices": "4",
+  "shard": "0/2"
+}

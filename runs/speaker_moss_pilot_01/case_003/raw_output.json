@@ -1,0 +1,151 @@
+{
+  "text": "[0.00][S01] Uh I sort of prepared uh opening acquaintance.[5.24][6.78][S02] This part of our uh acquaint or introduction. I started making an overview for myself um.[13.12][15.56][S01] Why a cat?[16.44][17.08][S02] Uh yeah, I don't know, they're my favorite pets.[19.62][20.81][S01] You have some or?[21.61][21.66][S02] Uh I have a color already.[23.04][25.49][S02] Yeah, I'm not so good at drawing with this kind of stu oh shit, um.[29.88][30.06][S01] The pen, yeah.[31.52][31.61][S02] Excuse my language.[32.54][33.62][S01] Sure.[34.11][35.21][S02] I don't know how to draw his face, but you get the idea, it's a cat. It's my favorite uh pet animal, cause they're cute, they're independent and cuddly, I don't know.[45.04][37.44][S01] Yeah.[37.92][47.28][S02] That's it? Or do I need to use more colors in?[50.24][48.64][S01] Yeah.[49.14][51.40][S01] Well, I think it's okay. You get idea.[54.01][53.22][S02] Alright.[53.74][54.22][S02] Yeah.[54.64]",
+  "prompt_len": 799,
+  "generated_tokens": 439,
+  "clip_id": "TS3006a_question_answer_reversal_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "speaker": "S01",
+      "text": "Uh I sort of prepared uh opening acquaintance."
+    },
+    {
+      "start": 6.78,
+      "end": 13.12,
+      "speaker": "S02",
+      "text": "This part of our uh acquaint or introduction. I started making an overview for myself um."
+    },
+    {
+      "start": 15.56,
+      "end": 16.44,
+      "speaker": "S01",
+      "text": "Why a cat?"
+    },
+    {
+      "start": 17.08,
+      "end": 19.62,
+      "speaker": "S02",
+      "text": "Uh yeah, I don't know, they're my favorite pets."
+    },
+    {
+      "start": 20.81,
+      "end": 21.61,
+      "speaker": "S01",
+      "text": "You have some or?"
+    },
+    {
+      "start": 21.66,
+      "end": 23.04,
+      "speaker": "S02",
+      "text": "Uh I have a color already."
+    },
+    {
+      "start": 25.49,
+      "end": 29.88,
+      "speaker": "S02",
+      "text": "Yeah, I'm not so good at drawing with this kind of stu oh shit, um."
+    },
+    {
+      "start": 30.06,
+      "end": 31.52,
+      "speaker": "S01",
+      "text": "The pen, yeah."
+    },
+    {
+      "start": 31.61,
+      "end": 32.54,
+      "speaker": "S02",
+      "text": "Excuse my language."
+    },
+    {
+      "start": 33.62,
+      "end": 34.11,
+      "speaker": "S01",
+      "text": "Sure."
+    },
+    {
+      "start": 35.21,
+      "end": 45.04,
+      "speaker": "S02",
+      "text": "I don't know how to draw his face, but you get the idea, it's a cat. It's my favorite uh pet animal, cause they're cute, they're independent and cuddly, I don't know."
+    },
+    {
+      "start": 37.44,
+      "end": 37.92,
+      "speaker": "S01",
+      "text": "Yeah."
+    },
+    {
+      "start": 47.28,
+      "end": 50.24,
+      "speaker": "S02",
+      "text": "That's it? Or do I need to use more colors in?"
+    },
+    {
+      "start": 48.64,
+      "end": 49.14,
+      "speaker": "S01",
+      "text": "Yeah."
+    },
+    {
+      "start": 51.4,
+      "end": 54.01,
+      "speaker": "S01",
+      "text": "Well, I think it's okay. You get idea."
+    },
+    {
+      "start": 53.22,
+      "end": 53.74,
+      "speaker": "S02",
+      "text": "Alright."
+    },
+    {
+      "start": 54.22,
+      "end": 54.64,
+      "speaker": "S02",
+      "text": "Yeah."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "speaker": "A",
+      "start": 3.4,
+      "end": 6.4000625
+    },
+    {
+      "speaker": "C",
+      "start": 6.8000625,
+      "end": 9.8000625
+    },
+    {
+      "speaker": "C",
+      "start": 10.2000625,
+      "end": 13.2000625
+    }
+  ],
+  "clip_offset": 13.6000625,
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 4.84,
+      "C": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "C": 5.919937499999999
+    }
+  },
+  "inference_seconds": 12.09378747199662,
+  "peak_cuda_allocated_bytes": 1983737344,
+  "peak_cuda_reserved_bytes": 2107637760,
+  "reached_token_limit": false
+}

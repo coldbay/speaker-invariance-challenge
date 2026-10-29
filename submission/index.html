@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Invariant Speaker Attribution Challenge</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  :root {
+    --ink:#1f2328; --muted:#5b636d; --line:#e3e5e8; --bg:#fafaf8; --panel:#ffffff;
+    --accent:#1f4e79; --accent-soft:#eaf1f8; --good:#1e6b3a; --warn-soft:#fff7e6;
+  }
+  html { scroll-behavior:smooth; scroll-padding-top:72px; }
+  body { background:var(--bg); color:var(--ink); font-family:'Noto Sans KR',system-ui,sans-serif;
+         font-size:16px; line-height:1.75; word-break:keep-all; }
+  .navbar { background:var(--panel); border-bottom:1px solid var(--line); }
+  .navbar-brand { font-weight:700; color:var(--accent)!important; font-size:1rem; }
+  .nav-link { color:var(--muted)!important; font-size:.92rem; }
+  .nav-link.active, .nav-link:hover { color:var(--accent)!important; }
+  main { max-width:920px; margin:0 auto; padding:88px 16px 64px; }
+  .hero { padding:36px 0 28px; border-bottom:1px solid var(--line); margin-bottom:8px; }
+  .eyebrow { font-size:.78rem; letter-spacing:.08em; text-transform:uppercase; color:var(--accent); font-weight:700; }
+  .hero h1 { font-size:1.9rem; font-weight:700; line-height:1.4; margin:.4rem 0 .8rem; }
+  .hero .lead { font-size:1.08rem; color:var(--muted); max-width:720px; }
+  .meta { font-size:.88rem; color:var(--muted); }
+  .stat { background:var(--panel); border:1px solid var(--line); border-radius:6px; padding:16px 18px; height:100%; }
+  .stat .num { font-size:1.6rem; font-weight:700; color:var(--accent); line-height:1.2; }
+  .stat .lbl { font-size:.86rem; color:var(--muted); line-height:1.5; margin-top:4px; }
+  section { padding:44px 0 12px; border-bottom:1px solid var(--line); }
+  section:last-of-type { border-bottom:0; }
+  .sec-no { font-size:.8rem; font-weight:700; color:var(--accent); letter-spacing:.06em; }
+  h2 { font-size:1.45rem; font-weight:700; margin:.2rem 0 1rem; }
+  h3 { font-size:1.05rem; font-weight:700; margin:1.6rem 0 .6rem; }
+  p, li { max-width:760px; }
+  p { margin-bottom:.9rem; }
+  ul, ol { padding-left:1.2rem; }
+  li { margin-bottom:.35rem; }
+  .table { font-size:.92rem; background:var(--panel); margin-bottom:.5rem; }
+  .table thead th { background:#f3f4f6; font-weight:500; color:var(--muted); font-size:.84rem; border-bottom:1px solid var(--line); }
+  .table td.n, .table th.n { text-align:right; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .table tr.top td { background:var(--accent-soft); }
+  .best { font-weight:700; color:var(--good); }
+  .note { font-size:.86rem; color:var(--muted); }
+  .callout { background:var(--accent-soft); border-left:3px solid var(--accent); padding:14px 18px; border-radius:0 6px 6px 0; margin:1rem 0; }
+  .callout.warn { background:var(--warn-soft); border-left-color:#b7791f; }
+  .callout p:last-child, .callout ul:last-child { margin-bottom:0; }
+  .tldr { background:var(--panel); border:1px solid var(--line); border-top:3px solid var(--accent); border-radius:6px;
+          padding:12px 18px; margin:1.2rem 0 .4rem; font-size:.96rem; }
+  .tldr .tag { display:inline-block; font-size:.74rem; font-weight:700; letter-spacing:.06em; color:#fff; background:var(--accent);
+               border-radius:3px; padding:1px 7px; margin-bottom:6px; }
+  .tldr ul { margin:0; padding-left:1.1rem; }
+  .tldr li { margin-bottom:.15rem; max-width:none; }
+  .card { border:1px solid var(--line); border-radius:6px; }
+  .card h3 { margin-top:0; }
+  .finding { display:flex; gap:14px; margin-bottom:1rem; }
+  .finding .k { flex:0 0 28px; height:28px; border-radius:50%; background:var(--accent); color:#fff; font-size:.85rem;
+                font-weight:700; display:flex; align-items:center; justify-content:center; margin-top:2px; }
+  .finding p { margin-bottom:.2rem; }
+  pre { background:#f3f4f6; border:1px solid var(--line); border-radius:6px; padding:14px 16px; font-size:.82rem;
+        font-family:'JetBrains Mono',monospace; white-space:pre; overflow-x:auto; }
+  code { font-family:'JetBrains Mono',monospace; font-size:.86em; color:#9a3412; }
+  .table-wrap { overflow-x:auto; }
+  footer { font-size:.84rem; color:var(--muted); padding:24px 0; border-top:1px solid var(--line); }
+  @media (max-width:576px) { .hero h1 { font-size:1.45rem; } h2 { font-size:1.25rem; } body { font-size:15px; } }
+</style>
+</head>
+<body data-bs-spy="scroll" data-bs-target="#nav" data-bs-offset="80">
+
+<nav class="navbar navbar-expand-md fixed-top">
+  <div class="container" style="max-width:920px;">
+    <a class="navbar-brand" href="#top">Invariant Speaker Attribution</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-label="메뉴"><span class="navbar-toggler-icon"></span></button>
+    <div id="menu" class="collapse navbar-collapse">
+      <ul id="nav" class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#overview">개요</a></li>
+        <li class="nav-item"><a class="nav-link" href="#related">관련 연구</a></li>
+        <li class="nav-item"><a class="nav-link" href="#task">과제·지표</a></li>
+        <li class="nav-item"><a class="nav-link" href="#dataset">데이터</a></li>
+        <li class="nav-item"><a class="nav-link" href="#leaderboard">리더보드</a></li>
+        <li class="nav-item"><a class="nav-link" href="#baselines">Baseline</a></li>
+        <li class="nav-item"><a class="nav-link" href="#findings">발견</a></li>
+        <li class="nav-item"><a class="nav-link" href="#code">평가·제출</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main id="top">
+
+<div class="hero">
+  <div class="eyebrow">Speech Recognition Challenge 2026 · Speaker Attribution</div>
+  <h1>정확도 91%, 불변 정답률 67%<br><span style="font-weight:500;">무음 0.5초에 바뀌는 회의 화자 귀속</span></h1>
+  <p class="lead">회의 음성의 화자 귀속을 <b>한 번 맞히는가</b>가 아니라 <b>흔들림 없이 맞히는가</b>로 평가하는 챌린지</p>
+  <p class="mb-3">
+    <a class="btn btn-dark btn-sm" href="https://github.com/coldbay/speaker-invariance-challenge">GitHub Repository</a>
+    <a class="btn btn-outline-secondary btn-sm ms-1" href="#leaderboard">리더보드 보기</a>
+  </p>
+  <div class="meta">202020756 <b>장봉현</b> · Baseline 코드 · 평가 데이터 · 평가 코드 포함 · 데이터 출처 AMI Meeting Corpus (CC BY 4.0)</div>
+</div>
+
+<div class="row g-3 my-3">
+  <div class="col-sm-4"><div class="stat"><div class="num">91.4% → 67.1%</div><div class="lbl">MOSS의 단일 조건 정확도 → 10가지 변형 모두에서 맞힌 비율 (미관측 회의, Main)</div></div></div>
+  <div class="col-sm-4"><div class="stat"><div class="num">5 / 8</div><div class="lbl">통합 모델이 무음·등록 순서 변화에 흔들린 미관측 4인 회의</div></div></div>
+  <div class="col-sm-4"><div class="stat"><div class="num">≤ 65%</div><div class="lbl">Hard 트랙(겹친·짧은 발화)에서 모든 baseline의 불변 정답률</div></div></div>
+</div>
+
+<section id="overview">
+  <div class="sec-no">01</div>
+  <h2>개요</h2>
+  <h3 style="margin-top:0;">문제: 통합 모델이 만든 새로운 질문</h3>
+  <p>기존 화자 인식은 발화를 잘라 하나씩 음성 임베딩을 비교했습니다.<br>이 방식에서는 대화 앞에 무음을 붙이거나 등록 음성의 순서를 바꿔도 결과가 달라질 이유가 없습니다.</p>
+  <p>그런데 회의록 작성에 쓰이는 최신 <b>통합 모델</b>은 전사와 화자 분리를 함께 수행하며,<br>등록 음성과 대화 전체를 <b>하나의 문맥</b>으로 처리합니다.<br>그렇다면 위치나 순서처럼 <b>사람에게는 아무 의미 없는 변화</b>에도 같은 발화를 같은 사람에게 귀속할까요?</p>
+
+  <h3>왜 기존 평가로는 보이지 않았나</h3>
+  <ul>
+    <li>DER, cpWER 등 화자 분리 표준 지표는 <b>한 번 실행한 결과</b>의 오류율만 잽니다.</li>
+    <li>기존 연구의 '일관성'은 대개 <b>한 녹음 안에서</b> 같은 사람에게 같은 ID를 유지하는지를 뜻합니다.<br>입력이 조금 바뀌었을 때 같은 답을 내는지는 따로 묻지 않습니다.</li>
+    <li>통합 모델은 같은 입력에 항상 같은 출력을 내므로(결정적 디코딩),<br>한 번만 평가하면 안정적으로 보입니다.</li>
+  </ul>
+
+  <div class="callout">
+    <p><b>핵심 관찰</b> — 통합 모델 MOSS는 한 가지 입력에서 91.4%를 맞히지만,<br>대화 내용은 그대로 둔 10가지 변형 <b>모두</b>에서 맞힌 발화는 67.1%뿐입니다.<br>처음 보는 4인 회의 8개 중 5개에서 화자 귀속이 바뀌었습니다.</p>
+  </div>
+
+  <h3>이 챌린지의 기여</h3>
+  <ol>
+    <li><b>불변성 평가 축</b> — 내용 보존 변형(앞 무음 0–4초, 등록 순서 역순) 10가지를 정의하고,<br>모든 변형에서 맞힌 비율인 <b>불변 정답률</b>을 대표 지표로 삼습니다.</li>
+    <li><b>실제 회의 기반 데이터</b> — AMI 회의의 연속 구간에서 질문↔답변 역할이 바뀌는 대화와 발화 겹침이 많은 대화를 골랐고,<br>화자가 겹치지 않는 미관측 평가 세트를 따로 두었습니다.</li>
+    <li><b>오류 원인의 분리</b> — 통합 모델의 실패를 '등록 음성을 화자 ID에 연결하지 못함'과 '대화 안에서 잘못 귀속함'으로 나눠 보고합니다.</li>
+    <li><b>열린 과제</b> — 간단한 임베딩 재연결로 Main 트랙의 불변성은 회복되지만,<br>겹친·짧은 발화(Hard 트랙)에서는 어떤 방법도 불변 정답률 65%를 넘지 못합니다.</li>
+  </ol>
+  <p class="note">확인한 범위의 선행연구에서는 통합 음성인식 모델의 등록 기반 화자 귀속을 이런 내용 보존 변형으로 평가한 벤치마크를 찾지 못했습니다(아래 관련 연구 참고).</p>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li>통합 모델은 대화 전체를 한 문맥으로 처리해서,<br><b>의미 없는 입력 변화</b>에도 화자를 바꿀 수 있다.</li>
+      <li>기존 지표는 한 번의 실행만 보므로 이 불안정성을 놓친다 → <b>모든 변형에서 맞혀야 정답</b>인 지표로 평가한다.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="related">
+  <div class="sec-no">02</div>
+  <h2>관련 연구와 차이</h2>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th style="width:30%">연구</th><th>다루는 것</th><th style="width:34%">본 챌린지와의 차이</th></tr></thead>
+    <tbody>
+      <tr><td><a href="https://arxiv.org/abs/2601.01554">MOSS-Transcribe-Diarize</a> (2026)</td><td>전사·화자분리 통합 모델.<br>장문 대화에서 화자 귀속 때문에 생기는 성능 저하를 Δcp로 측정</td><td>한 번 실행한 결과의 오류만 측정.<br>입력 변형에 대한 귀속 불변성은 다루지 않음</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2511.16046">JEDIS-LLM</a> (2025)</td><td>짧은 클립으로 학습한 Speech-LLM의 장문 통합 전사·화자분리.<br>청크 사이 화자 ID 유지, 사전 등록 프로필</td><td>'일관성'이 한 녹음 안의 ID 유지를 뜻함.<br>같은 내용의 다른 입력에서 같은 답을 내는지는 묻지 않음</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2401.03506">DiarizationLM</a> (2024)</td><td>ASR·화자분리 결과를 LLM으로 후처리해 화자 오류 보정</td><td>정확도 개선이 목적.<br>본 챌린지는 보정 전후의 불변성까지 평가</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2406.17266">AG-LSEC</a> (2024)</td><td>음성 임베딩 점수로 언어 기반 화자 오류 보정을 보강</td><td>제안 baseline(임베딩 재연결)과 가까운 아이디어.<br>본 챌린지의 기여는 방법이 아닌 평가 축</td></tr>
+      <tr><td><a href="https://aclanthology.org/2026.acl-long.944/">SpeakerSleuth</a> (ACL 2026)</td><td>텍스트 맥락이 오디오 언어 모델의 화자 일관성 판단을 편향시키는지 평가</td><td>두 발화가 같은 사람인지 판단하는 과제.<br>본 챌린지는 실제 회의에서 발화별 화자 귀속을 변형 조건별로 평가</td></tr>
+      <tr><td><a href="https://aclanthology.org/2020.acl-main.442/">CheckList</a> (ACL 2020)</td><td>NLP 모델의 불변성 테스트(의미 없는 입력 변화에 출력이 같아야 함)</td><td>같은 원리를 음성 화자 귀속에 적용하고,<br>모든 변형에서 맞힌 비율을 대표 지표로 삼음</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2210.17016">WeSpeaker</a> (2022)</td><td>화자 임베딩 툴킷.<br>ResNet34-LM 모델 사용</td><td>음성 전용 baseline으로 사용</td></tr>
+      <tr><td><a href="https://groups.inf.ed.ac.uk/ami/corpus/">AMI Meeting Corpus</a> (Carletta et al., 2005)</td><td>다인 회의 음성과 수동 주석(단어 시각, 대화행동, 질문·응답 연결)</td><td>연속 구간·질문↔답변 전환·겹침 구간 선정에 사용</td></tr>
+    </tbody>
+  </table></div>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li><b>통합 모델 연구</b>(MOSS, JEDIS-LLM)는 한 번 실행한 정확도, 또는 한 녹음 안의 ID 유지만 본다.</li>
+      <li><b>보정 연구</b>(DiarizationLM, AG-LSEC)는 정확도를 올리는 방법이다.<br>제안 baseline도 이쪽에 가깝다.</li>
+      <li><b>불변성 테스트</b>(CheckList)는 NLP에 있던 원리다 → 이 원리를 <b>통합 모델의 화자 귀속</b>에 적용한 평가 축이 본 챌린지의 기여다.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="task">
+  <div class="sec-no">03</div>
+  <h2>과제와 평가 지표</h2>
+  <h3>입력과 출력</h3>
+  <ul>
+    <li><b>입력</b> — 연속 회의 음성 1개, 등장 화자 2–4명의 등록 음성(각 3초 × 2개), 평가할 발화의 시작·끝 시각</li>
+    <li><b>출력</b> — 각 발화의 화자 ID (등록 화자 중 하나)</li>
+  </ul>
+  <h3>변형 조건 (10가지)</h3>
+  <p>통합 모델의 입력은 <b>[등록 음성들 + 0.4초 간격] + 대화</b>를 이어 붙인 음성 하나입니다.<br>대화 음성·순서·등록 내용은 그대로 두고 다음만 바꿉니다.</p>
+  <ul>
+    <li>입력 맨 앞에 무음 0, 0.5, 1.0, …, 4.0초 추가 (9가지)</li>
+    <li>등록 음성 순서를 역순으로 (1가지)</li>
+  </ul>
+  <p class="note">발화를 잘라 따로 처리하는 임베딩 방식 모델은 이어 붙인 입력을 쓰지 않으므로 변형의 영향이 없습니다.<br>이 경우 10가지 조건의 예측이 같아 불변성은 자명하고,<br>순위는 정확도로 갈립니다.</p>
+  <h3>지표</h3>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th style="width:28%">지표</th><th>정의</th></tr></thead>
+    <tbody>
+      <tr class="top"><td><b>불변 정답률</b> (대표)</td><td>10가지 변형 <b>모두</b>에서 맞힌 발화의 비율.<br>한 번이라도 틀리면 오답</td></tr>
+      <tr><td>평균 / 최저 정답률</td><td>변형 조건별 정답률의 평균과 가장 나쁜 조건</td></tr>
+      <tr><td>Flip</td><td>조건에 따라 예측 화자가 바뀐 발화 수 (정답 여부와 무관한 안정성)</td></tr>
+      <tr><td>같은 사람 쌍</td><td>질문↔답변 전환 전후, 같은 사람의 두 발화를 모두 맞힌 쌍의 수</td></tr>
+    </tbody>
+  </table></div>
+  <h3>트랙</h3>
+  <ul>
+    <li><b>Main</b> — 길이 0.8–15초, 다른 화자와의 단어 겹침 5% 이하인 발화</li>
+    <li><b>Hard</b> — Main에서 빠지는 어려운 발화를 4계층으로 나눔:
+      가벼운 겹침(5–30%), 심한 겹침(30% 초과), 짧은 발화(0.3–0.8초), 짧고 겹친 발화.<br>클립 끝에서 잘린 발화는 제외</li>
+  </ul>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li>등록 음성이 주어진 회의에서 <b>각 발화의 화자를 맞히는</b> 과제를,<br>내용은 그대로 둔 <b>10가지 변형</b>(앞 무음 9 + 등록 역순 1)으로 반복한다.</li>
+      <li>대표 지표는 <b>불변 정답률</b>(10번 모두 맞힌 비율).<br>트랙은 깨끗한 발화의 <b>Main</b>, 겹친·짧은 발화의 <b>Hard</b>.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="dataset">
+  <div class="sec-no">04</div>
+  <h2>벤치마크 데이터</h2>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th>세트</th><th>회의</th><th class="n">화자</th><th class="n">Main</th><th class="n">Hard</th><th>용도</th></tr></thead>
+    <tbody>
+      <tr><td>Starter · dev</td><td>ES2003, TS3006 (5구간)</td><td class="n">2</td><td class="n">33</td><td class="n">22</td><td>개발</td></tr>
+      <tr><td>Starter · eval</td><td>IS1000, IS1009 (3구간)</td><td class="n">3–4</td><td class="n">37</td><td class="n">30</td><td>진단·방법 설계</td></tr>
+      <tr class="top"><td><b>Held-out</b></td><td>ES2002d, ES2009d, IS1004b, TS3010b, ES2008a, IS1006b, TS3004c, IS1008c</td><td class="n">4</td><td class="n">70</td><td class="n">175</td><td><b>최종 평가</b></td></tr>
+    </tbody>
+  </table></div>
+  <ul class="note">
+    <li>Held-out의 화자는 Starter와 한 명도 겹치지 않으며,<br>방법을 고정한 뒤 한 번만 평가했습니다.</li>
+    <li>Held-out 8개 중 4개는 질문↔답변 전환 구간,<br>4개는 발화 겹침이 많은 구간입니다.</li>
+    <li>AMI 공식 수동 주석과 Mix-Headset 음성의 연속 구간을 그대로 잘라 썼습니다(재배열·합성·화자 제거 없음).<br>구간은 주석으로 자동 선정했고 청취 검토는 진행 중입니다.</li>
+  </ul>
+  <h3>파일 구성 (<code>data/ami/heldout/</code>, Starter는 <code>data/ami/prepared/</code>)</h3>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th style="width:30%">파일</th><th>내용</th></tr></thead>
+    <tbody>
+      <tr><td><code>audio/*.wav</code></td><td>연속 회의 구간 (16kHz, mono, PCM16)</td></tr>
+      <tr><td><code>references/*.wav</code></td><td>화자별 등록 음성 3초 × 2개.<br>평가 구간 밖에서 추출</td></tr>
+      <tr><td><code>inputs.jsonl</code></td><td>모델 입력: 음성 경로·SHA256, 등록 화자별 음성, 공개 발화 구간</td></tr>
+      <tr><td><code>labels.jsonl</code></td><td>정답: 발화별 화자, 대화행동, 전사, 겹침 비율, 채점 대상 여부, 같은 사람 쌍.<br><b>모델에 제공하지 않음</b></td></tr>
+      <tr><td><code>dataset_manifest.json</code></td><td>개수, 출처, 화자 비중복 확인</td></tr>
+    </tbody>
+  </table></div>
+  <pre>{"clip_id": "TS3010b_question_answer_reversal_01", "split": "heldout",
+ "audio": "audio/TS3010b_question_answer_reversal_01.wav", "audio_sha256": "…",
+ "registered_speakers": {"A": [{"path": "references/TS3010b_A_ref01.wav", "sha256": "…"}, …], …},
+ "segments": [{"segment_id": "segment_000", "start": 0.0, "end": 2.0}, …]}</pre>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li>실제 AMI 회의의 연속 구간을 그대로 사용.<br>최종 평가는 <b>처음 보는 4인 회의 8개</b>(Main 70발화, Hard 175발화)로,<br>화자가 개발 데이터와 겹치지 않는다.</li>
+      <li>모델은 <code>inputs.jsonl</code>만 보고,<br>정답 <code>labels.jsonl</code>은 채점에만 쓴다.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="leaderboard">
+  <div class="sec-no">05</div>
+  <h2>리더보드</h2>
+  <h3>Held-out — 공식 순위 (미관측 4인 회의 8개 × 10조건)</h3>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th class="n">#</th><th>방법</th><th class="n">Main 불변 (70)</th><th class="n">Main 평균 / 최저</th><th class="n">Flip</th><th class="n">쌍 (6)</th><th class="n">Hard 불변 (175)</th><th class="n">Hard 평균</th><th class="n">Flip</th></tr></thead>
+    <tbody>
+      <tr class="top"><td class="n">1</td><td>MOSS + 임베딩 재연결·확인 <span class="note">(제안)</span></td><td class="n best">98.6%</td><td class="n best">98.6 / 98.6</td><td class="n best">0</td><td class="n best">6</td><td class="n">62.9%</td><td class="n best">64.9%</td><td class="n">14</td></tr>
+      <tr><td class="n">2</td><td>WeSpeaker ResNet34-LM</td><td class="n">97.1%</td><td class="n">97.1 / 97.1</td><td class="n best">0</td><td class="n">5</td><td class="n best">64.6%</td><td class="n">64.6%</td><td class="n best">0</td></tr>
+      <tr><td class="n">3</td><td>MOSS-Transcribe-Diarize</td><td class="n">67.1%</td><td class="n">81.6 / 68.6</td><td class="n">23</td><td class="n">3–5</td><td class="n">36.0%</td><td class="n">53.3%</td><td class="n">81</td></tr>
+    </tbody>
+  </table></div>
+  <p class="note">순위는 Main 불변 정답률 기준입니다.<br>1·2위의 차이(Main 1발화, Hard 3발화)는 통계적으로 구분되지 않습니다.<br>Hard에서 심한 겹침은 55–66%, 짧고 겹친 발화는 24–41%로 모든 방법이 낮습니다.</p>
+
+  <h3>Starter (8구간 × 10조건, 참고)</h3>
+  <div class="table-wrap"><table class="table table-sm">
+    <thead><tr><th>방법</th><th class="n">Main eval 불변 (37)</th><th class="n">평균 / 최저</th><th class="n">Flip</th><th class="n">Hard 불변 (52)</th><th class="n">Hard 평균</th><th class="n">Flip</th></tr></thead>
+    <tbody>
+      <tr><td>MOSS + 임베딩 재연결·확인</td><td class="n best">100%</td><td class="n best">100 / 100</td><td class="n best">0</td><td class="n best">80.8%</td><td class="n best">84.0%</td><td class="n">5</td></tr>
+      <tr><td>WeSpeaker ResNet34-LM</td><td class="n best">100%</td><td class="n best">100 / 100</td><td class="n best">0</td><td class="n">78.8%</td><td class="n">78.8%</td><td class="n best">0</td></tr>
+      <tr><td>MOSS-Transcribe-Diarize</td><td class="n">70.3%</td><td class="n">93.2 / 81.1</td><td class="n">11</td><td class="n">59.6%</td><td class="n">80.0%</td><td class="n">20</td></tr>
+    </tbody>
+  </table></div>
+  <p class="note">Starter dev 5구간의 Main은 세 방법 모두 100%입니다.<br>Starter eval은 방법 설계에 쓰였으므로 독립 평가가 아닙니다.</p>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li><b>MOSS</b>는 변형에 흔들려 Main 불변 정답률 67.1% (flip 23).</li>
+      <li><b>임베딩 재연결(제안)</b>과 <b>WeSpeaker</b>는 Main 97–99%로 흔들림 없음.<br>둘의 차이는 1발화로 구분되지 않는다.</li>
+      <li><b>Hard</b>에서는 모든 방법이 불변 정답률 65% 이하 → 아직 열린 과제.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="baselines">
+  <div class="sec-no">06</div>
+  <h2>Baseline 모델</h2>
+  <div class="row g-3">
+    <div class="col-md-4"><div class="card h-100"><div class="card-body">
+      <h3>MOSS-Transcribe-Diarize 0.9B</h3>
+      <p class="mb-0">전사·시각·화자를 함께 출력하는 통합 모델입니다.<br>등록 음성을 대화 앞에 붙여 넣고,<br>등록 구간에 나온 익명 화자 ID로 연결합니다.</p>
+    </div></div></div>
+    <div class="col-md-4"><div class="card h-100"><div class="card-body">
+      <h3>WeSpeaker ResNet34-LM</h3>
+      <p class="mb-0">음성만 사용합니다.<br>발화 임베딩과 등록 음성 임베딩의 코사인 유사도로 화자를 고릅니다.<br>입력 변형의 영향을 받지 않습니다.</p>
+    </div></div></div>
+    <div class="col-md-4"><div class="card h-100"><div class="card-body">
+      <h3>제안: 임베딩 재연결·확인</h3>
+      <p class="mb-0">① MOSS 익명 ID를 대화 음성 임베딩으로 등록 화자에 다시 연결하고,<br>② 발화 임베딩이 다른 화자를 0.10 이상 더 선호할 때만 고칩니다.<br>전사·시각은 MOSS 그대로입니다.</p>
+    </div></div></div>
+  </div>
+  <p class="note mt-3">모든 실행은 모델 revision, 패키지 버전, 디코딩 설정(BF16, greedy), 입력·코드 해시를 고정합니다.<br>기준값 0.10은 채점 전에 정했습니다.</p>
+</section>
+
+<section id="findings">
+  <div class="sec-no">07</div>
+  <h2>주요 발견</h2>
+  <div class="finding"><div class="k">1</div><div>
+    <p><b>통합 모델은 의미 없는 변형에 흔들립니다.</b></p>
+    <p class="note">Starter에서 4인 회의 2개에서 관찰한 현상이 미관측 4인 회의 8개 중 5개에서 재현됐습니다(Main 70발화 중 23개가 조건에 따라 바뀜).<br>같은 입력은 항상 같은 출력을 내므로 무작위성 때문이 아닙니다.</p>
+  </div></div>
+  <div class="finding"><div class="k">2</div><div>
+    <p><b>무음 길이나 30초 경계와는 규칙적인 관계가 없습니다.</b></p>
+    <p class="note">같은 발화가 1초에서는 맞고 0.5·1.5초에서는 틀리는 식입니다.<br>30초 인코더 경계에 걸리기 때문이라는 가설은 Starter 2개 대화의 대조 실험에서 지지되지 않았습니다.</p>
+  </div></div>
+  <div class="finding"><div class="k">3</div><div>
+    <p><b>오류는 두 유형으로 나뉩니다.</b></p>
+    <p class="note">등록 음성을 화자 ID에 연결하지 못한 경우가 64%, 연결은 됐지만 대화 안에서 틀린 경우가 36%입니다(Held-out MOSS 오류 129건).</p>
+  </div></div>
+  <div class="finding"><div class="k">4</div><div>
+    <p><b>고정한 임베딩 재연결은 미관측 회의에서도 불변성을 회복했습니다.</b></p>
+    <p class="note">Main 불변 정답률 67.1% → 98.6%, flip 23 → 0.<br>다만 음성 전용 WeSpeaker와 사실상 같은 수준입니다.</p>
+  </div></div>
+  <div class="finding"><div class="k">5</div><div>
+    <p><b>Hard 트랙은 아직 풀리지 않았습니다.</b></p>
+    <p class="note">겹친 발화에서 어떤 방법도 불변 정답률 65%를 넘지 못합니다.<br>다음 단계의 개선 목표입니다.</p>
+  </div></div>
+  <div class="callout warn">
+    <p><b>한계</b></p>
+    <ul class="mb-0">
+      <li>제안 방법이 WeSpeaker보다 낫다는 근거는 아직 없습니다.</li>
+      <li>Held-out은 모두 4인 회의라 화자 수의 영향은 분리되지 않았습니다.</li>
+      <li>질문↔답변 전환 자체가 오류를 일으킨다는 인과는 입증하지 않았습니다.</li>
+      <li>겹친 발화의 정답은 해당 대화행동을 말한 사람 1명으로 정의했습니다.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="code">
+  <div class="sec-no">08</div>
+  <h2>평가 방법과 제출</h2>
+  <h3>1. 조건별 입력 만들기 (통합 모델용)</h3>
+  <pre>python speaker_project/make_condition_inputs.py --output condition_inputs   # 8구간 × 10조건 = 80개 WAV (약 220MB)</pre>
+  <p><code>condition_inputs/condition_inputs.jsonl</code>에 WAV마다 등록 음성 구간(화자 ID·초)과,<br>그 WAV 시간축으로 옮긴 발화 구간이 들어 있습니다.<br>임베딩 방식 모델은 <code>inputs.jsonl</code>을 바로 써도 됩니다.</p>
+  <h3>2. 예측 제출 형식</h3>
+  <p>조건마다 <code>&lt;조건&gt;.jsonl</code> 파일 하나,<br>총 10개를 한 폴더에 둡니다.<br>조건 이름은 <code>pad0000ms_fwd</code>, <code>pad0500ms_fwd</code>, …, <code>pad4000ms_fwd</code>, <code>pad0000ms_rev</code>입니다.</p>
+  <pre>{"clip_id": "TS3010b_question_answer_reversal_01",
+ "predictions": [{"segment_id": "segment_000", "speaker": "A"}, {"segment_id": "segment_001", "speaker": null}, …]}</pre>
+  <p class="note">화자는 등록 ID(A–D) 중 하나입니다.<br>null이나 빠진 발화는 오답으로 셉니다.<br>Main과 Hard 모두 채점되도록 모든 공개 발화를 예측하세요.</p>
+  <h3>3. 채점</h3>
+  <pre>python speaker_project/evaluate_submission.py --predictions my_predictions/ --output my_score.json</pre>
+  <p>Python 표준 라이브러리만 사용하며,<br>Main·Hard 트랙의 불변 정답률, 평균·최저 정답률, flip, 같은 사람 쌍, Hard 계층별 점수를 출력합니다.<br>세 baseline의 제출 파일(<code>runs/speaker_heldout_01/submissions/</code>)을 이 스크립트로 채점하면 위 리더보드 수치가 그대로 나옵니다.</p>
+
+  <h3>Baseline 재현</h3>
+  <pre>python speaker_project/download_wespeaker.py                     # WeSpeaker ONNX 모델 (약 26.5MB, SHA256 확인)
+bash speaker_project/setup_moss_reuse_torch.sh                   # MOSS 전용 환경 (기존 CUDA PyTorch 공유)
+python speaker_project/run_heldout_sweep.py --shard 0/1 --output runs/heldout   # MOSS 80회 (GPU, GPU 2장이면 0/2·1/2)
+python speaker_project/analyze_heldout.py --run runs/heldout     # WeSpeaker·제안 방법 계산(CPU) + 제출 파일·점수 생성</pre>
+  <ul class="note">
+    <li>MOSS 실행은 <code>runs/speaker_moss_pilot_01/run_manifest.json</code>에 고정된 모델 revision·패키지 버전·디코딩 설정을 읽습니다.<br>실제 실행: RTX A5000, PyTorch 2.4.0+cu118, Transformers 5.6.0, BF16, greedy.<br>80회 추론 합계 약 26분,<br>최대 GPU 메모리 약 2GB.</li>
+    <li>정답 파일은 모든 예측을 만든 뒤에만 읽습니다.<br>서버 원본 출력은 <code>runs/speaker_heldout_01/results_only.zip</code>에 있습니다.</li>
+    <li>평가 데이터는 저장소에 포함되어 있습니다.<br>AMI 원본 주석에서 다시 만들려면 <code>download_ami.py</code> → <code>prepare_ami.py --scan-all</code> → <code>build_heldout.py</code> 순서로 실행합니다(선택).</li>
+  </ul>
+  <p>저장소: <a href="https://github.com/coldbay/speaker-invariance-challenge">https://github.com/coldbay/speaker-invariance-challenge</a></p>
+  <div class="tldr"><span class="tag">정리</span>
+    <ul>
+      <li>참가 방법은 3단계: <b>조건별 입력 생성</b> → <b>조건마다 예측 파일 1개(총 10개)</b> → <b>채점 명령 한 줄</b>.</li>
+      <li>채점기는 Python 표준 라이브러리만 쓰며,<br>baseline 제출 파일로 리더보드 수치가 그대로 재현된다.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  데이터: AMI Meeting Corpus (University of Edinburgh 외), CC BY 4.0 ·
+  모델: OpenMOSS MOSS-Transcribe-Diarize, WeSpeaker ResNet34-LM
+</footer>
+
+</main>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

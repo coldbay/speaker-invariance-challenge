@@ -1,0 +1,97 @@
+{
+  "text": "[0.00][S01]This is the agenda for today's meeting, as you can see, opening, acquaint Um, we already gone through opening and.[6.32][6.81][S02]Um.[7.13][10.16][S02]First point begins with an E, same like Ebene.[13.18][13.58][S01]Good good, we're here because of Real Reaction, um, we have in the group.[19.12][19.65][S02]Oh, Ebenezer Ademisoy? Would you like me to spell that?[23.05][24.48][S01]See.[24.74][24.82][S01]Um, yeah, go for it, mate.[26.24][26.96][S02]Em, Eni Z.[27.72]",
+  "prompt_len": 442,
+  "generated_tokens": 221,
+  "clip_id": "ES2003a_question_answer_reversal_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "speaker": "S01",
+      "text": "This is the agenda for today's meeting, as you can see, opening, acquaint Um, we already gone through opening and."
+    },
+    {
+      "start": 6.81,
+      "end": 7.13,
+      "speaker": "S02",
+      "text": "Um."
+    },
+    {
+      "start": 10.16,
+      "end": 13.18,
+      "speaker": "S02",
+      "text": "First point begins with an E, same like Ebene."
+    },
+    {
+      "start": 13.58,
+      "end": 19.12,
+      "speaker": "S01",
+      "text": "Good good, we're here because of Real Reaction, um, we have in the group."
+    },
+    {
+      "start": 19.65,
+      "end": 23.05,
+      "speaker": "S02",
+      "text": "Oh, Ebenezer Ademisoy? Would you like me to spell that?"
+    },
+    {
+      "start": 24.48,
+      "end": 24.74,
+      "speaker": "S01",
+      "text": "See."
+    },
+    {
+      "start": 24.82,
+      "end": 26.24,
+      "speaker": "S01",
+      "text": "Um, yeah, go for it, mate."
+    },
+    {
+      "start": 26.96,
+      "end": 27.72,
+      "speaker": "S02",
+      "text": "Em, Eni Z."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "B",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "speaker": "B",
+      "start": 3.4,
+      "end": 6.4
+    },
+    {
+      "speaker": "C",
+      "start": 6.8,
+      "end": 9.8
+    },
+    {
+      "speaker": "C",
+      "start": 10.2,
+      "end": 13.2000625
+    }
+  ],
+  "clip_offset": 13.6000625,
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 5.92,
+      "C": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "C": 3.3000000000000007
+    }
+  },
+  "inference_seconds": 7.49658187199384,
+  "peak_cuda_allocated_bytes": 1912080384,
+  "peak_cuda_reserved_bytes": 2015363072,
+  "reached_token_limit": false
+}

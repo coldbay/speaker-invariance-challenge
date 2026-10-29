@@ -1,0 +1,52 @@
+nohup: ignoring input
+{
+  "model_calls": 80,
+  "this_shard": 40,
+  "shard": "0/2",
+  "clips": 8,
+  "output": "runs/speaker_heldout_01"
+}
+Loading weights:   0%|          | 0/683 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 93/683 [00:00<00:00, 923.51it/s]Loading weights:  27%|██▋       | 186/683 [00:00<00:00, 863.46it/s]Loading weights:  40%|███▉      | 273/683 [00:00<00:00, 804.14it/s]Loading weights:  54%|█████▍    | 370/683 [00:00<00:00, 846.62it/s]Loading weights:  70%|██████▉   | 475/683 [00:00<00:00, 913.92it/s]Loading weights:  83%|████████▎ | 568/683 [00:00<00:00, 918.89it/s]Loading weights:  98%|█████████▊| 670/683 [00:00<00:00, 939.31it/s]Loading weights: 100%|██████████| 683/683 [00:00<00:00, 908.93it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `MossTranscribeDiarizeProcessor` defines `feature_extractor_class = 'AutoFeatureExtractor'`, which is deprecated. Register the correct mapping in `AutoFeatureExtractor` instead.
+shard 0/2: 1/40 pad0000ms_fwd/case_000/full
+shard 0/2: 2/40 pad0000ms_fwd/case_002/full
+shard 0/2: 3/40 pad0000ms_fwd/case_004/full
+shard 0/2: 4/40 pad0000ms_fwd/case_006/full
+shard 0/2: 5/40 pad0500ms_fwd/case_000/full
+shard 0/2: 6/40 pad0500ms_fwd/case_002/full
+shard 0/2: 7/40 pad0500ms_fwd/case_004/full
+shard 0/2: 8/40 pad0500ms_fwd/case_006/full
+shard 0/2: 9/40 pad1000ms_fwd/case_000/full
+shard 0/2: 10/40 pad1000ms_fwd/case_002/full
+shard 0/2: 11/40 pad1000ms_fwd/case_004/full
+shard 0/2: 12/40 pad1000ms_fwd/case_006/full
+shard 0/2: 13/40 pad1500ms_fwd/case_000/full
+shard 0/2: 14/40 pad1500ms_fwd/case_002/full
+shard 0/2: 15/40 pad1500ms_fwd/case_004/full
+shard 0/2: 16/40 pad1500ms_fwd/case_006/full
+shard 0/2: 17/40 pad2000ms_fwd/case_000/full
+shard 0/2: 18/40 pad2000ms_fwd/case_002/full
+shard 0/2: 19/40 pad2000ms_fwd/case_004/full
+shard 0/2: 20/40 pad2000ms_fwd/case_006/full
+shard 0/2: 21/40 pad2500ms_fwd/case_000/full
+shard 0/2: 22/40 pad2500ms_fwd/case_002/full
+shard 0/2: 23/40 pad2500ms_fwd/case_004/full
+shard 0/2: 24/40 pad2500ms_fwd/case_006/full
+shard 0/2: 25/40 pad3000ms_fwd/case_000/full
+shard 0/2: 26/40 pad3000ms_fwd/case_002/full
+shard 0/2: 27/40 pad3000ms_fwd/case_004/full
+shard 0/2: 28/40 pad3000ms_fwd/case_006/full
+shard 0/2: 29/40 pad3500ms_fwd/case_000/full
+shard 0/2: 30/40 pad3500ms_fwd/case_002/full
+shard 0/2: 31/40 pad3500ms_fwd/case_004/full
+shard 0/2: 32/40 pad3500ms_fwd/case_006/full
+shard 0/2: 33/40 pad4000ms_fwd/case_000/full
+shard 0/2: 34/40 pad4000ms_fwd/case_002/full
+shard 0/2: 35/40 pad4000ms_fwd/case_004/full
+shard 0/2: 36/40 pad4000ms_fwd/case_006/full
+shard 0/2: 37/40 pad0000ms_rev/case_000/full
+shard 0/2: 38/40 pad0000ms_rev/case_002/full
+shard 0/2: 39/40 pad0000ms_rev/case_004/full
+shard 0/2: 40/40 pad0000ms_rev/case_006/full
+Download: runs/speaker_heldout_01/results_only.zip

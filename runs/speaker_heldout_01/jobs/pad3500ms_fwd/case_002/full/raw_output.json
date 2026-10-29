@@ -1,0 +1,598 @@
+{
+  "text": "[3.48][S01]Very good.[4.22][6.89][S01]So, we are going to have a meeting about the functional design.[9.95][10.27][S02]So you have man in like in in uh the the thing is though most remote controls are used.[16.61][17.08][S03]A universal design, which is which is good, but uh don't you think that the two points are cl[23.48][23.89][S04]Okay, so yeah, I will I will give a brief for the functional requirements and especially for the[30.29][30.68][S02]TV which might interfere with the[32.38][32.34][S01]Sorry, what is your folder name?[33.68][34.12][S02]Uh, participant three. You might have some background noise from the TV which will make the speech recognition much uh harder.[41.04][40.26][S04]Yeah, but you should be able to activate or deactivate, so yeah, yeah.[45.82][45.28][S02]Alright, press a press a button to talk and the the TV the TV sound turns off.[49.46][47.17][S04]Yeah, uh, channel fifty.[48.89][49.81][S04]Yeah.[50.17][50.12][S03]No, it could be command control kind of thing. It require recognizes particular sequence and then it gets activated.[56.80][57.97][S03]Means you should you should say like this, that remote control being on or be on kind of thing.[64.73][64.75][S03]And then remote control comes into picture for the speech recognition.[67.89][68.21][S02]Yeah.[68.47][68.48][S03]Because this kind of thing means speech is there from the TV also.[72.20][72.51][S02]Yeah.[72.73][72.55][S03]So there should be something command controlled. You start and then you stop.[76.65][76.91][S02]Yeah.[77.17][77.25][S03]It's like V I editor, you are having two modes similarly. Otherwise, it's just lying idle.[81.77][82.44][S01]Okay, Michael.[82.96][83.59][S02]Okay, so could I describe the mouse maybe a bit easier to could I use the mouse or?[88.27][86.17][S01]Sorry.[86.51][88.22][S01]Um, yeah.[89.40][89.56][S02]Yeah, thanks.[90.82]",
+  "prompt_len": 1264,
+  "generated_tokens": 725,
+  "job": {
+    "job_id": "pad3500ms_fwd/case_002/full",
+    "condition": "pad3500ms_fwd",
+    "clip_id": "IS1004b_question_answer_reversal_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_003",
+      "segment_004",
+      "segment_005",
+      "segment_006",
+      "segment_007",
+      "segment_009",
+      "segment_012",
+      "segment_013",
+      "segment_015",
+      "segment_017",
+      "segment_019",
+      "segment_020",
+      "segment_022",
+      "segment_023",
+      "segment_025",
+      "segment_026",
+      "segment_028",
+      "segment_029",
+      "segment_030"
+    ],
+    "leading_silence_seconds": 3.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "e147448e6ac62a75efc198c9976109eede2522d8f33106f0c8afbbdeed1c5ffd",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4",
+    "shard": "0/2"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 3.5,
+        "end": 6.5
+      },
+      {
+        "speaker": "A",
+        "start": 6.9,
+        "end": 9.9000625
+      },
+      {
+        "speaker": "B",
+        "start": 10.3000625,
+        "end": 13.3000625
+      },
+      {
+        "speaker": "B",
+        "start": 13.7000625,
+        "end": 16.7000625
+      },
+      {
+        "speaker": "C",
+        "start": 17.1000625,
+        "end": 20.1000625
+      },
+      {
+        "speaker": "C",
+        "start": 20.5000625,
+        "end": 23.5000625
+      },
+      {
+        "speaker": "D",
+        "start": 23.9000625,
+        "end": 26.900125
+      },
+      {
+        "speaker": "D",
+        "start": 27.300125,
+        "end": 30.3001875
+      }
+    ],
+    "clip_offset": 30.7001875,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 1.7100000000000364
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 3.4400000000000546,
+        "end": 4.560000000000059
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 5.720000000000027,
+        "end": 11.82000000000005
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 9.57000000000005,
+        "end": 13.330000000000041
+      },
+      {
+        "segment_id": "segment_006",
+        "start": 13.330000000000041,
+        "end": 16.5
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 14.590000000000032,
+        "end": 19.530000000000086
+      },
+      {
+        "segment_id": "segment_009",
+        "start": 17.100000000000023,
+        "end": 18.360000000000014
+      },
+      {
+        "segment_id": "segment_012",
+        "start": 19.660000000000082,
+        "end": 21.879999999999995
+      },
+      {
+        "segment_id": "segment_013",
+        "start": 21.879999999999995,
+        "end": 26.08000000000004
+      },
+      {
+        "segment_id": "segment_015",
+        "start": 28.040000000000077,
+        "end": 37.79000000000008
+      },
+      {
+        "segment_id": "segment_017",
+        "start": 37.79000000000008,
+        "end": 41.85000000000002
+      },
+      {
+        "segment_id": "segment_019",
+        "start": 41.85000000000002,
+        "end": 46.60000000000002
+      },
+      {
+        "segment_id": "segment_020",
+        "start": 44.780000000000086,
+        "end": 46.26999999999998
+      },
+      {
+        "segment_id": "segment_022",
+        "start": 46.60000000000002,
+        "end": 49.76999999999998
+      },
+      {
+        "segment_id": "segment_023",
+        "start": 49.76999999999998,
+        "end": 51.180000000000064
+      },
+      {
+        "segment_id": "segment_025",
+        "start": 52.879999999999995,
+        "end": 54.83000000000004
+      },
+      {
+        "segment_id": "segment_026",
+        "start": 54.83000000000004,
+        "end": 56.32000000000005
+      },
+      {
+        "segment_id": "segment_028",
+        "start": 56.32000000000005,
+        "end": 57.58000000000004
+      },
+      {
+        "segment_id": "segment_029",
+        "start": 57.56000000000006,
+        "end": 58.690000000000055
+      },
+      {
+        "segment_id": "segment_030",
+        "start": 58.90000000000009,
+        "end": 60.26999999999998
+      }
+    ],
+    "input_audio_seconds": 91.3901875,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 971040,
+    "evaluation_pcm_sha256": "e6221f67d75cc710e342c2039dad0ff6a7350f2eeb1943e9525671bdf79467d9",
+    "input_pcm_sha256": "7993295661509796fe8e01fbe21c69cca32938d0e51a788ce7f8f9c0351851b0",
+    "input_wav_sha256": "dd91b22fff194f58c45ac6e8bec7a799f2f0496964d573bc87ee04a9a4021d00",
+    "reference_sha256_multiset": [
+      "04b0b709ca26fcec1780bd1693e3f4227fbacb3f2b5d0acf40b956caa542c801",
+      "375e871dad68b5f731d8feb36593b2669f96b6d27d043dc113d0873eb06e6c73",
+      "5b7a962e844a0c9e9dbf9f640e63325981e68591b3488a88ecbf43f25b71aa35",
+      "5c576ceea0f1c72d74d956ca6f21994faf2359c0cae6df673053a2dc524ac3dc",
+      "6b8b6e8b0942a219fb5093c745047d182c54bec389cb0f11e40499b46eb562ff",
+      "7852e706d8e588d12521c34e0ba50f042460dfbdfbfa411fee1e28f34a1ed9cd",
+      "d2dc2382480c268b400f17aa1dfa653edbba923fc0bdf537cac177cf987450e2",
+      "ee40b93fee30cd720786b9b4053e9bdf5baae994bde95c9effb4ef035c0e5522"
+    ],
+    "leading_silence_seconds": 3.5,
+    "unpadded_input_pcm_sha256": "63535119f1ea0bc42dbb91b211b3630a220b484e4992a334ddfef43438dc2d79",
+    "frontend_chunk_count": 4
+  },
+  "segments": [
+    {
+      "start": 3.48,
+      "end": 4.22,
+      "speaker": "S01",
+      "text": "Very good."
+    },
+    {
+      "start": 6.89,
+      "end": 9.95,
+      "speaker": "S01",
+      "text": "So, we are going to have a meeting about the functional design."
+    },
+    {
+      "start": 10.27,
+      "end": 16.61,
+      "speaker": "S02",
+      "text": "So you have man in like in in uh the the thing is though most remote controls are used."
+    },
+    {
+      "start": 17.08,
+      "end": 23.48,
+      "speaker": "S03",
+      "text": "A universal design, which is which is good, but uh don't you think that the two points are cl"
+    },
+    {
+      "start": 23.89,
+      "end": 30.29,
+      "speaker": "S04",
+      "text": "Okay, so yeah, I will I will give a brief for the functional requirements and especially for the"
+    },
+    {
+      "start": 30.68,
+      "end": 32.38,
+      "speaker": "S02",
+      "text": "TV which might interfere with the"
+    },
+    {
+      "start": 32.34,
+      "end": 33.68,
+      "speaker": "S01",
+      "text": "Sorry, what is your folder name?"
+    },
+    {
+      "start": 34.12,
+      "end": 41.04,
+      "speaker": "S02",
+      "text": "Uh, participant three. You might have some background noise from the TV which will make the speech recognition much uh harder."
+    },
+    {
+      "start": 40.26,
+      "end": 45.82,
+      "speaker": "S04",
+      "text": "Yeah, but you should be able to activate or deactivate, so yeah, yeah."
+    },
+    {
+      "start": 45.28,
+      "end": 49.46,
+      "speaker": "S02",
+      "text": "Alright, press a press a button to talk and the the TV the TV sound turns off."
+    },
+    {
+      "start": 47.17,
+      "end": 48.89,
+      "speaker": "S04",
+      "text": "Yeah, uh, channel fifty."
+    },
+    {
+      "start": 49.81,
+      "end": 50.17,
+      "speaker": "S04",
+      "text": "Yeah."
+    },
+    {
+      "start": 50.12,
+      "end": 56.8,
+      "speaker": "S03",
+      "text": "No, it could be command control kind of thing. It require recognizes particular sequence and then it gets activated."
+    },
+    {
+      "start": 57.97,
+      "end": 64.73,
+      "speaker": "S03",
+      "text": "Means you should you should say like this, that remote control being on or be on kind of thing."
+    },
+    {
+      "start": 64.75,
+      "end": 67.89,
+      "speaker": "S03",
+      "text": "And then remote control comes into picture for the speech recognition."
+    },
+    {
+      "start": 68.21,
+      "end": 68.47,
+      "speaker": "S02",
+      "text": "Yeah."
+    },
+    {
+      "start": 68.48,
+      "end": 72.2,
+      "speaker": "S03",
+      "text": "Because this kind of thing means speech is there from the TV also."
+    },
+    {
+      "start": 72.51,
+      "end": 72.73,
+      "speaker": "S02",
+      "text": "Yeah."
+    },
+    {
+      "start": 72.55,
+      "end": 76.65,
+      "speaker": "S03",
+      "text": "So there should be something command controlled. You start and then you stop."
+    },
+    {
+      "start": 76.91,
+      "end": 77.17,
+      "speaker": "S02",
+      "text": "Yeah."
+    },
+    {
+      "start": 77.25,
+      "end": 81.77,
+      "speaker": "S03",
+      "text": "It's like V I editor, you are having two modes similarly. Otherwise, it's just lying idle."
+    },
+    {
+      "start": 82.44,
+      "end": 82.96,
+      "speaker": "S01",
+      "text": "Okay, Michael."
+    },
+    {
+      "start": 83.59,
+      "end": 88.27,
+      "speaker": "S02",
+      "text": "Okay, so could I describe the mouse maybe a bit easier to could I use the mouse or?"
+    },
+    {
+      "start": 86.17,
+      "end": 86.51,
+      "speaker": "S01",
+      "text": "Sorry."
+    },
+    {
+      "start": 88.22,
+      "end": 89.4,
+      "speaker": "S01",
+      "text": "Um, yeah."
+    },
+    {
+      "start": 89.56,
+      "end": 90.82,
+      "speaker": "S02",
+      "text": "Yeah, thanks."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C",
+    "S04": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 3.7200625,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 5.9099375,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.979937500000002,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 5.989937499999996
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.07018750000003138,
+        "B": 1.6798125000000041
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.1200000000000045
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 4.6198124999999735,
+        "D": 2.2601875000000504
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.7698124999999507,
+        "D": 3.759999999999991
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_006",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.9201874999999973,
+        "D": 1.8199999999999577
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 4.169812499999971,
+        "C": 0.11018750000008737,
+        "D": 2.6098124999999683
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_009",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.259999999999991,
+        "D": 1.0898124999999794
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_012",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 2.2199999999999136
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_013",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 4.2000000000000455
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_015",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.2600000000000051,
+        "C": 9.14
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_017",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.04018750000001603,
+        "C": 3.709999999999951
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_019",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.43981249999998795,
+        "C": 4.150000000000006
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_020",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.06018749999998363,
+        "C": 1.1698124999999209
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_022",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 3.169999999999959
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_023",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 1.2998125000000158
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_025",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.940187500000036
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_026",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.3400000000000034,
+        "B": 1.490000000000009
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_028",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.06018750000004047,
+        "B": 1.2498124999999476
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_029",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.1299999999999955,
+        "B": 0.009812499999938495
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_030",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.2198124999999038
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 19.13526281993836,
+  "peak_cuda_allocated_bytes": 2079907328,
+  "reached_token_limit": false
+}

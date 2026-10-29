@@ -1,0 +1,74 @@
+{
+  "ES2002d": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 83973460,
+    "duration": 2624.170625
+  },
+  "ES2009d": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 67678208,
+    "duration": 2114.944
+  },
+  "IS1004b": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 69813332,
+    "duration": 2181.666625
+  },
+  "TS3010b": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 66735444,
+    "duration": 2085.482625
+  },
+  "ES2008a": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 33387520,
+    "duration": 1043.36
+  },
+  "IS1006b": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 69124096,
+    "duration": 2160.128
+  },
+  "TS3004c": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 95040000,
+    "duration": 2970.0
+  },
+  "IS1008c": {
+    "channels": 1,
+    "sample_rate": 16000,
+    "block_align": 2,
+    "sample_width": 2,
+    "data_offset": 44,
+    "data_bytes": 49482666,
+    "duration": 1546.3333125
+  }
+}

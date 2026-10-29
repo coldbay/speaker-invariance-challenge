@@ -1,0 +1,151 @@
+{
+  "text": "[0.00][S01]Just been um presented with some research we've done and a a hundred people just asked them about their remote[6.42][6.78][S02]I will uh present the uh agenda first uh just to[13.11][13.56][S03]That is uh it's a very small vocabulary where you want but uh usually[19.95][20.35][S01]Well wouldn't they already have a remote control with their television when they buy one?[25.03][25.66][S02]Of course, they have already one, so our our our remote control has to be better.[29.38][29.81][S01]They're not gonna have more functionality, 'cause it's only a low market, it's a cheap end remote control. We can't beat more functionality. We might we'll be able to beat them on the the look of it, the the design of it, but that's not a big seller if they're not gonna just go and buy a new remote control just 'cause it looks pretty.[46.41][46.47][S02]Mm-hmm.[46.87][46.94][S01]They have to actually need it as well. So I'm not sure how we can get people to buy this thing.[51.82][52.92][S02]Hmm. Well, I think m many people said uh in your in in your research uh uh[60.68][59.89][S01]Hmm.[60.21][62.05][S02]uh the appearance of the uh R C is is important when they're buying one, but[66.53][65.83][S01]Yeah, but why are they buying one in the first place?[68.23][68.32][S02]Indeed. So that will be about functionality.[74.73][76.51][S01]Hmm.[76.73]",
+  "prompt_len": 1074,
+  "generated_tokens": 484,
+  "clip_id": "IS1000b_same_direction_control_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.42,
+      "speaker": "S01",
+      "text": "Just been um presented with some research we've done and a a hundred people just asked them about their remote"
+    },
+    {
+      "start": 6.78,
+      "end": 13.11,
+      "speaker": "S02",
+      "text": "I will uh present the uh agenda first uh just to"
+    },
+    {
+      "start": 13.56,
+      "end": 19.95,
+      "speaker": "S03",
+      "text": "That is uh it's a very small vocabulary where you want but uh usually"
+    },
+    {
+      "start": 20.35,
+      "end": 25.03,
+      "speaker": "S01",
+      "text": "Well wouldn't they already have a remote control with their television when they buy one?"
+    },
+    {
+      "start": 25.66,
+      "end": 29.38,
+      "speaker": "S02",
+      "text": "Of course, they have already one, so our our our remote control has to be better."
+    },
+    {
+      "start": 29.81,
+      "end": 46.41,
+      "speaker": "S01",
+      "text": "They're not gonna have more functionality, 'cause it's only a low market, it's a cheap end remote control. We can't beat more functionality. We might we'll be able to beat them on the the look of it, the the design of it, but that's not a big seller if they're not gonna just go and buy a new remote control just 'cause it looks pretty."
+    },
+    {
+      "start": 46.47,
+      "end": 46.87,
+      "speaker": "S02",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 46.94,
+      "end": 51.82,
+      "speaker": "S01",
+      "text": "They have to actually need it as well. So I'm not sure how we can get people to buy this thing."
+    },
+    {
+      "start": 52.92,
+      "end": 60.68,
+      "speaker": "S02",
+      "text": "Hmm. Well, I think m many people said uh in your in in your research uh uh"
+    },
+    {
+      "start": 59.89,
+      "end": 60.21,
+      "speaker": "S01",
+      "text": "Hmm."
+    },
+    {
+      "start": 62.05,
+      "end": 66.53,
+      "speaker": "S02",
+      "text": "uh the appearance of the uh R C is is important when they're buying one, but"
+    },
+    {
+      "start": 65.83,
+      "end": 68.23,
+      "speaker": "S01",
+      "text": "Yeah, but why are they buying one in the first place?"
+    },
+    {
+      "start": 68.32,
+      "end": 74.73,
+      "speaker": "S02",
+      "text": "Indeed. So that will be about functionality."
+    },
+    {
+      "start": 76.51,
+      "end": 76.71,
+      "speaker": "S01",
+      "text": "Hmm."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "speaker": "A",
+      "start": 3.4,
+      "end": 6.4
+    },
+    {
+      "speaker": "B",
+      "start": 6.8,
+      "end": 9.8
+    },
+    {
+      "speaker": "B",
+      "start": 10.2,
+      "end": 13.2
+    },
+    {
+      "speaker": "C",
+      "start": 13.6,
+      "end": 16.6
+    },
+    {
+      "speaker": "C",
+      "start": 17.0,
+      "end": 20.0
+    }
+  ],
+  "clip_offset": 20.4,
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 6.0,
+      "B": 0.0,
+      "C": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 5.910000000000001,
+      "C": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.950000000000001
+    }
+  },
+  "inference_seconds": 13.39245559507981,
+  "peak_cuda_allocated_bytes": 2022227456,
+  "peak_cuda_reserved_bytes": 2199912448,
+  "reached_token_limit": false
+}

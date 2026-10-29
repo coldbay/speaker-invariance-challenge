@@ -1,0 +1,97 @@
+{
+  "text": "[0.00][S01] Oh, no pressure.[1.44][3.34][S01] Um, we have three presentations.[6.42][6.76][S02] Well, uh, some research has been done, uh, uh, observing of one hundred, uh, subjects and you select, uh, a number in your remote on which you want to save it.[17.38][15.54][S01] Yeah, so the channel program is auto seek.[18.88][19.26][S02] Yeah, auto seek.[20.28][21.28][S01] Uh, name a channel or?[25.02][25.55][S02] Well, most TVs automatically display the name which they get through the cable.[29.97][30.22][S01] Oh, they get the automatic names.[32.06]",
+  "prompt_len": 499,
+  "generated_tokens": 223,
+  "clip_id": "TS3006b_same_direction_control_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "speaker": "S01",
+      "text": "Oh, no pressure."
+    },
+    {
+      "start": 3.34,
+      "end": 6.42,
+      "speaker": "S01",
+      "text": "Um, we have three presentations."
+    },
+    {
+      "start": 6.76,
+      "end": 17.38,
+      "speaker": "S02",
+      "text": "Well, uh, some research has been done, uh, uh, observing of one hundred, uh, subjects and you select, uh, a number in your remote on which you want to save it."
+    },
+    {
+      "start": 15.54,
+      "end": 18.88,
+      "speaker": "S01",
+      "text": "Yeah, so the channel program is auto seek."
+    },
+    {
+      "start": 19.26,
+      "end": 20.28,
+      "speaker": "S02",
+      "text": "Yeah, auto seek."
+    },
+    {
+      "start": 21.28,
+      "end": 25.02,
+      "speaker": "S01",
+      "text": "Uh, name a channel or?"
+    },
+    {
+      "start": 25.55,
+      "end": 29.97,
+      "speaker": "S02",
+      "text": "Well, most TVs automatically display the name which they get through the cable."
+    },
+    {
+      "start": 30.22,
+      "end": 32.06,
+      "speaker": "S01",
+      "text": "Oh, they get the automatic names."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.0000625
+    },
+    {
+      "speaker": "A",
+      "start": 3.4000625,
+      "end": 6.400125
+    },
+    {
+      "speaker": "D",
+      "start": 6.800125,
+      "end": 9.800125
+    },
+    {
+      "speaker": "D",
+      "start": 10.200125,
+      "end": 13.200125
+    }
+  ],
+  "clip_offset": 13.600125,
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 4.4400625,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "D": 5.999999999999999
+    }
+  },
+  "inference_seconds": 6.149350287159905,
+  "peak_cuda_allocated_bytes": 1920894976,
+  "peak_cuda_reserved_bytes": 2107637760,
+  "reached_token_limit": false
+}

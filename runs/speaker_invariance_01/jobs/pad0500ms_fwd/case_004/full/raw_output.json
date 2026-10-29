@@ -1,0 +1,237 @@
+{
+  "text": "[0.45][S01] Oh, no pressure.[1.93][3.86][S01] Um, you have three presentations.[6.93][7.23][S02] Well, uh, some research has be done, uh, uh, observing of one hundred, uh, subjects and you select, uh, a number in your remote on which you want to save it.[17.88][16.04][S01] Yeah, so I've got channel program is auto seek.[19.38][19.77][S02] Yeah, auto seek.[20.81][21.78][S01] Uh, name a channel or?[25.53][26.03][S02] Well, most TVs automatically display the name which they get through the cable.[30.47][30.72][S01] Oh, they get the automatic names.[32.56]",
+  "prompt_len": 505,
+  "generated_tokens": 225,
+  "job": {
+    "job_id": "pad0500ms_fwd/case_004/full",
+    "condition": "pad0500ms_fwd",
+    "clip_id": "TS3006b_same_direction_control_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_001",
+      "segment_002",
+      "segment_003",
+      "segment_004",
+      "segment_005"
+    ],
+    "leading_silence_seconds": 0.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "6312b9c33b52f0e2046b6bc05b06f0576960d218cad27ebc9d36cd3e0efe0ec1",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 0.5,
+        "end": 3.5000625
+      },
+      {
+        "speaker": "A",
+        "start": 3.9000625,
+        "end": 6.900125
+      },
+      {
+        "speaker": "D",
+        "start": 7.300125,
+        "end": 10.300125
+      },
+      {
+        "speaker": "D",
+        "start": 10.700125,
+        "end": 13.700125
+      }
+    ],
+    "clip_offset": 14.100125,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 3.8099999999999454
+      },
+      {
+        "segment_id": "segment_001",
+        "start": 2.0,
+        "end": 5.3599999999999
+      },
+      {
+        "segment_id": "segment_002",
+        "start": 5.690000000000055,
+        "end": 6.930000000000064
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 7.720000000000027,
+        "end": 11.430000000000064
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 11.970000000000027,
+        "end": 16.49000000000001
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 16.660000000000082,
+        "end": 18.49000000000001
+      }
+    ],
+    "input_audio_seconds": 32.590125,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 295840,
+    "evaluation_pcm_sha256": "2327ece861200367f47fbffb500c9a1056b6ea9cd017541f45a876e3c57feaeb",
+    "input_pcm_sha256": "774c7bc2a9a88ee732958c1d851d401c5c26b03c493dac9baf75ef2635b17c3e",
+    "input_wav_sha256": "eb1ed329fb3431bd51eb6631837c3e495448c1e0497927bfd31cf94256227e61",
+    "reference_sha256_multiset": [
+      "01c7dd51440222124651c44eb4706788d89f8f506e2b417a372ee857f3b7eaf0",
+      "5fd744a01ed9d3d96b496616d157a0c05cc66abe1cca0e5a0221680f4e98e904",
+      "c76893794a732f894d8982bc2bac5686c4b05d0903564a31337488128c041520",
+      "dc306f80740fc774a0f63335fd11b92ea2c708c6694bda86c3f8b793c22aa74e"
+    ],
+    "leading_silence_seconds": 0.5,
+    "unpadded_input_pcm_sha256": "29b1d2cf930dc92888b9a4d103a57b9a45830b12d30881b63a7be7c68d433c94",
+    "frontend_chunk_count": 2
+  },
+  "segments": [
+    {
+      "start": 0.45,
+      "end": 1.93,
+      "speaker": "S01",
+      "text": "Oh, no pressure."
+    },
+    {
+      "start": 3.86,
+      "end": 6.93,
+      "speaker": "S01",
+      "text": "Um, you have three presentations."
+    },
+    {
+      "start": 7.23,
+      "end": 17.88,
+      "speaker": "S02",
+      "text": "Well, uh, some research has be done, uh, uh, observing of one hundred, uh, subjects and you select, uh, a number in your remote on which you want to save it."
+    },
+    {
+      "start": 16.04,
+      "end": 19.38,
+      "speaker": "S01",
+      "text": "Yeah, so I've got channel program is auto seek."
+    },
+    {
+      "start": 19.77,
+      "end": 20.81,
+      "speaker": "S02",
+      "text": "Yeah, auto seek."
+    },
+    {
+      "start": 21.78,
+      "end": 25.53,
+      "speaker": "S01",
+      "text": "Uh, name a channel or?"
+    },
+    {
+      "start": 26.03,
+      "end": 30.47,
+      "speaker": "S02",
+      "text": "Well, most TVs automatically display the name which they get through the cable."
+    },
+    {
+      "start": 30.72,
+      "end": 32.56,
+      "speaker": "S01",
+      "text": "Oh, they get the automatic names."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 4.4300625,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "D": 5.999999999999999
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.8701249999999447,
+        "D": 3.7798749999999988
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_001",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 3.2798750000000005,
+        "D": 1.7798750000000005
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_002",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.0198749999999457
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 3.7098749999999754
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 4.399874999999973
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.799874999999922
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 7.892836579820141,
+  "peak_cuda_allocated_bytes": 1920980992,
+  "reached_token_limit": false
+}

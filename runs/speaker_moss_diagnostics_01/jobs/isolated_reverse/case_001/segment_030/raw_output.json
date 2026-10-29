@@ -1,0 +1,194 @@
+{
+  "text": "[0.00][S01]Also so you uh if you have a video.[6.34][10.18][S02]So I will be able to uh.[13.12][13.58][S03]Um.[14.04][16.99][S03]And um well.[19.83][20.37][S04]Um the show the three things were um appealing to the correct demographic, so using those things in the right.[26.83][27.18][S03]Uh plastic would be uh material.[29.60]",
+  "prompt_len": 466,
+  "generated_tokens": 149,
+  "completed": true,
+  "job": {
+    "job_id": "isolated_reverse/case_001/segment_030",
+    "condition": "isolated_reverse",
+    "clip_id": "IS1000d_question_answer_reversal_01",
+    "context": "isolated",
+    "reference_order": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "target_segment_ids": [
+      "segment_030"
+    ]
+  },
+  "plan_sha256": "89eecb6aaa1e0bfb9d7e14cb56351a52ad9327ff9e46c455f68d2b563243f65e",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "torch_cuda": "11.8",
+    "python": "3.10.12",
+    "gpu": "NVIDIA RTX A5000",
+    "cuda_device_order": "PCI_BUS_ID",
+    "cuda_visible_devices": "4",
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    }
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "D",
+        "start": 0.0,
+        "end": 3.0
+      },
+      {
+        "speaker": "D",
+        "start": 3.4,
+        "end": 6.4000625
+      },
+      {
+        "speaker": "C",
+        "start": 6.8000625,
+        "end": 9.800125
+      },
+      {
+        "speaker": "C",
+        "start": 10.200125,
+        "end": 13.200125
+      },
+      {
+        "speaker": "B",
+        "start": 13.600125,
+        "end": 16.600125
+      },
+      {
+        "speaker": "B",
+        "start": 17.000125,
+        "end": 20.000125
+      },
+      {
+        "speaker": "A",
+        "start": 20.400125,
+        "end": 23.4001875
+      },
+      {
+        "speaker": "A",
+        "start": 23.8001875,
+        "end": 26.8001875
+      }
+    ],
+    "clip_offset": 27.2001875,
+    "public_targets": [
+      {
+        "segment_id": "segment_030",
+        "start": 1.7053025658242404e-13,
+        "end": 2.400000000000034
+      }
+    ],
+    "input_audio_seconds": 29.60025,
+    "evaluation_source_frame_start": 536960,
+    "evaluation_source_frame_end": 575361,
+    "evaluation_pcm_sha256": "1692be884ede1fe30d407b79b5f9945cb2e2ecdd77fc8462f4fc0366a8f4237f",
+    "input_pcm_sha256": "70b74a1a94cc04e767a92e3aeb0e1787c9135254ac1748a20732f552da3d4f44",
+    "input_wav_sha256": "e43b46c69cd6d4d633243b656a19a4892087b30c9e09c53e7201fd24c9ace420",
+    "reference_sha256_multiset": [
+      "09a6827828f6298f3822c0d8a9979ef71f74efe80af4e4419f35d2bbd1ea507d",
+      "2bafc712f694bdd23a5f6da4df2a6dcf5d6b56a87e60c50ba1fed0b89bf5b12b",
+      "411ed30ead01529a23e4b2ae27f114a8cadad1555f9e5576ca4b10e25ccad2d1",
+      "5178ae79ff8abd58d2e027f44ed96b33cc54eea062128dc2f524dc55af5a40a1",
+      "c0390b80bc681e9b1bb21222222905064533277876e8c1c50bea45395ecbf69f",
+      "c7e42334f9107526cdd50e3773ab00203364a48ca29e26d2ddb536cbce796482",
+      "cdfc0d89a345f6944f51778513855414571a21893bba20a317877674e20f58c9",
+      "dcdbc90bb5c58f822a0d266f7ba57cf9bd6fea42eb783326fb5d12378807a39a"
+    ]
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.34,
+      "speaker": "S01",
+      "text": "Also so you uh if you have a video."
+    },
+    {
+      "start": 10.18,
+      "end": 13.12,
+      "speaker": "S02",
+      "text": "So I will be able to uh."
+    },
+    {
+      "start": 13.58,
+      "end": 14.04,
+      "speaker": "S03",
+      "text": "Um."
+    },
+    {
+      "start": 16.99,
+      "end": 19.83,
+      "speaker": "S03",
+      "text": "And um well."
+    },
+    {
+      "start": 20.37,
+      "end": 26.83,
+      "speaker": "S04",
+      "text": "Um the show the three things were um appealing to the correct demographic, so using those things in the right."
+    },
+    {
+      "start": 27.18,
+      "end": 29.6,
+      "speaker": "S03",
+      "text": "Uh plastic would be uh material."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "D",
+    "S02": "C",
+    "S03": "B",
+    "S04": "A"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "D": 5.9399999999999995,
+      "C": 0.0,
+      "B": 0.0,
+      "A": 0.0
+    },
+    "S02": {
+      "D": 0.0,
+      "C": 2.9198749999999993,
+      "B": 0.0,
+      "A": 0.0
+    },
+    "S03": {
+      "D": 0.0,
+      "C": 0.0,
+      "B": 3.2697499999999966,
+      "A": 0.0
+    },
+    "S04": {
+      "D": 0.0,
+      "C": 0.0,
+      "B": 0.0,
+      "A": 6.000062500000002
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_030",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.3998124999998325
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "reached_token_limit": false,
+  "inference_seconds": 4.104351318906993,
+  "peak_cuda_allocated_bytes": 1921872384
+}

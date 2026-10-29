@@ -1,0 +1,1283 @@
+{
+  "protocol": "moss-context-enrollment-2x2-v1",
+  "sources": {
+    "code": {
+      "url": "https://api.github.com/repos/OpenMOSS/MOSS-Transcribe-Diarize/commits/main",
+      "revision": "79c675f0670cc2f824bcbcdd98263704f40f1f7e"
+    },
+    "model": {
+      "url": "https://huggingface.co/api/models/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "revision": "704aa4a9c304e8520be88901e0d1960158ef5b15"
+    }
+  },
+  "inputs_sha256": "bab327991fc2c6a8a576e79e909de85e4f1e559d32177bdfd50331198df707a0",
+  "clip_ids": [
+    "IS1009d_question_answer_reversal_01",
+    "IS1000d_question_answer_reversal_01"
+  ],
+  "profile": {
+    "dtype": "bfloat16",
+    "max_new_tokens": 4096,
+    "gap_seconds": 0.4,
+    "do_sample": false,
+    "seed": 0,
+    "attention": "sdpa",
+    "cpu_threads": 2
+  },
+  "expected_packages": {
+    "torch": "2.4.0+cu118",
+    "transformers": "5.6.0",
+    "moss-transcribe-diarize": "0.1.0"
+  },
+  "expected_torch_cuda": "11.8",
+  "baseline_manifest_sha256": "d889ad76d0d1c68c0901f505e1df2bc73f701e9e21a42c7bdc843361eee8c6e2",
+  "adapter_source_sha256_lf": {
+    "run_moss_diagnostics.py": "e782a9fefb2b428e6f6c59e5111dae85145d64a5594040db222bf4005b4a3871",
+    "moss_diagnostic_protocol.py": "cbb5745a3efd044079a6ffc335ee3e32f2fe8a454c382a370aeaf9a5e8e160c6",
+    "diarization_projection.py": "365abb75f705ce62cc71bd177b9495af9e3c25a3eddd476470498a35c5d5044f"
+  },
+  "selection": "All public segments of selected clips with duration 0.8–15s; no eligibility labels read.",
+  "scope": "Post-hoc exploratory diagnostics, not a new held-out leaderboard.",
+  "jobs": [
+    {
+      "job_id": "full_forward/case_000/full",
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "full",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_000",
+        "segment_001",
+        "segment_003",
+        "segment_005",
+        "segment_006",
+        "segment_007",
+        "segment_008",
+        "segment_009",
+        "segment_010",
+        "segment_011",
+        "segment_012",
+        "segment_013",
+        "segment_014",
+        "segment_015",
+        "segment_017",
+        "segment_018",
+        "segment_019",
+        "segment_020",
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "full_forward/case_001/full",
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "full",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_000",
+        "segment_002",
+        "segment_003",
+        "segment_004",
+        "segment_005",
+        "segment_011",
+        "segment_014",
+        "segment_015",
+        "segment_019",
+        "segment_021",
+        "segment_022",
+        "segment_023",
+        "segment_026",
+        "segment_030",
+        "segment_031",
+        "segment_032",
+        "segment_033",
+        "segment_034"
+      ]
+    },
+    {
+      "job_id": "full_reverse/case_000/full",
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "full",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_000",
+        "segment_001",
+        "segment_003",
+        "segment_005",
+        "segment_006",
+        "segment_007",
+        "segment_008",
+        "segment_009",
+        "segment_010",
+        "segment_011",
+        "segment_012",
+        "segment_013",
+        "segment_014",
+        "segment_015",
+        "segment_017",
+        "segment_018",
+        "segment_019",
+        "segment_020",
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "full_reverse/case_001/full",
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "full",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_000",
+        "segment_002",
+        "segment_003",
+        "segment_004",
+        "segment_005",
+        "segment_011",
+        "segment_014",
+        "segment_015",
+        "segment_019",
+        "segment_021",
+        "segment_022",
+        "segment_023",
+        "segment_026",
+        "segment_030",
+        "segment_031",
+        "segment_032",
+        "segment_033",
+        "segment_034"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_000",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_000"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_001",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_001"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_003",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_003"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_005",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_005"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_006",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_006"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_007",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_007"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_008",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_008"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_009",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_009"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_010",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_010"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_011",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_011"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_012",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_012"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_013",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_013"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_014",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_014"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_015",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_015"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_017",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_017"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_018",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_018"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_019",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_019"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_020",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_020"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_000/segment_022",
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_000",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_000"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_002",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_002"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_003",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_003"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_004",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_004"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_005",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_005"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_011",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_011"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_014",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_014"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_015",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_015"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_019",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_019"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_021",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_021"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_022",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_023",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_023"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_026",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_026"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_030",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_030"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_031",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_031"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_032",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_032"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_033",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_033"
+      ]
+    },
+    {
+      "job_id": "isolated_forward/case_001/segment_034",
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_segment_ids": [
+        "segment_034"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_000",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_000"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_001",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_001"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_003",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_003"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_005",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_005"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_006",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_006"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_007",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_007"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_008",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_008"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_009",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_009"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_010",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_010"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_011",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_011"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_012",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_012"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_013",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_013"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_014",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_014"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_015",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_015"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_017",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_017"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_018",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_018"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_019",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_019"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_020",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_020"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_000/segment_022",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_000",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_000"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_002",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_002"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_003",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_003"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_004",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_004"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_005",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_005"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_011",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_011"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_014",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_014"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_015",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_015"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_019",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_019"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_021",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_021"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_022",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_022"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_023",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_023"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_026",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_026"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_030",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_030"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_031",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_031"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_032",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_032"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_033",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_033"
+      ]
+    },
+    {
+      "job_id": "isolated_reverse/case_001/segment_034",
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "context": "isolated",
+      "reference_order": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "target_segment_ids": [
+        "segment_034"
+      ]
+    }
+  ]
+}

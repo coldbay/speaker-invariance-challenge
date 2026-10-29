@@ -1,0 +1,1393 @@
+{
+  "archive_bytes": 52518,
+  "archive_sha256": "21d3f39ef98e3bad0d1ec6eca5920e2825274d0c49712b11c00f41ca64c7a055",
+  "archive_file_count": 24,
+  "zip_crc_passed": true,
+  "source_checks": {
+    "run_boundary_control.py": true,
+    "boundary_control.py": true,
+    "moss_diagnostic_protocol.py": true,
+    "diarization_projection.py": true
+  },
+  "input_rebuilds": 8,
+  "reprojected_jobs": 8,
+  "methods": {
+    "pad_00": {
+      "correct": 22,
+      "scored": 24,
+      "pairs_correct": 2,
+      "pairs": 3,
+      "fixed": 0,
+      "new_errors": 0,
+      "missing": 0,
+      "changed_segments": {
+        "fixed": [],
+        "new_errors": []
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        }
+      }
+    },
+    "pad_02": {
+      "correct": 22,
+      "scored": 24,
+      "pairs_correct": 2,
+      "pairs": 3,
+      "fixed": 0,
+      "new_errors": 0,
+      "missing": 0,
+      "changed_segments": {
+        "fixed": [],
+        "new_errors": []
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        }
+      }
+    },
+    "pad_30": {
+      "correct": 23,
+      "scored": 24,
+      "pairs_correct": 2,
+      "pairs": 3,
+      "fixed": 2,
+      "new_errors": 1,
+      "missing": 1,
+      "changed_segments": {
+        "fixed": [
+          {
+            "clip_id": "IS1009d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1009d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_001",
+            "correct": true,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.7300000000000182,
+            "speaker": "A",
+            "predicted_speaker": "A"
+          },
+          {
+            "clip_id": "IS1009d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1009d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_006",
+            "correct": true,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.1399999999998727,
+            "speaker": "A",
+            "predicted_speaker": "A"
+          }
+        ],
+        "new_errors": [
+          {
+            "clip_id": "IS1009d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1009d",
+            "event": "question_answer_reversal",
+            "position": "answer_after",
+            "segment_id": "segment_019",
+            "correct": false,
+            "missing": true,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.5900000000001455,
+            "speaker": "A",
+            "predicted_speaker": null
+          }
+        ]
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 12,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        }
+      }
+    },
+    "pad_32": {
+      "correct": 15,
+      "scored": 24,
+      "pairs_correct": 1,
+      "pairs": 3,
+      "fixed": 0,
+      "new_errors": 7,
+      "missing": 2,
+      "changed_segments": {
+        "fixed": [],
+        "new_errors": [
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_000",
+            "correct": false,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.990000000000009,
+            "speaker": "B",
+            "predicted_speaker": "D"
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_002",
+            "correct": false,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.1099999999999,
+            "speaker": "B",
+            "predicted_speaker": "D"
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_005",
+            "correct": false,
+            "missing": true,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 0.8699999999998909,
+            "speaker": "D",
+            "predicted_speaker": null
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_021",
+            "correct": false,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 1.2100000000000364,
+            "speaker": "B",
+            "predicted_speaker": "D"
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_026",
+            "correct": false,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 2.1400000000001,
+            "speaker": "B",
+            "predicted_speaker": "D"
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "context",
+            "segment_id": "segment_033",
+            "correct": false,
+            "missing": true,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 2.519999999999982,
+            "speaker": "D",
+            "predicted_speaker": null
+          },
+          {
+            "clip_id": "IS1000d_question_answer_reversal_01",
+            "split": "evaluation",
+            "meeting": "IS1000d",
+            "event": "question_answer_reversal",
+            "position": "answer_after",
+            "segment_id": "segment_034",
+            "correct": false,
+            "missing": false,
+            "review_status": "automatic_candidate_not_human_verified",
+            "duration": 2.4199999999998454,
+            "speaker": "B",
+            "predicted_speaker": "D"
+          }
+        ]
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 4,
+          "scored": 11
+        }
+      }
+    },
+    "majority_vote": {
+      "correct": 22,
+      "scored": 24,
+      "pairs_correct": 2,
+      "pairs": 3,
+      "fixed": 0,
+      "new_errors": 0,
+      "missing": 0,
+      "changed_segments": {
+        "fixed": [],
+        "new_errors": []
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        }
+      }
+    },
+    "boundary_guard": {
+      "correct": 22,
+      "scored": 24,
+      "pairs_correct": 2,
+      "pairs": 3,
+      "fixed": 0,
+      "new_errors": 0,
+      "missing": 0,
+      "changed_segments": {
+        "fixed": [],
+        "new_errors": []
+      },
+      "per_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        }
+      }
+    }
+  },
+  "errors": [
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 0,
+      "utterance": {
+        "segment_id": "segment_001",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.183",
+        "dialogue_act": "Elicit-Inform",
+        "text": "Why ? Wh why you need that up ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "before_question",
+        "start": 2.0,
+        "end": 3.730000000000018,
+        "duration": 1.7300000000000182
+      },
+      "prediction": {
+        "segment_id": "segment_001",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.7300000000000182
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 29.16,
+          "end": 30.97,
+          "speaker": "S02",
+          "text": "Why uh why you need that up?",
+          "target_overlap_seconds": 1.7300000000000182
+        }
+      ],
+      "placement": {
+        "start": 29.2001875,
+        "end": 30.930187500000017,
+        "crosses_30s_boundary": true,
+        "boundary_clearance_seconds": 0.0,
+        "safe": false
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 6.000062499999999,
+          "C": 5.909874999999998,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.1498124999999995
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 0,
+      "utterance": {
+        "segment_id": "segment_006",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.184",
+        "dialogue_act": "Inform",
+        "text": "I think you can make it there .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 15.670000000000073,
+        "end": 16.809999999999945,
+        "duration": 1.1399999999998727
+      },
+      "prediction": {
+        "segment_id": "segment_006",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.1399999999998727
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 42.83,
+          "end": 44.04,
+          "speaker": "S02",
+          "text": "I think you can make it there.",
+          "target_overlap_seconds": 1.1399999999998727
+        }
+      ],
+      "placement": {
+        "start": 42.87018750000007,
+        "end": 44.010187499999944,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 12.870187500000071,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 6.000062499999999,
+          "C": 5.909874999999998,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.1498124999999995
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 2,
+      "utterance": {
+        "segment_id": "segment_001",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.183",
+        "dialogue_act": "Elicit-Inform",
+        "text": "Why ? Wh why you need that up ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "before_question",
+        "start": 2.0,
+        "end": 3.730000000000018,
+        "duration": 1.7300000000000182
+      },
+      "prediction": {
+        "segment_id": "segment_001",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.7300000000000182
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 31.16,
+          "end": 32.98,
+          "speaker": "S02",
+          "text": "Why, why you need that up?",
+          "target_overlap_seconds": 1.7300000000000182
+        }
+      ],
+      "placement": {
+        "start": 31.2001875,
+        "end": 32.93018750000002,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 1.2001874999999984,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0000625,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.9999375,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.979874999999998,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.139812499999998
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 2,
+      "utterance": {
+        "segment_id": "segment_006",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.184",
+        "dialogue_act": "Inform",
+        "text": "I think you can make it there .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 15.670000000000073,
+        "end": 16.809999999999945,
+        "duration": 1.1399999999998727
+      },
+      "prediction": {
+        "segment_id": "segment_006",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.1399999999998727
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 44.82,
+          "end": 46.04,
+          "speaker": "S02",
+          "text": "I think you can make it there.",
+          "target_overlap_seconds": 1.1399999999998727
+        }
+      ],
+      "placement": {
+        "start": 44.87018750000007,
+        "end": 46.010187499999944,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 13.989812500000056,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0000625,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.9999375,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.979874999999998,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.139812499999998
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 30,
+      "utterance": {
+        "segment_id": "segment_019",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.185",
+        "dialogue_act": "Assess",
+        "text": "Yes I think uh shape is one .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "answer_after",
+        "focus_slot": "after_answer",
+        "start": 44.5,
+        "end": 46.090000000000146,
+        "duration": 1.5900000000001455
+      },
+      "prediction": {
+        "segment_id": "segment_019",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "kind": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 101.7,
+          "end": 103.3,
+          "speaker": "S04",
+          "text": "Yes, I think uh shape is one.",
+          "target_overlap_seconds": 1.5900000000001455
+        }
+      ],
+      "placement": {
+        "start": 101.7001875,
+        "end": 103.29018750000014,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 11.700187499999998,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.999937499999994,
+          "C": 5.8998750000000015,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.099812499999999
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_001",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.183",
+        "dialogue_act": "Elicit-Inform",
+        "text": "Why ? Wh why you need that up ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "before_question",
+        "start": 2.0,
+        "end": 3.730000000000018,
+        "duration": 1.7300000000000182
+      },
+      "prediction": {
+        "segment_id": "segment_001",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.7300000000000182
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 61.17,
+          "end": 62.98,
+          "speaker": "S02",
+          "text": "Why w- why you need that up?",
+          "target_overlap_seconds": 1.7300000000000182
+        }
+      ],
+      "placement": {
+        "start": 61.2001875,
+        "end": 62.93018750000002,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 1.2001874999999984,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0000624999999985,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.999937499999994,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.979875,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.139812499999998
+        }
+      }
+    },
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_006",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.184",
+        "dialogue_act": "Inform",
+        "text": "I think you can make it there .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 15.670000000000073,
+        "end": 16.809999999999945,
+        "duration": 1.1399999999998727
+      },
+      "prediction": {
+        "segment_id": "segment_006",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.1399999999998727
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 74.83,
+          "end": 76.04,
+          "speaker": "S02",
+          "text": "I think you can make it there.",
+          "target_overlap_seconds": 1.1399999999998727
+        }
+      ],
+      "placement": {
+        "start": 74.87018750000007,
+        "end": 76.01018749999994,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 13.989812500000056,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0000624999999985,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.999937499999994,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.979875,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.139812499999998
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_000",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.317",
+        "dialogue_act": "Comment-About-Understanding",
+        "text": "Yes , this one . Okay .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 0.009999999999990905,
+        "end": 2.0,
+        "duration": 1.990000000000009
+      },
+      "prediction": {
+        "segment_id": "segment_000",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 1.990000000000009
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 59.18,
+          "end": 63.63,
+          "speaker": "S02",
+          "text": "Yes, this one, okay. Case um",
+          "target_overlap_seconds": 1.990000000000009
+        }
+      ],
+      "placement": {
+        "start": 59.21018749999999,
+        "end": 61.2001875,
+        "crosses_30s_boundary": true,
+        "boundary_clearance_seconds": 0.0,
+        "safe": false
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_002",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.319",
+        "dialogue_act": "Stall",
+        "text": "Um ,",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 3.8400000000001455,
+        "end": 4.9500000000000455,
+        "duration": 1.1099999999999
+      },
+      "prediction": {
+        "segment_id": "segment_002",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 0.5898124999998586,
+          "C": 0.030187500000039336
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 59.18,
+          "end": 63.63,
+          "speaker": "S02",
+          "text": "Yes, this one, okay. Case um",
+          "target_overlap_seconds": 0.5898124999998586
+        },
+        {
+          "start": 64.12,
+          "end": 65.5,
+          "speaker": "S03",
+          "text": "So",
+          "target_overlap_seconds": 0.030187500000039336
+        }
+      ],
+      "placement": {
+        "start": 63.040187500000144,
+        "end": 64.15018750000004,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 3.040187500000144,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_005",
+        "speaker": "D",
+        "global_speaker": "MIO050",
+        "source_dialogue_act": "IS1000d.D.dialog-act.vkaraisk.285",
+        "dialogue_act": "Assess",
+        "text": "yeah right .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 8.400000000000091,
+        "end": 9.269999999999982,
+        "duration": 0.8699999999998909
+      },
+      "prediction": {
+        "segment_id": "segment_005",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "kind": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 66.11,
+          "end": 68.85,
+          "speaker": "S04",
+          "text": "Cloud, double cloud, yeah, it's a",
+          "target_overlap_seconds": 0.8699999999998909
+        }
+      ],
+      "placement": {
+        "start": 67.60018750000009,
+        "end": 68.47018749999998,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 7.600187500000089,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_021",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.326",
+        "dialogue_act": "Inform",
+        "text": "but they have the same shape ,",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 21.74000000000001,
+        "end": 22.950000000000045,
+        "duration": 1.2100000000000364
+      },
+      "prediction": {
+        "segment_id": "segment_021",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 1.2100000000000364
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 79.31,
+          "end": 82.35,
+          "speaker": "S02",
+          "text": "Oh yes, we are talking about but they have the same shape, but",
+          "target_overlap_seconds": 1.2100000000000364
+        }
+      ],
+      "placement": {
+        "start": 80.94018750000001,
+        "end": 82.15018750000004,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 7.849812499999956,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_026",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.329",
+        "dialogue_act": "Elicit-Inform",
+        "text": "th th this would be double curves ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 26.940000000000055,
+        "end": 29.080000000000155,
+        "duration": 2.1400000000001
+      },
+      "prediction": {
+        "segment_id": "segment_026",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 2.139812499999948
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 85.68,
+          "end": 88.28,
+          "speaker": "S02",
+          "text": "So thi thi this would be double carved?",
+          "target_overlap_seconds": 2.139812499999948
+        }
+      ],
+      "placement": {
+        "start": 86.14018750000005,
+        "end": 88.28018750000015,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 1.719812499999847,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_033",
+        "speaker": "D",
+        "global_speaker": "MIO050",
+        "source_dialogue_act": "IS1000d.D.dialog-act.vkaraisk.290",
+        "dialogue_act": "Elicit-Inform",
+        "text": "A special colour ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "after_question",
+        "start": 38.91000000000008,
+        "end": 41.430000000000064,
+        "duration": 2.519999999999982
+      },
+      "prediction": {
+        "segment_id": "segment_033",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "kind": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 98.07,
+          "end": 99.13,
+          "speaker": "S04",
+          "text": "Special colour.",
+          "target_overlap_seconds": 1.0198124999999152
+        }
+      ],
+      "placement": {
+        "start": 98.11018750000008,
+        "end": 100.63018750000006,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 8.11018750000008,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "pad": 32,
+      "utterance": {
+        "segment_id": "segment_034",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.332",
+        "dialogue_act": "Inform",
+        "text": "Uh special colour , now we leave it to the covers .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "answer_after",
+        "focus_slot": "after_answer",
+        "start": 42.100000000000136,
+        "end": 44.51999999999998,
+        "duration": 2.4199999999998454
+      },
+      "prediction": {
+        "segment_id": "segment_034",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 2.4199999999998454
+        },
+        "reason": "max_time_overlap"
+      },
+      "kind": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 101.26,
+          "end": 103.83,
+          "speaker": "S02",
+          "text": "Uh special colour, now we leave to the covers.",
+          "target_overlap_seconds": 2.4199999999998454
+        }
+      ],
+      "placement": {
+        "start": 101.30018750000013,
+        "end": 103.72018749999998,
+        "crosses_30s_boundary": false,
+        "boundary_clearance_seconds": 11.300187500000135,
+        "safe": true
+      },
+      "mapping": {
+        "S01": "A",
+        "S02": "D",
+        "S03": "C"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 5.910000000000004,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.249874999999996,
+          "C": 0.0,
+          "D": 5.969875000000002
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.2698125000000005,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        }
+      }
+    }
+  ],
+  "voting_changes_all_targets": {
+    "majority_vote": [
+      {
+        "clip_id": "IS1000d_question_answer_reversal_01",
+        "segment_id": "segment_022",
+        "before": "B",
+        "after": "A",
+        "decision": "three_quarter_majority"
+      }
+    ],
+    "boundary_guard": []
+  },
+  "error_type_counts": {
+    "0": {
+      "wrong_mapped_speaker": 2
+    },
+    "2": {
+      "wrong_mapped_speaker": 2
+    },
+    "30": {
+      "unmapped_anonymous_id": 1
+    },
+    "32": {
+      "wrong_mapped_speaker": 7,
+      "unmapped_anonymous_id": 2
+    }
+  },
+  "baseline_repeat_checks": [
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "same_text": true,
+      "same_segments": true,
+      "same_input_wav": true
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "same_text": true,
+      "same_segments": true,
+      "same_input_wav": true
+    }
+  ],
+  "total_inference_seconds": 138.33668572898023,
+  "peak_cuda_allocated_gib": 1.9610028266906738,
+  "all_local_files_match": true
+}

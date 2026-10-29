@@ -1,0 +1,434 @@
+{
+  "text": "[3.47][S01]Just been um presented with some research we've done and a a hundred people just asked them about their remote[9.91][10.27][S02]I will uh present the uh agenda first uh just to[16.63][17.08][S03]That is uh it's a very small vocabulary where you but uh usually[23.48][23.88][S01]Well wouldn't they already have a remote control with their television when they buy one?[28.56][29.16][S02]Of course they have already one, so our our our remote control has to be better.[32.88][33.28][S01]But it's not gonna have more functionality 'cause it's only a low market, it's a cheap end remote control. We can't beat more functionality. We might we'll be able to beat them on the the look of it, the the design of it, but that's not a big seller if they're not gonna just go and buy a new remote control just 'cause it looks pretty.[49.91][50.00][S02]Mm-hmm.[50.34][50.44][S01]They have to actually need it as well. So I'm not sure how we can get people to buy this thing.[55.30][56.42][S02]Hmm. Well I think many people said uh in your in in your research uh uh[64.14][63.43][S01]Mm.[63.73][65.57][S02]uh the appearance of the uh R C is is important when they're buying one, but[70.01][69.33][S01]Yeah, but why are they buying one in the first place?[71.75][71.84][S02]Indeed. So that will be about functionality.[78.22][79.99][S01]Hmm.[80.21]",
+  "prompt_len": 1120,
+  "generated_tokens": 482,
+  "job": {
+    "job_id": "pad3500ms_fwd/case_005/full",
+    "condition": "pad3500ms_fwd",
+    "clip_id": "IS1000b_same_direction_control_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "B",
+      "C"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_001",
+      "segment_002",
+      "segment_003",
+      "segment_004",
+      "segment_006",
+      "segment_007",
+      "segment_008",
+      "segment_009",
+      "segment_011",
+      "segment_013",
+      "segment_014",
+      "segment_015",
+      "segment_016",
+      "segment_020",
+      "segment_023"
+    ],
+    "leading_silence_seconds": 3.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "6312b9c33b52f0e2046b6bc05b06f0576960d218cad27ebc9d36cd3e0efe0ec1",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 3.5,
+        "end": 6.5
+      },
+      {
+        "speaker": "A",
+        "start": 6.9,
+        "end": 9.9
+      },
+      {
+        "speaker": "B",
+        "start": 10.3,
+        "end": 13.3
+      },
+      {
+        "speaker": "B",
+        "start": 13.7,
+        "end": 16.7
+      },
+      {
+        "speaker": "C",
+        "start": 17.1,
+        "end": 20.1
+      },
+      {
+        "speaker": "C",
+        "start": 20.5,
+        "end": 23.5
+      }
+    ],
+    "clip_offset": 23.9,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 2.0
+      },
+      {
+        "segment_id": "segment_001",
+        "start": 2.0,
+        "end": 4.740000000000009
+      },
+      {
+        "segment_id": "segment_002",
+        "start": 5.160000000000082,
+        "end": 6.529999999999973
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 6.529999999999973,
+        "end": 8.950000000000045
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 9.420000000000073,
+        "end": 10.730000000000018
+      },
+      {
+        "segment_id": "segment_006",
+        "start": 10.730000000000018,
+        "end": 14.639999999999873
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 14.639999999999873,
+        "end": 16.730000000000018
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 16.730000000000018,
+        "end": 20.75
+      },
+      {
+        "segment_id": "segment_009",
+        "start": 20.75,
+        "end": 22.6099999999999
+      },
+      {
+        "segment_id": "segment_011",
+        "start": 23.180000000000064,
+        "end": 26.539999999999964
+      },
+      {
+        "segment_id": "segment_013",
+        "start": 26.539999999999964,
+        "end": 28.829999999999927
+      },
+      {
+        "segment_id": "segment_014",
+        "start": 28.829999999999927,
+        "end": 31.399999999999864
+      },
+      {
+        "segment_id": "segment_015",
+        "start": 32.549999999999955,
+        "end": 34.200000000000045
+      },
+      {
+        "segment_id": "segment_016",
+        "start": 34.200000000000045,
+        "end": 45.73000000000002
+      },
+      {
+        "segment_id": "segment_020",
+        "start": 46.11999999999989,
+        "end": 47.799999999999955
+      },
+      {
+        "segment_id": "segment_023",
+        "start": 50.3599999999999,
+        "end": 54.309999999999945
+      }
+    ],
+    "input_audio_seconds": 80.21,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 900960,
+    "evaluation_pcm_sha256": "1b003ea76b9af22e60ebb36e05aa2470bcc2be7bc79f9ae30c1810202dbc37dd",
+    "input_pcm_sha256": "2b227aff024ec2b6f4b179bddf08071fc1346e2a374c79389f0c04a5ad3a7be1",
+    "input_wav_sha256": "7a4f0b3e9d2b394f57447d540b2f9f9d3f0fc7fe220a5b7293e80b0596f33abf",
+    "reference_sha256_multiset": [
+      "8110e6506897fd008fd8f74db6602ddcd96f2c1e919ed20237785146bb4d7f5b",
+      "8682df4f000f514156c33b8bf29abd021f3c6e4a4f1325a984f713ce31575236",
+      "a4e6564670ce86fdd84f7f345604e12d7ab7990efaeca6264207d7140d04f894",
+      "bef6dfa769aa675a78913f7fe65fd3e8391acf209f1331476496980e5bccc476",
+      "cacfc7c8fa59f9c3e06a3cc2c4262886d7872157aed86ebb5a3d5ea24d6c422e",
+      "ec57d794121e6b80d9cc11d86122f83f195ca1b225957e7cbb27af6f33cd9445"
+    ],
+    "leading_silence_seconds": 3.5,
+    "unpadded_input_pcm_sha256": "aa3a263059b3724a9ba758133f262d1aa3d5db8645283920dfed7d4ddf76c8ae",
+    "frontend_chunk_count": 3
+  },
+  "segments": [
+    {
+      "start": 3.47,
+      "end": 9.91,
+      "speaker": "S01",
+      "text": "Just been um presented with some research we've done and a a hundred people just asked them about their remote"
+    },
+    {
+      "start": 10.27,
+      "end": 16.63,
+      "speaker": "S02",
+      "text": "I will uh present the uh agenda first uh just to"
+    },
+    {
+      "start": 17.08,
+      "end": 23.48,
+      "speaker": "S03",
+      "text": "That is uh it's a very small vocabulary where you but uh usually"
+    },
+    {
+      "start": 23.88,
+      "end": 28.56,
+      "speaker": "S01",
+      "text": "Well wouldn't they already have a remote control with their television when they buy one?"
+    },
+    {
+      "start": 29.16,
+      "end": 32.88,
+      "speaker": "S02",
+      "text": "Of course they have already one, so our our our remote control has to be better."
+    },
+    {
+      "start": 33.28,
+      "end": 49.91,
+      "speaker": "S01",
+      "text": "But it's not gonna have more functionality 'cause it's only a low market, it's a cheap end remote control. We can't beat more functionality. We might we'll be able to beat them on the the look of it, the the design of it, but that's not a big seller if they're not gonna just go and buy a new remote control just 'cause it looks pretty."
+    },
+    {
+      "start": 50.0,
+      "end": 50.34,
+      "speaker": "S02",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 50.44,
+      "end": 55.3,
+      "speaker": "S01",
+      "text": "They have to actually need it as well. So I'm not sure how we can get people to buy this thing."
+    },
+    {
+      "start": 56.42,
+      "end": 64.14,
+      "speaker": "S02",
+      "text": "Hmm. Well I think many people said uh in your in in your research uh uh"
+    },
+    {
+      "start": 63.43,
+      "end": 63.73,
+      "speaker": "S01",
+      "text": "Mm."
+    },
+    {
+      "start": 65.57,
+      "end": 70.01,
+      "speaker": "S02",
+      "text": "uh the appearance of the uh R C is is important when they're buying one, but"
+    },
+    {
+      "start": 69.33,
+      "end": 71.75,
+      "speaker": "S01",
+      "text": "Yeah, but why are they buying one in the first place?"
+    },
+    {
+      "start": 71.84,
+      "end": 78.22,
+      "speaker": "S02",
+      "text": "Indeed. So that will be about functionality."
+    },
+    {
+      "start": 79.99,
+      "end": 80.21,
+      "speaker": "S01",
+      "text": "Hmm."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 6.0,
+      "B": 0.0,
+      "C": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 5.93,
+      "C": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.98
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.0
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_001",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.66
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_002",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.2699999999999712
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.4200000000000728
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.3099999999999454
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_006",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 3.9099999999998545
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.0900000000001455
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 4.019999999999982
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_009",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.8599999999999
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_011",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.8299999999999343,
+        "B": 0.3400000000000034
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_013",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.289999999999928
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_014",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.5699999999999363
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_015",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.650000000000091
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_016",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.6000000000000227,
+        "B": 10.099999999999987
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_020",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.6800000000000637
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_023",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 3.9500000000000455
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 16.896498485002667,
+  "peak_cuda_allocated_bytes": 2027186688,
+  "reached_token_limit": false
+}

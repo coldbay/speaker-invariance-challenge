@@ -1,0 +1,1880 @@
+{
+  "archive_sha256": "6544a234ca37e2d0c69687b0840495c129e95e653205d1366c06335827cbe427",
+  "archive_bytes": 179860,
+  "zip_crc_passed": true,
+  "planned_jobs": 78,
+  "input_audio_metadata_rebuilt": 78,
+  "predictions_reprojected": 78,
+  "conditions": {
+    "full_forward": {
+      "recomputed_summary_matches": true,
+      "summary": {
+        "correct": 22,
+        "scored": 24,
+        "missing": 0,
+        "pairs_both_correct": 2,
+        "pairs": 3,
+        "same_person_states": {
+          "correct_to_correct": 2,
+          "wrong_to_correct": 1
+        },
+        "model_calls": 2,
+        "calls_with_incomplete_registration": 1,
+        "calls_with_substantial_registration_merge": 1,
+        "calls_reaching_token_limit": 0,
+        "inference_seconds": 33.11548263509758,
+        "per_clip": {
+          "IS1000d_question_answer_reversal_01": {
+            "correct": 11,
+            "scored": 11
+          },
+          "IS1009d_question_answer_reversal_01": {
+            "correct": 11,
+            "scored": 13
+          }
+        },
+        "changes_vs_full_forward": {
+          "fixed_count": 0,
+          "new_error_count": 0,
+          "fixed_segments": [],
+          "new_error_segments": []
+        }
+      },
+      "error_types": {
+        "wrong_mapped_speaker": 2
+      },
+      "focus_slot_scores": {
+        "before_question": {
+          "correct": 0,
+          "scored": 1
+        },
+        "before_answer": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_question": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_answer": {
+          "correct": 2,
+          "scored": 2
+        }
+      },
+      "registration_by_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "calls": 1,
+          "incomplete": 1,
+          "missing_C": 1
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "calls": 1,
+          "incomplete": 0
+        }
+      }
+    },
+    "full_reverse": {
+      "recomputed_summary_matches": true,
+      "summary": {
+        "correct": 20,
+        "scored": 24,
+        "missing": 2,
+        "pairs_both_correct": 2,
+        "pairs": 3,
+        "same_person_states": {
+          "correct_to_correct": 2,
+          "wrong_to_correct": 1
+        },
+        "model_calls": 2,
+        "calls_with_incomplete_registration": 1,
+        "calls_with_substantial_registration_merge": 0,
+        "calls_reaching_token_limit": 0,
+        "inference_seconds": 33.079852774972096,
+        "per_clip": {
+          "IS1000d_question_answer_reversal_01": {
+            "correct": 9,
+            "scored": 11
+          },
+          "IS1009d_question_answer_reversal_01": {
+            "correct": 11,
+            "scored": 13
+          }
+        },
+        "changes_vs_full_forward": {
+          "fixed_count": 0,
+          "new_error_count": 2,
+          "fixed_segments": [],
+          "new_error_segments": [
+            [
+              "IS1000d_question_answer_reversal_01",
+              "segment_003"
+            ],
+            [
+              "IS1000d_question_answer_reversal_01",
+              "segment_032"
+            ]
+          ]
+        }
+      },
+      "error_types": {
+        "wrong_mapped_speaker": 2,
+        "unmapped_anonymous_id": 2
+      },
+      "focus_slot_scores": {
+        "before_question": {
+          "correct": 0,
+          "scored": 1
+        },
+        "before_answer": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_question": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_answer": {
+          "correct": 2,
+          "scored": 2
+        }
+      },
+      "registration_by_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "calls": 1,
+          "incomplete": 0
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "calls": 1,
+          "incomplete": 1,
+          "missing_C": 1
+        }
+      }
+    },
+    "isolated_forward": {
+      "recomputed_summary_matches": true,
+      "summary": {
+        "correct": 21,
+        "scored": 24,
+        "missing": 1,
+        "pairs_both_correct": 3,
+        "pairs": 3,
+        "same_person_states": {
+          "correct_to_correct": 3
+        },
+        "model_calls": 37,
+        "calls_with_incomplete_registration": 0,
+        "calls_with_substantial_registration_merge": 0,
+        "calls_reaching_token_limit": 0,
+        "inference_seconds": 160.5504272945691,
+        "per_clip": {
+          "IS1000d_question_answer_reversal_01": {
+            "correct": 9,
+            "scored": 11
+          },
+          "IS1009d_question_answer_reversal_01": {
+            "correct": 12,
+            "scored": 13
+          }
+        },
+        "changes_vs_full_forward": {
+          "fixed_count": 2,
+          "new_error_count": 3,
+          "fixed_segments": [
+            [
+              "IS1009d_question_answer_reversal_01",
+              "segment_001"
+            ],
+            [
+              "IS1009d_question_answer_reversal_01",
+              "segment_006"
+            ]
+          ],
+          "new_error_segments": [
+            [
+              "IS1000d_question_answer_reversal_01",
+              "segment_005"
+            ],
+            [
+              "IS1000d_question_answer_reversal_01",
+              "segment_034"
+            ],
+            [
+              "IS1009d_question_answer_reversal_01",
+              "segment_007"
+            ]
+          ]
+        }
+      },
+      "error_types": {
+        "wrong_mapped_speaker": 2,
+        "missing_target_or_timestamp": 1
+      },
+      "focus_slot_scores": {
+        "before_question": {
+          "correct": 1,
+          "scored": 1
+        },
+        "before_answer": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_question": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_answer": {
+          "correct": 1,
+          "scored": 2
+        }
+      },
+      "registration_by_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "calls": 19,
+          "incomplete": 0
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "calls": 18,
+          "incomplete": 0
+        }
+      }
+    },
+    "isolated_reverse": {
+      "recomputed_summary_matches": true,
+      "summary": {
+        "correct": 23,
+        "scored": 24,
+        "missing": 1,
+        "pairs_both_correct": 3,
+        "pairs": 3,
+        "same_person_states": {
+          "correct_to_correct": 3
+        },
+        "model_calls": 37,
+        "calls_with_incomplete_registration": 13,
+        "calls_with_substantial_registration_merge": 1,
+        "calls_reaching_token_limit": 0,
+        "inference_seconds": 158.6251004752703,
+        "per_clip": {
+          "IS1000d_question_answer_reversal_01": {
+            "correct": 10,
+            "scored": 11
+          },
+          "IS1009d_question_answer_reversal_01": {
+            "correct": 13,
+            "scored": 13
+          }
+        },
+        "changes_vs_full_forward": {
+          "fixed_count": 2,
+          "new_error_count": 1,
+          "fixed_segments": [
+            [
+              "IS1009d_question_answer_reversal_01",
+              "segment_001"
+            ],
+            [
+              "IS1009d_question_answer_reversal_01",
+              "segment_006"
+            ]
+          ],
+          "new_error_segments": [
+            [
+              "IS1000d_question_answer_reversal_01",
+              "segment_032"
+            ]
+          ]
+        }
+      },
+      "error_types": {
+        "unmapped_anonymous_id": 1
+      },
+      "focus_slot_scores": {
+        "before_question": {
+          "correct": 1,
+          "scored": 1
+        },
+        "before_answer": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_question": {
+          "correct": 2,
+          "scored": 2
+        },
+        "after_answer": {
+          "correct": 2,
+          "scored": 2
+        }
+      },
+      "registration_by_clip": {
+        "IS1009d_question_answer_reversal_01": {
+          "calls": 19,
+          "incomplete": 1,
+          "missing_B": 1
+        },
+        "IS1000d_question_answer_reversal_01": {
+          "calls": 18,
+          "incomplete": 12,
+          "missing_C": 12
+        }
+      }
+    }
+  },
+  "errors": [
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "job_id": "full_forward/case_000/full",
+      "utterance": {
+        "segment_id": "segment_001",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.183",
+        "dialogue_act": "Elicit-Inform",
+        "text": "Why ? Wh why you need that up ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "before_question",
+        "start": 2.0,
+        "end": 3.730000000000018,
+        "duration": 1.7300000000000182
+      },
+      "prediction": {
+        "segment_id": "segment_001",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.7300000000000182
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 29.16,
+          "end": 30.97,
+          "speaker": "S02",
+          "text": "Why uh why you need that up?",
+          "target_overlap_seconds": 1.7300000000000182
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 6.000062499999999,
+          "C": 5.909874999999998,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.1498124999999995
+        }
+      }
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "job_id": "full_forward/case_000/full",
+      "utterance": {
+        "segment_id": "segment_006",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.184",
+        "dialogue_act": "Inform",
+        "text": "I think you can make it there .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 15.670000000000073,
+        "end": 16.809999999999945,
+        "duration": 1.1399999999998727
+      },
+      "prediction": {
+        "segment_id": "segment_006",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.1399999999998727
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 42.83,
+          "end": 44.04,
+          "speaker": "S02",
+          "text": "I think you can make it there.",
+          "target_overlap_seconds": 1.1399999999998727
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 6.000062499999999,
+          "C": 5.909874999999998,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.1498124999999995
+        }
+      }
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "job_id": "full_reverse/case_000/full",
+      "utterance": {
+        "segment_id": "segment_001",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.183",
+        "dialogue_act": "Elicit-Inform",
+        "text": "Why ? Wh why you need that up ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "focus_slot": "before_question",
+        "start": 2.0,
+        "end": 3.730000000000018,
+        "duration": 1.7300000000000182
+      },
+      "prediction": {
+        "segment_id": "segment_001",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.7300000000000182
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 29.15,
+          "end": 30.97,
+          "speaker": "S03",
+          "text": "Why, why you need that up?",
+          "target_overlap_seconds": 1.7300000000000182
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "D",
+        "S02": "C",
+        "S03": "B",
+        "S04": "A"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "D": 4.120000000000001,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S02": {
+          "D": 0.0,
+          "C": 5.920000000000001,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S03": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 6.000062500000002,
+          "A": 0.0
+        },
+        "S04": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 6.000062500000002
+        }
+      }
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "job_id": "full_reverse/case_000/full",
+      "utterance": {
+        "segment_id": "segment_006",
+        "speaker": "A",
+        "global_speaker": "FIE088",
+        "source_dialogue_act": "IS1009d.A.dialog-act.dharshi.184",
+        "dialogue_act": "Inform",
+        "text": "I think you can make it there .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 15.670000000000073,
+        "end": 16.809999999999945,
+        "duration": 1.1399999999998727
+      },
+      "prediction": {
+        "segment_id": "segment_006",
+        "speaker": "B",
+        "coverage_seconds_by_registered_speaker": {
+          "B": 1.1399999999998727
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 42.82,
+          "end": 44.05,
+          "speaker": "S03",
+          "text": "I think you can make it there.",
+          "target_overlap_seconds": 1.1399999999998727
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "D",
+        "S02": "C",
+        "S03": "B",
+        "S04": "A"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "D": 4.120000000000001,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S02": {
+          "D": 0.0,
+          "C": 5.920000000000001,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S03": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 6.000062500000002,
+          "A": 0.0
+        },
+        "S04": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 6.000062500000002
+        }
+      }
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "job_id": "full_reverse/case_001/full",
+      "utterance": {
+        "segment_id": "segment_003",
+        "speaker": "C",
+        "global_speaker": "MIO016",
+        "source_dialogue_act": "IS1000d.C.dialog-act.vkaraisk.241",
+        "dialogue_act": "Stall",
+        "text": "So",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 5.269999999999982,
+        "end": 6.2000000000000455,
+        "duration": 0.9300000000000637
+      },
+      "prediction": {
+        "segment_id": "segment_003",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "error_type": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 32.21,
+          "end": 33.51,
+          "speaker": "S04",
+          "text": "So.",
+          "target_overlap_seconds": 0.9300000000000637
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "D",
+        "S02": "B",
+        "S03": "A"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "D": 5.9399999999999995,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S02": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 3.279749999999998,
+          "A": 0.0
+        },
+        "S03": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 6.000062500000002
+        },
+        "S04": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        }
+      }
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "job_id": "full_reverse/case_001/full",
+      "utterance": {
+        "segment_id": "segment_032",
+        "speaker": "C",
+        "global_speaker": "MIO016",
+        "source_dialogue_act": "IS1000d.C.dialog-act.vkaraisk.246",
+        "dialogue_act": "Inform",
+        "text": "Is it zero Franc ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 37.13000000000011,
+        "end": 38.13000000000011,
+        "duration": 1.0
+      },
+      "prediction": {
+        "segment_id": "segment_032",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "error_type": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 64.28,
+          "end": 65.38,
+          "speaker": "S04",
+          "text": "It is Euro frank.",
+          "target_overlap_seconds": 1.0
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "D",
+        "S02": "B",
+        "S03": "A"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "D": 5.9399999999999995,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S02": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 3.279749999999998,
+          "A": 0.0
+        },
+        "S03": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 6.000062500000002
+        },
+        "S04": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        }
+      }
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "job_id": "isolated_forward/case_000/segment_007",
+      "utterance": {
+        "segment_id": "segment_007",
+        "speaker": "D",
+        "global_speaker": "FIO089",
+        "source_dialogue_act": "IS1009d.D.dialog-act.dharshi.200",
+        "dialogue_act": "Assess",
+        "text": "Mm 'kay .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 17.059999999999945,
+        "end": 17.980000000000018,
+        "duration": 0.9200000000000728
+      },
+      "prediction": {
+        "segment_id": "segment_007",
+        "speaker": "A",
+        "coverage_seconds_by_registered_speaker": {
+          "A": 0.5297500000000568
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 27.17,
+          "end": 27.73,
+          "speaker": "S01",
+          "text": "Okay.",
+          "target_overlap_seconds": 0.5297500000000568
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 5.999937499999999,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.879874999999997,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 4.1098125
+        }
+      }
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "job_id": "isolated_forward/case_001/segment_005",
+      "utterance": {
+        "segment_id": "segment_005",
+        "speaker": "D",
+        "global_speaker": "MIO050",
+        "source_dialogue_act": "IS1000d.D.dialog-act.vkaraisk.285",
+        "dialogue_act": "Assess",
+        "text": "yeah right .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 8.400000000000091,
+        "end": 9.269999999999982,
+        "duration": 0.8699999999998909
+      },
+      "prediction": {
+        "segment_id": "segment_005",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "error_type": "missing_target_or_timestamp",
+      "overlapping_raw_segments": [],
+      "speaker_mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.2398750000000005,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 5.0199374999999975,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 5.949874999999999
+        }
+      }
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "job_id": "isolated_forward/case_001/segment_034",
+      "utterance": {
+        "segment_id": "segment_034",
+        "speaker": "B",
+        "global_speaker": "MIO082",
+        "source_dialogue_act": "IS1000d.B.dialog-act.vkaraisk.332",
+        "dialogue_act": "Inform",
+        "text": "Uh special colour , now we leave it to the covers .",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "answer_after",
+        "focus_slot": "after_answer",
+        "start": 42.100000000000136,
+        "end": 44.51999999999998,
+        "duration": 2.4199999999998454
+      },
+      "prediction": {
+        "segment_id": "segment_034",
+        "speaker": "D",
+        "coverage_seconds_by_registered_speaker": {
+          "D": 2.4198124999998676
+        },
+        "reason": "max_time_overlap"
+      },
+      "error_type": "wrong_mapped_speaker",
+      "overlapping_raw_segments": [
+        {
+          "start": 20.36,
+          "end": 29.62,
+          "speaker": "S04",
+          "text": "Also so you uh if you have a video uh special colour, now we leave to the covers.",
+          "target_overlap_seconds": 2.4198124999998676
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "A",
+        "S02": "B",
+        "S03": "C",
+        "S04": "D"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "A": 6.000062499999999,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S02": {
+          "A": 0.0,
+          "B": 3.269875,
+          "C": 0.0,
+          "D": 0.0
+        },
+        "S03": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 4.259812499999999,
+          "D": 0.0
+        },
+        "S04": {
+          "A": 0.0,
+          "B": 0.0,
+          "C": 0.0,
+          "D": 6.0000624999999985
+        }
+      }
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "job_id": "isolated_reverse/case_001/segment_032",
+      "utterance": {
+        "segment_id": "segment_032",
+        "speaker": "C",
+        "global_speaker": "MIO016",
+        "source_dialogue_act": "IS1000d.C.dialog-act.vkaraisk.246",
+        "dialogue_act": "Inform",
+        "text": "Is it zero Franc ?",
+        "score_eligible": true,
+        "other_speaker_word_overlap_fraction": 0.0,
+        "truncated": false,
+        "position": "context",
+        "start": 37.13000000000011,
+        "end": 38.13000000000011,
+        "duration": 1.0
+      },
+      "prediction": {
+        "segment_id": "segment_032",
+        "speaker": null,
+        "coverage_seconds_by_registered_speaker": {},
+        "reason": "no_mapped_coverage"
+      },
+      "error_type": "unmapped_anonymous_id",
+      "overlapping_raw_segments": [
+        {
+          "start": 27.18,
+          "end": 28.18,
+          "speaker": "S04",
+          "text": "It is zero frank.",
+          "target_overlap_seconds": 0.9798124999998947
+        }
+      ],
+      "speaker_mapping": {
+        "S01": "D",
+        "S02": "B",
+        "S03": "A"
+      },
+      "enrollment_overlap_weights": {
+        "S01": {
+          "D": 5.9399999999999995,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        },
+        "S02": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 3.2597499999999986,
+          "A": 0.0
+        },
+        "S03": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 6.000062500000002
+        },
+        "S04": {
+          "D": 0.0,
+          "C": 0.0,
+          "B": 0.0,
+          "A": 0.0
+        }
+      }
+    }
+  ],
+  "baseline_repeat_checks": [
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "same_input_wav": true,
+      "same_generated_text": true,
+      "same_segments": true
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "same_input_wav": true,
+      "same_generated_text": true,
+      "same_segments": true
+    }
+  ],
+  "audited_frontend_chunk_seconds": 30,
+  "scored_target_frontend_positions": [
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_001",
+      "start": 29.2001875,
+      "end": 30.930187500000017,
+      "correct": false,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 33.25018749999995,
+      "end": 35.5901875000001,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 39.75018749999995,
+      "end": 42.760187499999944,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_006",
+      "start": 42.87018750000007,
+      "end": 44.010187499999944,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_007",
+      "start": 44.260187499999944,
+      "end": 45.18018750000002,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_008",
+      "start": 46.020187499999935,
+      "end": 47.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_009",
+      "start": 47.150187500000044,
+      "end": 50.60018750000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_010",
+      "start": 50.60018750000009,
+      "end": 54.540187500000144,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 58.920187500000026,
+      "end": 60.060187500000126,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_012",
+      "start": 61.4501875,
+      "end": 62.520187499999935,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_017",
+      "start": 69.0901875000001,
+      "end": 70.57018750000012,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_018",
+      "start": 70.57018750000012,
+      "end": 71.62018750000007,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_019",
+      "start": 71.7001875,
+      "end": 73.29018750000014,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_000",
+      "start": 27.21018749999999,
+      "end": 29.2001875,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_002",
+      "start": 31.040187500000144,
+      "end": 32.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 32.47018749999998,
+      "end": 33.400187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_004",
+      "start": 34.22018749999998,
+      "end": 35.60018750000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 35.60018750000009,
+      "end": 36.47018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 40.9801875000002,
+      "end": 43.050187500000135,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_021",
+      "start": 48.94018750000001,
+      "end": 50.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_026",
+      "start": 54.14018750000005,
+      "end": 56.28018750000015,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_032",
+      "start": 64.33018750000011,
+      "end": 65.33018750000011,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_033",
+      "start": 66.11018750000008,
+      "end": 68.63018750000006,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_034",
+      "start": 69.30018750000013,
+      "end": 71.72018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_001",
+      "start": 29.2001875,
+      "end": 30.930187500000017,
+      "correct": false,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 33.25018749999995,
+      "end": 35.5901875000001,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 39.75018749999995,
+      "end": 42.760187499999944,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_006",
+      "start": 42.87018750000007,
+      "end": 44.010187499999944,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_007",
+      "start": 44.260187499999944,
+      "end": 45.18018750000002,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_008",
+      "start": 46.020187499999935,
+      "end": 47.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_009",
+      "start": 47.150187500000044,
+      "end": 50.60018750000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_010",
+      "start": 50.60018750000009,
+      "end": 54.540187500000144,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 58.920187500000026,
+      "end": 60.060187500000126,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_012",
+      "start": 61.4501875,
+      "end": 62.520187499999935,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_017",
+      "start": 69.0901875000001,
+      "end": 70.57018750000012,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_018",
+      "start": 70.57018750000012,
+      "end": 71.62018750000007,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_019",
+      "start": 71.7001875,
+      "end": 73.29018750000014,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_000",
+      "start": 27.21018749999999,
+      "end": 29.2001875,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_002",
+      "start": 31.040187500000144,
+      "end": 32.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 32.47018749999998,
+      "end": 33.400187500000044,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_004",
+      "start": 34.22018749999998,
+      "end": 35.60018750000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 35.60018750000009,
+      "end": 36.47018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 40.9801875000002,
+      "end": 43.050187500000135,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_021",
+      "start": 48.94018750000001,
+      "end": 50.150187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_026",
+      "start": 54.14018750000005,
+      "end": 56.28018750000015,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_032",
+      "start": 64.33018750000011,
+      "end": 65.33018750000011,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_033",
+      "start": 66.11018750000008,
+      "end": 68.63018750000006,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "full_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_034",
+      "start": 69.30018750000013,
+      "end": 71.72018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_001",
+      "start": 27.2001875,
+      "end": 28.930187500000017,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 27.200249999999954,
+      "end": 29.5402500000001,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 27.200249999999954,
+      "end": 30.210249999999945,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_006",
+      "start": 27.20018750000007,
+      "end": 28.340187499999942,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_007",
+      "start": 27.200249999999944,
+      "end": 28.120250000000016,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_008",
+      "start": 27.200249999999933,
+      "end": 28.330250000000042,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_009",
+      "start": 27.200187500000045,
+      "end": 30.65018750000009,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_010",
+      "start": 27.20018750000009,
+      "end": 31.140187500000145,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 27.200187500000027,
+      "end": 28.340187500000127,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_012",
+      "start": 27.2001875,
+      "end": 28.270187499999935,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_017",
+      "start": 27.200187500000098,
+      "end": 28.680187500000116,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_018",
+      "start": 27.20018750000012,
+      "end": 28.250187500000074,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_019",
+      "start": 27.2001875,
+      "end": 28.790187500000144,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_000",
+      "start": 27.20024999999999,
+      "end": 29.19025,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_002",
+      "start": 27.200187500000144,
+      "end": 28.310187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 27.20024999999998,
+      "end": 28.130250000000043,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_004",
+      "start": 27.20024999999998,
+      "end": 28.58025000000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 27.20018750000009,
+      "end": 28.07018749999998,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 27.200187500000197,
+      "end": 29.270187500000134,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_021",
+      "start": 27.20018750000001,
+      "end": 28.410187500000045,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_026",
+      "start": 27.20018750000005,
+      "end": 29.34018750000015,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_032",
+      "start": 27.200187500000105,
+      "end": 28.200187500000105,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_033",
+      "start": 27.200187500000084,
+      "end": 29.720187500000065,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_forward",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_034",
+      "start": 27.200187500000133,
+      "end": 29.62018749999998,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_001",
+      "start": 27.2001875,
+      "end": 28.930187500000017,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 27.200249999999954,
+      "end": 29.5402500000001,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 27.200249999999954,
+      "end": 30.210249999999945,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_006",
+      "start": 27.20018750000007,
+      "end": 28.340187499999942,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_007",
+      "start": 27.200249999999944,
+      "end": 28.120250000000016,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_008",
+      "start": 27.200249999999933,
+      "end": 28.330250000000042,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_009",
+      "start": 27.200187500000045,
+      "end": 30.65018750000009,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_010",
+      "start": 27.20018750000009,
+      "end": 31.140187500000145,
+      "correct": true,
+      "crosses_30s_boundary": true
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 27.200187500000027,
+      "end": 28.340187500000127,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_012",
+      "start": 27.2001875,
+      "end": 28.270187499999935,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_017",
+      "start": 27.200187500000098,
+      "end": 28.680187500000116,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_018",
+      "start": 27.20018750000012,
+      "end": 28.250187500000074,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "segment_id": "segment_019",
+      "start": 27.2001875,
+      "end": 28.790187500000144,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_000",
+      "start": 27.20024999999999,
+      "end": 29.19025,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_002",
+      "start": 27.200187500000144,
+      "end": 28.310187500000044,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_003",
+      "start": 27.20024999999998,
+      "end": 28.130250000000043,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_004",
+      "start": 27.20024999999998,
+      "end": 28.58025000000009,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_005",
+      "start": 27.20018750000009,
+      "end": 28.07018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_011",
+      "start": 27.200187500000197,
+      "end": 29.270187500000134,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_021",
+      "start": 27.20018750000001,
+      "end": 28.410187500000045,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_026",
+      "start": 27.20018750000005,
+      "end": 29.34018750000015,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_032",
+      "start": 27.200187500000105,
+      "end": 28.200187500000105,
+      "correct": false,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_033",
+      "start": 27.200187500000084,
+      "end": 29.720187500000065,
+      "correct": true,
+      "crosses_30s_boundary": false
+    },
+    {
+      "condition": "isolated_reverse",
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "segment_id": "segment_034",
+      "start": 27.200187500000133,
+      "end": 29.62018749999998,
+      "correct": true,
+      "crosses_30s_boundary": false
+    }
+  ],
+  "total_model_inference_seconds": 385.37086317990907,
+  "max_cuda_allocated_gib": 1.9001350402832031,
+  "matching_local_files": 90,
+  "archive_file_count": 90
+}

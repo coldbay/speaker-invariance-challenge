@@ -1,0 +1,101 @@
+nohup: ignoring input
+{
+  "model_calls": 80,
+  "clips": 8,
+  "pads_seconds": [
+    0.0,
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    3.5,
+    4.0
+  ],
+  "output": "runs/speaker_invariance_01"
+}
+Loading weights:   0%|          | 0/683 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 92/683 [00:00<00:00, 896.87it/s]Loading weights:  27%|██▋       | 182/683 [00:00<00:00, 787.71it/s]Loading weights:  38%|███▊      | 262/683 [00:00<00:00, 767.01it/s]Loading weights:  52%|█████▏    | 357/683 [00:00<00:00, 825.19it/s]Loading weights:  70%|██████▉   | 475/683 [00:00<00:00, 946.26it/s]Loading weights:  87%|████████▋ | 593/683 [00:00<00:00, 1022.72it/s]Loading weights: 100%|██████████| 683/683 [00:00<00:00, 947.41it/s] 
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `MossTranscribeDiarizeProcessor` defines `feature_extractor_class = 'AutoFeatureExtractor'`, which is deprecated. Register the correct mapping in `AutoFeatureExtractor` instead.
+1/80 pad0000ms_fwd/case_000/full
+2/80 pad0000ms_fwd/case_001/full
+3/80 pad0000ms_fwd/case_002/full
+4/80 pad0000ms_fwd/case_003/full
+5/80 pad0000ms_fwd/case_004/full
+6/80 pad0000ms_fwd/case_005/full
+7/80 pad0000ms_fwd/case_006/full
+8/80 pad0000ms_fwd/case_007/full
+9/80 pad0500ms_fwd/case_000/full
+10/80 pad0500ms_fwd/case_001/full
+11/80 pad0500ms_fwd/case_002/full
+12/80 pad0500ms_fwd/case_003/full
+13/80 pad0500ms_fwd/case_004/full
+14/80 pad0500ms_fwd/case_005/full
+15/80 pad0500ms_fwd/case_006/full
+16/80 pad0500ms_fwd/case_007/full
+17/80 pad1000ms_fwd/case_000/full
+18/80 pad1000ms_fwd/case_001/full
+19/80 pad1000ms_fwd/case_002/full
+20/80 pad1000ms_fwd/case_003/full
+21/80 pad1000ms_fwd/case_004/full
+22/80 pad1000ms_fwd/case_005/full
+23/80 pad1000ms_fwd/case_006/full
+24/80 pad1000ms_fwd/case_007/full
+25/80 pad1500ms_fwd/case_000/full
+26/80 pad1500ms_fwd/case_001/full
+27/80 pad1500ms_fwd/case_002/full
+28/80 pad1500ms_fwd/case_003/full
+29/80 pad1500ms_fwd/case_004/full
+30/80 pad1500ms_fwd/case_005/full
+31/80 pad1500ms_fwd/case_006/full
+32/80 pad1500ms_fwd/case_007/full
+33/80 pad2000ms_fwd/case_000/full
+34/80 pad2000ms_fwd/case_001/full
+35/80 pad2000ms_fwd/case_002/full
+36/80 pad2000ms_fwd/case_003/full
+37/80 pad2000ms_fwd/case_004/full
+38/80 pad2000ms_fwd/case_005/full
+39/80 pad2000ms_fwd/case_006/full
+40/80 pad2000ms_fwd/case_007/full
+41/80 pad2500ms_fwd/case_000/full
+42/80 pad2500ms_fwd/case_001/full
+43/80 pad2500ms_fwd/case_002/full
+44/80 pad2500ms_fwd/case_003/full
+45/80 pad2500ms_fwd/case_004/full
+46/80 pad2500ms_fwd/case_005/full
+47/80 pad2500ms_fwd/case_006/full
+48/80 pad2500ms_fwd/case_007/full
+49/80 pad3000ms_fwd/case_000/full
+50/80 pad3000ms_fwd/case_001/full
+51/80 pad3000ms_fwd/case_002/full
+52/80 pad3000ms_fwd/case_003/full
+53/80 pad3000ms_fwd/case_004/full
+54/80 pad3000ms_fwd/case_005/full
+55/80 pad3000ms_fwd/case_006/full
+56/80 pad3000ms_fwd/case_007/full
+57/80 pad3500ms_fwd/case_000/full
+58/80 pad3500ms_fwd/case_001/full
+59/80 pad3500ms_fwd/case_002/full
+60/80 pad3500ms_fwd/case_003/full
+61/80 pad3500ms_fwd/case_004/full
+62/80 pad3500ms_fwd/case_005/full
+63/80 pad3500ms_fwd/case_006/full
+64/80 pad3500ms_fwd/case_007/full
+65/80 pad4000ms_fwd/case_000/full
+66/80 pad4000ms_fwd/case_001/full
+67/80 pad4000ms_fwd/case_002/full
+68/80 pad4000ms_fwd/case_003/full
+69/80 pad4000ms_fwd/case_004/full
+70/80 pad4000ms_fwd/case_005/full
+71/80 pad4000ms_fwd/case_006/full
+72/80 pad4000ms_fwd/case_007/full
+73/80 pad0000ms_rev/case_000/full
+74/80 pad0000ms_rev/case_001/full
+75/80 pad0000ms_rev/case_002/full
+76/80 pad0000ms_rev/case_003/full
+77/80 pad0000ms_rev/case_004/full
+78/80 pad0000ms_rev/case_005/full
+79/80 pad0000ms_rev/case_006/full
+80/80 pad0000ms_rev/case_007/full
+Download: runs/speaker_invariance_01/results_only.zip

@@ -1,0 +1,91 @@
+{
+  "text": "[0.00][S01]This is the agenda for today's meeting, as you can see, opening, acquaint um we already got through opening and[6.32][6.81][S02]It was 'cause it was it looks the best, the stripes and uh they're just the most feared of.[12.85][15.59][S01]Next we have.[16.35][16.61][S02]Tariq Rahman, T A R I K.[18.49][18.78][S01]T R I K and your role in this is?[22.04][22.10][S02]Industrial Designer.[23.00][23.24][S01]Industrial Designer.[24.14]",
+  "prompt_len": 410,
+  "generated_tokens": 191,
+  "clip_id": "ES2003a_same_direction_control_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "speaker": "S01",
+      "text": "This is the agenda for today's meeting, as you can see, opening, acquaint um we already got through opening and"
+    },
+    {
+      "start": 6.81,
+      "end": 12.85,
+      "speaker": "S02",
+      "text": "It was 'cause it was it looks the best, the stripes and uh they're just the most feared of."
+    },
+    {
+      "start": 15.59,
+      "end": 16.35,
+      "speaker": "S01",
+      "text": "Next we have."
+    },
+    {
+      "start": 16.61,
+      "end": 18.49,
+      "speaker": "S02",
+      "text": "Tariq Rahman, T A R I K."
+    },
+    {
+      "start": 18.78,
+      "end": 22.04,
+      "speaker": "S01",
+      "text": "T R I K and your role in this is?"
+    },
+    {
+      "start": 22.1,
+      "end": 23.0,
+      "speaker": "S02",
+      "text": "Industrial Designer."
+    },
+    {
+      "start": 23.24,
+      "end": 24.14,
+      "speaker": "S01",
+      "text": "Industrial Designer."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "B",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "speaker": "B",
+      "start": 3.4,
+      "end": 6.4
+    },
+    {
+      "speaker": "D",
+      "start": 6.8,
+      "end": 9.8000625
+    },
+    {
+      "speaker": "D",
+      "start": 10.2000625,
+      "end": 13.200125
+    }
+  ],
+  "clip_offset": 13.600125,
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 5.92,
+      "D": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "D": 5.64
+    }
+  },
+  "inference_seconds": 5.2980466859880835,
+  "peak_cuda_allocated_bytes": 1918718976,
+  "peak_cuda_reserved_bytes": 2015363072,
+  "reached_token_limit": false
+}

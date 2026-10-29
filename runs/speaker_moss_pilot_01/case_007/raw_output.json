@@ -1,0 +1,188 @@
+{
+  "text": "[0.00][S01] Like before, we uh I have to reuse uh it was discussed in the last meeting uh.[6.42][6.78][S02] We decided upon including certain features and these features includes the s uh.[13.21][13.58][S02] This is a model of the remote controller which we are go uh um and also i it it will be easily.[19.91][20.36][S03] Used to have all the buttons.[21.55][23.77][S03] Uh next channel in the numeric pattern or uh um.[29.11][29.16][S02] Why uh why you need that up?[30.97][32.73][S03] Hmm, well because I can't remember what I put on there.[35.65][38.81][S03] Okay, now I'm supposed to see how long my leash is here.[42.21][42.83][S02] I think you can make it there.[44.04][44.16][S03] Okay, alrighty. So, now we're all supposed to say what we think. Um, okay, so on shape.[54.51][58.91][S03] I gave it one. What what would you re- on uh one being good and seven being the worst.[65.14][65.11][S02] Was okay.[65.98][66.06][S03] Um, what do you think the shape is?[68.11][68.58][S02] One.[68.97][69.06][S03] One, okay. And B- Betsy?[71.65][71.68][S01] Yes, I think uh shape is one.[73.28][73.44][S03] Okay, uh.[74.55][74.95][S02] Yeah.[75.27]",
+  "prompt_len": 1057,
+  "generated_tokens": 494,
+  "clip_id": "IS1009d_question_answer_reversal_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.42,
+      "speaker": "S01",
+      "text": "Like before, we uh I have to reuse uh it was discussed in the last meeting uh."
+    },
+    {
+      "start": 6.78,
+      "end": 13.21,
+      "speaker": "S02",
+      "text": "We decided upon including certain features and these features includes the s uh."
+    },
+    {
+      "start": 13.58,
+      "end": 19.91,
+      "speaker": "S02",
+      "text": "This is a model of the remote controller which we are go uh um and also i it it will be easily."
+    },
+    {
+      "start": 20.36,
+      "end": 21.55,
+      "speaker": "S03",
+      "text": "Used to have all the buttons."
+    },
+    {
+      "start": 23.77,
+      "end": 29.11,
+      "speaker": "S03",
+      "text": "Uh next channel in the numeric pattern or uh um."
+    },
+    {
+      "start": 29.16,
+      "end": 30.97,
+      "speaker": "S02",
+      "text": "Why uh why you need that up?"
+    },
+    {
+      "start": 32.73,
+      "end": 35.65,
+      "speaker": "S03",
+      "text": "Hmm, well because I can't remember what I put on there."
+    },
+    {
+      "start": 38.81,
+      "end": 42.21,
+      "speaker": "S03",
+      "text": "Okay, now I'm supposed to see how long my leash is here."
+    },
+    {
+      "start": 42.83,
+      "end": 44.04,
+      "speaker": "S02",
+      "text": "I think you can make it there."
+    },
+    {
+      "start": 44.16,
+      "end": 54.51,
+      "speaker": "S03",
+      "text": "Okay, alrighty. So, now we're all supposed to say what we think. Um, okay, so on shape."
+    },
+    {
+      "start": 58.91,
+      "end": 65.14,
+      "speaker": "S03",
+      "text": "I gave it one. What what would you re- on uh one being good and seven being the worst."
+    },
+    {
+      "start": 65.11,
+      "end": 65.98,
+      "speaker": "S02",
+      "text": "Was okay."
+    },
+    {
+      "start": 66.06,
+      "end": 68.11,
+      "speaker": "S03",
+      "text": "Um, what do you think the shape is?"
+    },
+    {
+      "start": 68.58,
+      "end": 68.97,
+      "speaker": "S02",
+      "text": "One."
+    },
+    {
+      "start": 69.06,
+      "end": 71.65,
+      "speaker": "S03",
+      "text": "One, okay. And B- Betsy?"
+    },
+    {
+      "start": 71.68,
+      "end": 73.28,
+      "speaker": "S01",
+      "text": "Yes, I think uh shape is one."
+    },
+    {
+      "start": 73.44,
+      "end": 74.55,
+      "speaker": "S03",
+      "text": "Okay, uh."
+    },
+    {
+      "start": 74.95,
+      "end": 75.27,
+      "speaker": "S02",
+      "text": "Yeah."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.0000625
+    },
+    {
+      "speaker": "A",
+      "start": 3.4000625,
+      "end": 6.4000625
+    },
+    {
+      "speaker": "B",
+      "start": 6.8000625,
+      "end": 9.8000625
+    },
+    {
+      "speaker": "B",
+      "start": 10.2000625,
+      "end": 13.200125
+    },
+    {
+      "speaker": "C",
+      "start": 13.600125,
+      "end": 16.600125
+    },
+    {
+      "speaker": "C",
+      "start": 17.000125,
+      "end": 20.0001875
+    },
+    {
+      "speaker": "D",
+      "start": 20.4001875,
+      "end": 23.4001875
+    },
+    {
+      "speaker": "D",
+      "start": 23.8001875,
+      "end": 26.8001875
+    }
+  ],
+  "clip_offset": 27.2001875,
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 6.000062499999999,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 6.000062499999999,
+      "C": 5.909874999999998,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 4.1498124999999995
+    }
+  },
+  "inference_seconds": 13.677241601981223,
+  "peak_cuda_allocated_bytes": 2021438976,
+  "peak_cuda_reserved_bytes": 2199912448,
+  "reached_token_limit": false
+}

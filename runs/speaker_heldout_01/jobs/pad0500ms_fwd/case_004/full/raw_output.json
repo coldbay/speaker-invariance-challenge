@@ -1,0 +1,531 @@
+{
+  "text": "[0.45][S01] Um, I'm just gonna have a little PowerPoint presentation for us for our kick.[3.55][3.86][S01] We'll move into acquaintance, uh, just getting to know each other a little bit.[6.71][7.24][S02] Um, I don't know which one of these I have.[10.31][10.65][S02] Um, I'm from the state of.[13.72][14.04][S03] And I'm the user interface designer for the project. Um, I'm not gonna draw it quite to scale.[20.17][20.86][S04] I'm from around DC-ish sort of, and we're gonna keep the deep sea sort of.[27.21][27.83][S02] Um.[28.32][30.06][S02] What's important for me, I guess, is that it's easy to use and that there's not too many buttons, they're not too small.[38.31][38.61][S02] You don't, you know, you need to to know what you're doing.[41.34][42.88][S02] And one thing I particularly like is if you're not, um, sort of moving it around to get it to work with the infrared.[50.29][50.29][S04] Yeah.[50.78][50.81][S02] Um, I think there's a way around that, but I know in my residence right now, the the television, you sort of have to walk all around the room[58.98][59.02][S02] to get it to turn on, so it's just simpler just to just turn on the TV itself, and I think that's, if you're gonna make a remote control,[66.56][66.58][S02] it should actually work for what it's doing. So.[70.51][70.58][S04] What about like batteries and things like that? Like are there some remotes that don't don't require like batteries?[77.06][77.08][S04] Or do all remotes require batteries?[78.89][79.28][S01] Um, I would imagine all of them, but we could, but it's possible we could use like a lithium battery, um,[84.61][84.62][S02] Yeah, something that doesn't.[85.59][84.99][S01] that would last a lot longer than like double A's, um.[87.69]",
+  "prompt_len": 1216,
+  "generated_tokens": 644,
+  "job": {
+    "job_id": "pad0500ms_fwd/case_004/full",
+    "condition": "pad0500ms_fwd",
+    "clip_id": "ES2008a_overlap_dense_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_001",
+      "segment_002",
+      "segment_003",
+      "segment_004",
+      "segment_005",
+      "segment_008",
+      "segment_009",
+      "segment_010",
+      "segment_011",
+      "segment_012",
+      "segment_014",
+      "segment_015",
+      "segment_016",
+      "segment_017",
+      "segment_018",
+      "segment_019",
+      "segment_020",
+      "segment_021",
+      "segment_023"
+    ],
+    "leading_silence_seconds": 0.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "e147448e6ac62a75efc198c9976109eede2522d8f33106f0c8afbbdeed1c5ffd",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4",
+    "shard": "0/2"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 0.5,
+        "end": 3.5
+      },
+      {
+        "speaker": "A",
+        "start": 3.9,
+        "end": 6.9
+      },
+      {
+        "speaker": "B",
+        "start": 7.3,
+        "end": 10.3000625
+      },
+      {
+        "speaker": "B",
+        "start": 10.7000625,
+        "end": 13.7000625
+      },
+      {
+        "speaker": "C",
+        "start": 14.1000625,
+        "end": 17.1000625
+      },
+      {
+        "speaker": "C",
+        "start": 17.5000625,
+        "end": 20.5000625
+      },
+      {
+        "speaker": "D",
+        "start": 20.9000625,
+        "end": 23.9000625
+      },
+      {
+        "speaker": "D",
+        "start": 24.3000625,
+        "end": 27.3000625
+      }
+    ],
+    "clip_offset": 27.7000625,
+    "public_targets": [
+      {
+        "segment_id": "segment_001",
+        "start": 2.42999999999995,
+        "end": 6.779999999999973
+      },
+      {
+        "segment_id": "segment_002",
+        "start": 6.779999999999973,
+        "end": 9.330000000000041
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 9.330000000000041,
+        "end": 10.92999999999995
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 10.92999999999995,
+        "end": 13.610000000000014
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 15.210000000000036,
+        "end": 23.340000000000032
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 23.340000000000032,
+        "end": 25.91999999999996
+      },
+      {
+        "segment_id": "segment_009",
+        "start": 25.91999999999996,
+        "end": 32.35000000000002
+      },
+      {
+        "segment_id": "segment_010",
+        "start": 31.49000000000001,
+        "end": 32.99000000000001
+      },
+      {
+        "segment_id": "segment_011",
+        "start": 32.35000000000002,
+        "end": 36.25999999999999
+      },
+      {
+        "segment_id": "segment_012",
+        "start": 36.25999999999999,
+        "end": 40.809999999999945
+      },
+      {
+        "segment_id": "segment_014",
+        "start": 42.91999999999996,
+        "end": 44.83000000000004
+      },
+      {
+        "segment_id": "segment_015",
+        "start": 44.83000000000004,
+        "end": 49.42999999999995
+      },
+      {
+        "segment_id": "segment_016",
+        "start": 49.42999999999995,
+        "end": 51.33000000000004
+      },
+      {
+        "segment_id": "segment_017",
+        "start": 51.64999999999998,
+        "end": 53.120000000000005
+      },
+      {
+        "segment_id": "segment_018",
+        "start": 52.58000000000004,
+        "end": 53.620000000000005
+      },
+      {
+        "segment_id": "segment_019",
+        "start": 53.120000000000005,
+        "end": 54.299999999999955
+      },
+      {
+        "segment_id": "segment_020",
+        "start": 54.299999999999955,
+        "end": 56.5
+      },
+      {
+        "segment_id": "segment_021",
+        "start": 56.5,
+        "end": 59.809999999999945
+      },
+      {
+        "segment_id": "segment_023",
+        "start": 57.190000000000055,
+        "end": 58.299999999999955
+      }
+    ],
+    "input_audio_seconds": 87.7000625,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 960000,
+    "evaluation_pcm_sha256": "58f33b81652298498014030074bfff9ce70835ff4b25c0ff8ff100bed636cda1",
+    "input_pcm_sha256": "f9e7836eb23ad760c530e682ab9e73f2508540b776b64fdf308dd9b29ca2fc3b",
+    "input_wav_sha256": "e107de0b371351ac3f42146a792d090d90f7ba45f6781b9da48c1e4b6c31cc92",
+    "reference_sha256_multiset": [
+      "0c686b88efcfacb761e451a2f907d712c5d6d1aaa8338f07191bf39ce403deab",
+      "256c9c7796c7f3bd4015bf29b1557a7ec954589004f1df4c6b097210f440324d",
+      "7b0b38c8706f4e2a135f916054c23169a547eb55c634a153fc53a3f1c34395f7",
+      "86813db1f6ac9ca55b5e232fe086893aca0713a3445fcf260ce6e697d72487db",
+      "a436efa3d49e2c6aab29e3d1ec2779f6eec8cd3e439243ce14fe3d6941f42ecc",
+      "f9b64ccaaaf93c5841d27e62dd7c595f237d8f32a6586b99c29e7693f953c470",
+      "fa9db3d5235ee05c33fce6af250497057a64ecc889d804f7b76bc2b9ca5e62c4",
+      "fd2d0ec36bfc7d06a65fb5d008e6d9106d98d7c499bb10290bc0141a335604fd"
+    ],
+    "leading_silence_seconds": 0.5,
+    "unpadded_input_pcm_sha256": "4872f0014ffb1e55d09a07558604a68f89747383f890cfc17b5d82ff9d55a418",
+    "frontend_chunk_count": 3
+  },
+  "segments": [
+    {
+      "start": 0.45,
+      "end": 3.55,
+      "speaker": "S01",
+      "text": "Um, I'm just gonna have a little PowerPoint presentation for us for our kick."
+    },
+    {
+      "start": 3.86,
+      "end": 6.71,
+      "speaker": "S01",
+      "text": "We'll move into acquaintance, uh, just getting to know each other a little bit."
+    },
+    {
+      "start": 7.24,
+      "end": 10.31,
+      "speaker": "S02",
+      "text": "Um, I don't know which one of these I have."
+    },
+    {
+      "start": 10.65,
+      "end": 13.72,
+      "speaker": "S02",
+      "text": "Um, I'm from the state of."
+    },
+    {
+      "start": 14.04,
+      "end": 20.17,
+      "speaker": "S03",
+      "text": "And I'm the user interface designer for the project. Um, I'm not gonna draw it quite to scale."
+    },
+    {
+      "start": 20.86,
+      "end": 27.21,
+      "speaker": "S04",
+      "text": "I'm from around DC-ish sort of, and we're gonna keep the deep sea sort of."
+    },
+    {
+      "start": 27.83,
+      "end": 28.32,
+      "speaker": "S02",
+      "text": "Um."
+    },
+    {
+      "start": 30.06,
+      "end": 38.31,
+      "speaker": "S02",
+      "text": "What's important for me, I guess, is that it's easy to use and that there's not too many buttons, they're not too small."
+    },
+    {
+      "start": 38.61,
+      "end": 41.34,
+      "speaker": "S02",
+      "text": "You don't, you know, you need to to know what you're doing."
+    },
+    {
+      "start": 42.88,
+      "end": 50.29,
+      "speaker": "S02",
+      "text": "And one thing I particularly like is if you're not, um, sort of moving it around to get it to work with the infrared."
+    },
+    {
+      "start": 50.29,
+      "end": 50.78,
+      "speaker": "S04",
+      "text": "Yeah."
+    },
+    {
+      "start": 50.81,
+      "end": 58.98,
+      "speaker": "S02",
+      "text": "Um, I think there's a way around that, but I know in my residence right now, the the television, you sort of have to walk all around the room"
+    },
+    {
+      "start": 59.02,
+      "end": 66.56,
+      "speaker": "S02",
+      "text": "to get it to turn on, so it's just simpler just to just turn on the TV itself, and I think that's, if you're gonna make a remote control,"
+    },
+    {
+      "start": 66.58,
+      "end": 70.51,
+      "speaker": "S02",
+      "text": "it should actually work for what it's doing. So."
+    },
+    {
+      "start": 70.58,
+      "end": 77.06,
+      "speaker": "S04",
+      "text": "What about like batteries and things like that? Like are there some remotes that don't don't require like batteries?"
+    },
+    {
+      "start": 77.08,
+      "end": 78.89,
+      "speaker": "S04",
+      "text": "Or do all remotes require batteries?"
+    },
+    {
+      "start": 79.28,
+      "end": 84.61,
+      "speaker": "S01",
+      "text": "Um, I would imagine all of them, but we could, but it's possible we could use like a lithium battery, um,"
+    },
+    {
+      "start": 84.62,
+      "end": 85.59,
+      "speaker": "S02",
+      "text": "Yeah, something that doesn't."
+    },
+    {
+      "start": 84.99,
+      "end": 87.69,
+      "speaker": "S01",
+      "text": "that would last a lot longer than like double A's, um."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C",
+    "S04": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 5.8100000000000005,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 6.000062499999999,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.669937500000003,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 5.909937500000002
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_001",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 4.350000000000023
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_002",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.550000000000068
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.299999999999912
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.6800000000000637
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 7.609999999999992,
+        "D": 0.490000000000002
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.5799999999999272
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_009",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 6.390000000000057
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_010",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.5
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_011",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 3.909999999999968
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_012",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 4.5299999999999585
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_014",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.9100000000000819
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_015",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 4.579999999999913
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_016",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.7599375000000492
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_017",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.4700000000000273
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_018",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.0399999999999636
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_019",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.17999999999995
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_020",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.2000000000000455
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_021",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.92999999999995,
+        "B": 0.9699999999999989
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_023",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.010062499999961,
+        "B": 0.6999374999999475
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 17.004717556061223,
+  "peak_cuda_allocated_bytes": 2058296832,
+  "reached_token_limit": false
+}

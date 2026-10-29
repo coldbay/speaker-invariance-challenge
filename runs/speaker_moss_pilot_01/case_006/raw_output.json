@@ -1,0 +1,261 @@
+{
+  "text": "[0.00][S01]Um the show the three things were um appealing to the correct demographics, so using those things in the right[6.42][6.78][S02]Um.[7.26][10.16][S02]And um well.[13.00][13.58][S03]Well, so I will be able to uh[19.04][20.35][S04]Also so you uh if you have a video.[26.75][27.18][S02]Yes, this one, okay. Case um.[31.64][32.21][S03]So.[33.51][34.11][S04]Cowed, double cowed, yeah, it's uh.[36.85][36.66][S02]Yeah, I see. Double carved.[39.34][38.88][S01]Mm.[39.12][40.79][S01]Yeah, it's gonna be more than just the basic case, definitely.[42.97][43.31][S03]So which one are we talking to?[44.77][45.26][S04]Are you talking about this or that?[46.54][47.26][S01]Either of them.[47.84][47.37][S02]Oh yes, we are talking about but they have the same shape, but basically.[51.61][48.51][S04]Mm-hmm.[48.83][50.37][S01]Mm.[50.65][50.86][S03]Yeah.[51.16][51.30][S01]They're both gonna be not basic cases.[53.08][53.68][S02]So thi thi this would be double carved?[56.28][56.37][S01]Mm-hmm.[56.65][57.01][S04]Yeah.[57.25][58.22][S02]Okay.[58.58][60.75][S02]Uh plastic would be uh material.[63.17][61.72][S01]Yeah, the basic one, yep.[63.28][64.28][S03]It is Euro frank.[65.34][66.08][S04]Special colour.[67.12][69.26][S02]Uh special colour, now we leave to the covers.[71.82][73.12][S04]Uh.[73.72]",
+  "prompt_len": 1035,
+  "generated_tokens": 672,
+  "clip_id": "IS1000d_question_answer_reversal_01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.42,
+      "speaker": "S01",
+      "text": "Um the show the three things were um appealing to the correct demographics, so using those things in the right"
+    },
+    {
+      "start": 6.78,
+      "end": 7.26,
+      "speaker": "S02",
+      "text": "Um."
+    },
+    {
+      "start": 10.16,
+      "end": 13.0,
+      "speaker": "S02",
+      "text": "And um well."
+    },
+    {
+      "start": 13.58,
+      "end": 19.04,
+      "speaker": "S03",
+      "text": "Well, so I will be able to uh"
+    },
+    {
+      "start": 20.35,
+      "end": 26.75,
+      "speaker": "S04",
+      "text": "Also so you uh if you have a video."
+    },
+    {
+      "start": 27.18,
+      "end": 31.64,
+      "speaker": "S02",
+      "text": "Yes, this one, okay. Case um."
+    },
+    {
+      "start": 32.21,
+      "end": 33.51,
+      "speaker": "S03",
+      "text": "So."
+    },
+    {
+      "start": 34.11,
+      "end": 36.85,
+      "speaker": "S04",
+      "text": "Cowed, double cowed, yeah, it's uh."
+    },
+    {
+      "start": 36.66,
+      "end": 39.34,
+      "speaker": "S02",
+      "text": "Yeah, I see. Double carved."
+    },
+    {
+      "start": 38.88,
+      "end": 39.12,
+      "speaker": "S01",
+      "text": "Mm."
+    },
+    {
+      "start": 40.79,
+      "end": 42.97,
+      "speaker": "S01",
+      "text": "Yeah, it's gonna be more than just the basic case, definitely."
+    },
+    {
+      "start": 43.31,
+      "end": 44.77,
+      "speaker": "S03",
+      "text": "So which one are we talking to?"
+    },
+    {
+      "start": 45.26,
+      "end": 46.54,
+      "speaker": "S04",
+      "text": "Are you talking about this or that?"
+    },
+    {
+      "start": 47.26,
+      "end": 47.84,
+      "speaker": "S01",
+      "text": "Either of them."
+    },
+    {
+      "start": 47.37,
+      "end": 51.61,
+      "speaker": "S02",
+      "text": "Oh yes, we are talking about but they have the same shape, but basically."
+    },
+    {
+      "start": 48.51,
+      "end": 48.83,
+      "speaker": "S04",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 50.37,
+      "end": 50.65,
+      "speaker": "S01",
+      "text": "Mm."
+    },
+    {
+      "start": 50.86,
+      "end": 51.16,
+      "speaker": "S03",
+      "text": "Yeah."
+    },
+    {
+      "start": 51.3,
+      "end": 53.08,
+      "speaker": "S01",
+      "text": "They're both gonna be not basic cases."
+    },
+    {
+      "start": 53.68,
+      "end": 56.28,
+      "speaker": "S02",
+      "text": "So thi thi this would be double carved?"
+    },
+    {
+      "start": 56.37,
+      "end": 56.65,
+      "speaker": "S01",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 57.01,
+      "end": 57.25,
+      "speaker": "S04",
+      "text": "Yeah."
+    },
+    {
+      "start": 58.22,
+      "end": 58.58,
+      "speaker": "S02",
+      "text": "Okay."
+    },
+    {
+      "start": 60.75,
+      "end": 63.17,
+      "speaker": "S02",
+      "text": "Uh plastic would be uh material."
+    },
+    {
+      "start": 61.72,
+      "end": 63.28,
+      "speaker": "S01",
+      "text": "Yeah, the basic one, yep."
+    },
+    {
+      "start": 64.28,
+      "end": 65.34,
+      "speaker": "S03",
+      "text": "It is Euro frank."
+    },
+    {
+      "start": 66.08,
+      "end": 67.12,
+      "speaker": "S04",
+      "text": "Special colour."
+    },
+    {
+      "start": 69.26,
+      "end": 71.82,
+      "speaker": "S02",
+      "text": "Uh special colour, now we leave to the covers."
+    },
+    {
+      "start": 73.12,
+      "end": 73.72,
+      "speaker": "S04",
+      "text": "Uh."
+    }
+  ],
+  "enrollment_intervals": [
+    {
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.0000625
+    },
+    {
+      "speaker": "A",
+      "start": 3.4000625,
+      "end": 6.4000625
+    },
+    {
+      "speaker": "B",
+      "start": 6.8000625,
+      "end": 9.8000625
+    },
+    {
+      "speaker": "B",
+      "start": 10.2000625,
+      "end": 13.2000625
+    },
+    {
+      "speaker": "C",
+      "start": 13.6000625,
+      "end": 16.600125
+    },
+    {
+      "speaker": "C",
+      "start": 17.000125,
+      "end": 20.000125
+    },
+    {
+      "speaker": "D",
+      "start": 20.400125,
+      "end": 23.400125
+    },
+    {
+      "speaker": "D",
+      "start": 23.800125,
+      "end": 26.8001875
+    }
+  ],
+  "clip_offset": 27.2001875,
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C",
+    "S04": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 6.000062499999999,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 3.259875,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.039937499999997,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 5.949874999999999
+    }
+  },
+  "inference_seconds": 18.437363447854295,
+  "peak_cuda_allocated_bytes": 2041168384,
+  "peak_cuda_reserved_bytes": 2199912448,
+  "reached_token_limit": false
+}

@@ -1,0 +1,230 @@
+{
+  "text": "[2.43][S01] This is the agenda for today's meeting, as you can see, opening, acquaint- um, we already gone through opening and-[8.86][9.25][S02] Um.[9.68][12.66][S02] First point begins with an E, same like Ebenezer.[15.75][16.06][S01] We're here because of Real Reaction, um, we have in the group.[21.71][22.12][S02] Oh, Ebenezer Ademisoy? Would you like me to spell it?[25.61][27.28][S01] Um, yeah, go for it, mate.[28.75][29.44][S02] Em, any Z.[30.19]",
+  "prompt_len": 475,
+  "generated_tokens": 201,
+  "job": {
+    "job_id": "pad2500ms_fwd/case_000/full",
+    "condition": "pad2500ms_fwd",
+    "clip_id": "ES2003a_question_answer_reversal_01",
+    "context": "full",
+    "reference_order": [
+      "B",
+      "C"
+    ],
+    "target_segment_ids": [
+      "segment_001",
+      "segment_002",
+      "segment_004",
+      "segment_005",
+      "segment_007",
+      "segment_008"
+    ],
+    "leading_silence_seconds": 2.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "6312b9c33b52f0e2046b6bc05b06f0576960d218cad27ebc9d36cd3e0efe0ec1",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "B",
+        "start": 2.5,
+        "end": 5.5
+      },
+      {
+        "speaker": "B",
+        "start": 5.9,
+        "end": 8.9
+      },
+      {
+        "speaker": "C",
+        "start": 9.3,
+        "end": 12.3
+      },
+      {
+        "speaker": "C",
+        "start": 12.7,
+        "end": 15.7000625
+      }
+    ],
+    "clip_offset": 16.1000625,
+    "public_targets": [
+      {
+        "segment_id": "segment_001",
+        "start": 0.35006249999999994,
+        "end": 2.0000624999999994
+      },
+      {
+        "segment_id": "segment_002",
+        "start": 2.0000624999999994,
+        "end": 5.9800625
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 6.4000625,
+        "end": 8.0100625
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 8.0100625,
+        "end": 9.610062499999998
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 11.230062499999999,
+        "end": 12.130062499999998
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 12.130062499999998,
+        "end": 13.360062499999998
+      }
+    ],
+    "input_audio_seconds": 30.230125,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 226081,
+    "evaluation_pcm_sha256": "1ffca027054824d19b80372dec82930a74742fd0b43f88da4de498878cb82b9d",
+    "input_pcm_sha256": "14510811e290fa4c0f705efe1cfee863a7a53b48a52ef3d94596da6a533075fd",
+    "input_wav_sha256": "c994212e98a91d22ed379132bfbf583593963436e675bb1c68bc8c0402ece497",
+    "reference_sha256_multiset": [
+      "609dee097c0c21cf50ea60e01bd1d87be93f5cbdb4361e3542de321e7e9ca0dd",
+      "9f11037922eed51bc91ad6e8ae1d2e4b7a664913e0969d44960a1667cf93a71a",
+      "a8cfc7445ee8d9158cb18fc0aa92083e9257a60faf406badd161e0549c74210e",
+      "b300140623a38506d9dd4044380cbaed4c07a9646ee35d22132f34191826a359"
+    ],
+    "leading_silence_seconds": 2.5,
+    "unpadded_input_pcm_sha256": "558630386954b05d56ae4a7624809a040a96fa8b454c0cb6e243f39f4feca2b2",
+    "frontend_chunk_count": 2
+  },
+  "segments": [
+    {
+      "start": 2.43,
+      "end": 8.86,
+      "speaker": "S01",
+      "text": "This is the agenda for today's meeting, as you can see, opening, acquaint- um, we already gone through opening and-"
+    },
+    {
+      "start": 9.25,
+      "end": 9.68,
+      "speaker": "S02",
+      "text": "Um."
+    },
+    {
+      "start": 12.66,
+      "end": 15.75,
+      "speaker": "S02",
+      "text": "First point begins with an E, same like Ebenezer."
+    },
+    {
+      "start": 16.06,
+      "end": 21.71,
+      "speaker": "S01",
+      "text": "We're here because of Real Reaction, um, we have in the group."
+    },
+    {
+      "start": 22.12,
+      "end": 25.61,
+      "speaker": "S02",
+      "text": "Oh, Ebenezer Ademisoy? Would you like me to spell it?"
+    },
+    {
+      "start": 27.28,
+      "end": 28.75,
+      "speaker": "S01",
+      "text": "Um, yeah, go for it, mate."
+    },
+    {
+      "start": 29.44,
+      "end": 30.19,
+      "speaker": "S02",
+      "text": "Em, any Z."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 5.959999999999999,
+      "C": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "C": 3.3800624999999993
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_001",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.6499999999999986
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_002",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 3.6098750000000024
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 1.6099999999999994
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 1.4998749999999994
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.8999999999999986
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.5198750000000025,
+        "C": 0.020124999999996618
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 7.089907738845795,
+  "peak_cuda_allocated_bytes": 1913743360,
+  "reached_token_limit": false
+}

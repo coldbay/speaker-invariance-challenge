@@ -1,0 +1,297 @@
+{
+  "text": "[1.45][S01] Falling a little bit behind schedule.[3.02][4.86][S01] And that's uh fifteen twenty.[7.91][8.24][S02] Basic point, uh have a lesser criteria that we need to[11.29][11.66][S02] It's a seven s- um seven.[13.33][15.04][S01] That's alright.[15.65][16.44][S02] That's fine.[16.93][17.08][S01] Yeah, is that.[17.83][18.12][S02] That's that's fine.[19.01][19.56][S01] Um so is there anything here that you[24.77][27.98][S01] that you wanted to cover as in the criteria that you've covered and then we'll come back pretty much promptly to this.[33.09][33.07][S02] What do you mean cri- is there anything I wanna?[34.74][34.42][S01] I- is there any of these criteria that need any explaining or is there anything that you s- thought that really would stand out compared to the others?[41.11][41.32][S02] Um a few.[42.28]",
+  "prompt_len": 655,
+  "generated_tokens": 341,
+  "job": {
+    "job_id": "pad1500ms_fwd/case_002/full",
+    "condition": "pad1500ms_fwd",
+    "clip_id": "ES2003d_same_direction_control_01",
+    "context": "full",
+    "reference_order": [
+      "B",
+      "C"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_003",
+      "segment_005",
+      "segment_006",
+      "segment_007",
+      "segment_008",
+      "segment_009",
+      "segment_010"
+    ],
+    "leading_silence_seconds": 1.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "6312b9c33b52f0e2046b6bc05b06f0576960d218cad27ebc9d36cd3e0efe0ec1",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "4"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "B",
+        "start": 1.5,
+        "end": 4.5
+      },
+      {
+        "speaker": "B",
+        "start": 4.9,
+        "end": 7.9000625
+      },
+      {
+        "speaker": "C",
+        "start": 8.3000625,
+        "end": 11.3000625
+      },
+      {
+        "speaker": "C",
+        "start": 11.7000625,
+        "end": 14.7000625
+      }
+    ],
+    "clip_offset": 15.1000625,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 2.0
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 3.050000000000068,
+        "end": 4.019999999999982
+      },
+      {
+        "segment_id": "segment_005",
+        "start": 5.289999999999964,
+        "end": 16.0
+      },
+      {
+        "segment_id": "segment_006",
+        "start": 16.0,
+        "end": 18.039999999999964
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 18.00999999999999,
+        "end": 19.680000000000064
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 19.340000000000032,
+        "end": 22.120000000000005
+      },
+      {
+        "segment_id": "segment_009",
+        "start": 22.120000000000005,
+        "end": 26.019999999999982
+      },
+      {
+        "segment_id": "segment_010",
+        "start": 26.25999999999999,
+        "end": 27.200000000000045
+      }
+    ],
+    "input_audio_seconds": 44.3000625,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 467200,
+    "evaluation_pcm_sha256": "6d712e834c9b3f6a44c7f224b695a63ee02d5329e62796fc8f0598030502791b",
+    "input_pcm_sha256": "b6373cf119e21c393bc603a2344e4a4fd1602d7997d0290b4c03592e71619ee9",
+    "input_wav_sha256": "03de0f7d9a3e30b741f15974791798a26268a809086dd52885cd2f3cd38b799f",
+    "reference_sha256_multiset": [
+      "4fd80db329f692ba851c91b05208ab67adbfee841412e1eb785b98af11a11f25",
+      "53f4d70ab31551ec0843b9c01be0cadbe9b10389e9b60ab6b14c5f2f76201cb8",
+      "77739d489bf0181d0049e8f5d67a1b78cd77541dd1019d6112650d0e4c44dee8",
+      "82f5b0fd02a49ef2602dcd8cdd48bf7c60b9e75157adfb1c9d819454f1d7d988"
+    ],
+    "leading_silence_seconds": 1.5,
+    "unpadded_input_pcm_sha256": "5a522ba4bb363ca793e10af4d84a73814bb6d4620433b5b1a23350a4a61d90ec",
+    "frontend_chunk_count": 2
+  },
+  "segments": [
+    {
+      "start": 1.45,
+      "end": 3.02,
+      "speaker": "S01",
+      "text": "Falling a little bit behind schedule."
+    },
+    {
+      "start": 4.86,
+      "end": 7.91,
+      "speaker": "S01",
+      "text": "And that's uh fifteen twenty."
+    },
+    {
+      "start": 8.24,
+      "end": 11.29,
+      "speaker": "S02",
+      "text": "Basic point, uh have a lesser criteria that we need to"
+    },
+    {
+      "start": 11.66,
+      "end": 13.33,
+      "speaker": "S02",
+      "text": "It's a seven s- um seven."
+    },
+    {
+      "start": 15.04,
+      "end": 15.65,
+      "speaker": "S01",
+      "text": "That's alright."
+    },
+    {
+      "start": 16.44,
+      "end": 16.93,
+      "speaker": "S02",
+      "text": "That's fine."
+    },
+    {
+      "start": 17.08,
+      "end": 17.83,
+      "speaker": "S01",
+      "text": "Yeah, is that."
+    },
+    {
+      "start": 18.12,
+      "end": 19.01,
+      "speaker": "S02",
+      "text": "That's that's fine."
+    },
+    {
+      "start": 19.56,
+      "end": 24.77,
+      "speaker": "S01",
+      "text": "Um so is there anything here that you"
+    },
+    {
+      "start": 27.98,
+      "end": 33.09,
+      "speaker": "S01",
+      "text": "that you wanted to cover as in the criteria that you've covered and then we'll come back pretty much promptly to this."
+    },
+    {
+      "start": 33.07,
+      "end": 34.74,
+      "speaker": "S02",
+      "text": "What do you mean cri- is there anything I wanna?"
+    },
+    {
+      "start": 34.42,
+      "end": 41.11,
+      "speaker": "S01",
+      "text": "I- is there any of these criteria that need any explaining or is there anything that you s- thought that really would stand out compared to the others?"
+    },
+    {
+      "start": 41.32,
+      "end": 42.28,
+      "speaker": "S02",
+      "text": "Um a few."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "B",
+    "S02": "C"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "B": 4.5200625,
+      "C": 0.0
+    },
+    "S02": {
+      "B": 0.0,
+      "C": 4.619875
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.5700000000000021,
+        "C": 0.48999999999999844
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 0.8599374999999334
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_005",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 7.5000000000000355
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_006",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.9899375000000035,
+        "C": 0.07006249999996328
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.3600625000000619,
+        "C": 1.6299375000000111
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.7799999999999727,
+        "C": 0.2999374999999702
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_009",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 3.889937499999995
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_010",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 0.9199375000000103
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 11.954985967837274,
+  "peak_cuda_allocated_bytes": 1954851328,
+  "reached_token_limit": false
+}

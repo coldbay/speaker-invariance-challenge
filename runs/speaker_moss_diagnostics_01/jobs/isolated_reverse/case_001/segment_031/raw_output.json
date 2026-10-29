@@ -1,0 +1,175 @@
+{
+  "text": "[0.00][S01]Also so you uh if you have a video.[6.34][13.58][S02]Um.[14.04][16.98][S02]And um well.[19.84][20.36][S03]Um the so the three things were um appealing to the correct demographics, so using those things in the right yeah, the basic one, yep.[28.74]",
+  "prompt_len": 455,
+  "generated_tokens": 110,
+  "completed": true,
+  "job": {
+    "job_id": "isolated_reverse/case_001/segment_031",
+    "condition": "isolated_reverse",
+    "clip_id": "IS1000d_question_answer_reversal_01",
+    "context": "isolated",
+    "reference_order": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "target_segment_ids": [
+      "segment_031"
+    ]
+  },
+  "plan_sha256": "89eecb6aaa1e0bfb9d7e14cb56351a52ad9327ff9e46c455f68d2b563243f65e",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "torch_cuda": "11.8",
+    "python": "3.10.12",
+    "gpu": "NVIDIA RTX A5000",
+    "cuda_device_order": "PCI_BUS_ID",
+    "cuda_visible_devices": "4",
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    }
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "D",
+        "start": 0.0,
+        "end": 3.0
+      },
+      {
+        "speaker": "D",
+        "start": 3.4,
+        "end": 6.4000625
+      },
+      {
+        "speaker": "C",
+        "start": 6.8000625,
+        "end": 9.800125
+      },
+      {
+        "speaker": "C",
+        "start": 10.200125,
+        "end": 13.200125
+      },
+      {
+        "speaker": "B",
+        "start": 13.600125,
+        "end": 16.600125
+      },
+      {
+        "speaker": "B",
+        "start": 17.000125,
+        "end": 20.000125
+      },
+      {
+        "speaker": "A",
+        "start": 20.400125,
+        "end": 23.4001875
+      },
+      {
+        "speaker": "A",
+        "start": 23.8001875,
+        "end": 26.8001875
+      }
+    ],
+    "clip_offset": 27.2001875,
+    "public_targets": [
+      {
+        "segment_id": "segment_031",
+        "start": 6.249999998431122e-05,
+        "end": 1.5400625000001753
+      }
+    ],
+    "input_audio_seconds": 28.7403125,
+    "evaluation_source_frame_start": 552319,
+    "evaluation_source_frame_end": 576961,
+    "evaluation_pcm_sha256": "eeee154e8b71f16651d1d5c4b8311a4329adb1eaadcb246264ca717940ebd3d6",
+    "input_pcm_sha256": "064ae1285bd31b20bfe226de5a7311b91dfb406646d2a66dbca8325fc4de1d65",
+    "input_wav_sha256": "cc9d2493bc4d02e81c29533877afb4e8a394cc78bafb235be212dea4e753cf1b",
+    "reference_sha256_multiset": [
+      "09a6827828f6298f3822c0d8a9979ef71f74efe80af4e4419f35d2bbd1ea507d",
+      "2bafc712f694bdd23a5f6da4df2a6dcf5d6b56a87e60c50ba1fed0b89bf5b12b",
+      "411ed30ead01529a23e4b2ae27f114a8cadad1555f9e5576ca4b10e25ccad2d1",
+      "5178ae79ff8abd58d2e027f44ed96b33cc54eea062128dc2f524dc55af5a40a1",
+      "c0390b80bc681e9b1bb21222222905064533277876e8c1c50bea45395ecbf69f",
+      "c7e42334f9107526cdd50e3773ab00203364a48ca29e26d2ddb536cbce796482",
+      "cdfc0d89a345f6944f51778513855414571a21893bba20a317877674e20f58c9",
+      "dcdbc90bb5c58f822a0d266f7ba57cf9bd6fea42eb783326fb5d12378807a39a"
+    ]
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.34,
+      "speaker": "S01",
+      "text": "Also so you uh if you have a video."
+    },
+    {
+      "start": 13.58,
+      "end": 14.04,
+      "speaker": "S02",
+      "text": "Um."
+    },
+    {
+      "start": 16.98,
+      "end": 19.84,
+      "speaker": "S02",
+      "text": "And um well."
+    },
+    {
+      "start": 20.36,
+      "end": 28.74,
+      "speaker": "S03",
+      "text": "Um the so the three things were um appealing to the correct demographics, so using those things in the right yeah, the basic one, yep."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "D",
+    "S02": "B",
+    "S03": "A"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "D": 5.9399999999999995,
+      "C": 0.0,
+      "B": 0.0,
+      "A": 0.0
+    },
+    "S02": {
+      "D": 0.0,
+      "C": 0.0,
+      "B": 3.279749999999998,
+      "A": 0.0
+    },
+    "S03": {
+      "D": 0.0,
+      "C": 0.0,
+      "B": 0.0,
+      "A": 6.000062500000002
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_031",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.5397500000000157
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "reached_token_limit": false,
+  "inference_seconds": 3.0204574880190194,
+  "peak_cuda_allocated_bytes": 1921872384
+}

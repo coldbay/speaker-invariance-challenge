@@ -1,0 +1,2533 @@
+{
+  "tau": 0.1,
+  "conditions": [
+    "pad0000ms_fwd",
+    "pad0000ms_rev",
+    "pad0500ms_fwd",
+    "pad1000ms_fwd",
+    "pad1500ms_fwd",
+    "pad2000ms_fwd",
+    "pad2500ms_fwd",
+    "pad3000ms_fwd",
+    "pad3500ms_fwd",
+    "pad4000ms_fwd"
+  ],
+  "main": {
+    "moss": {
+      "conditions": 10,
+      "utterances": 70,
+      "mean_accuracy": 0.8157142857142856,
+      "worst_accuracy": 0.6857142857142857,
+      "consistent_correct": 47,
+      "flipped_utterances": 23,
+      "pairs_total": 6,
+      "pairs_correct_by_condition": [
+        5,
+        4,
+        5,
+        4,
+        4,
+        4,
+        5,
+        3,
+        3,
+        5
+      ],
+      "unscored_correct": 754,
+      "unscored_total": 1250,
+      "per_condition": {
+        "pad0000ms_fwd": {
+          "correct": 64,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad0000ms_rev": {
+          "correct": 56,
+          "scored": 70,
+          "pairs_correct": 4,
+          "pairs": 6
+        },
+        "pad0500ms_fwd": {
+          "correct": 64,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad1000ms_fwd": {
+          "correct": 54,
+          "scored": 70,
+          "pairs_correct": 4,
+          "pairs": 6
+        },
+        "pad1500ms_fwd": {
+          "correct": 52,
+          "scored": 70,
+          "pairs_correct": 4,
+          "pairs": 6
+        },
+        "pad2000ms_fwd": {
+          "correct": 52,
+          "scored": 70,
+          "pairs_correct": 4,
+          "pairs": 6
+        },
+        "pad2500ms_fwd": {
+          "correct": 62,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad3000ms_fwd": {
+          "correct": 48,
+          "scored": 70,
+          "pairs_correct": 3,
+          "pairs": 6
+        },
+        "pad3500ms_fwd": {
+          "correct": 54,
+          "scored": 70,
+          "pairs_correct": 3,
+          "pairs": 6
+        },
+        "pad4000ms_fwd": {
+          "correct": 65,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        }
+      }
+    },
+    "moss_relink_verify": {
+      "conditions": 10,
+      "utterances": 70,
+      "mean_accuracy": 0.9857142857142858,
+      "worst_accuracy": 0.9857142857142858,
+      "consistent_correct": 69,
+      "flipped_utterances": 0,
+      "pairs_total": 6,
+      "pairs_correct_by_condition": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "unscored_correct": 850,
+      "unscored_total": 1250,
+      "per_condition": {
+        "pad0000ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad0000ms_rev": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad0500ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad1000ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad1500ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad2000ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad2500ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad3000ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad3500ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        },
+        "pad4000ms_fwd": {
+          "correct": 69,
+          "scored": 70,
+          "pairs_correct": 6,
+          "pairs": 6
+        }
+      }
+    },
+    "wespeaker": {
+      "conditions": 10,
+      "utterances": 70,
+      "mean_accuracy": 0.9714285714285713,
+      "worst_accuracy": 0.9714285714285714,
+      "consistent_correct": 68,
+      "flipped_utterances": 0,
+      "pairs_total": 6,
+      "pairs_correct_by_condition": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "unscored_correct": 850,
+      "unscored_total": 1250,
+      "per_condition": {
+        "pad0000ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad0000ms_rev": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad0500ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad1000ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad1500ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad2000ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad2500ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad3000ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad3500ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        },
+        "pad4000ms_fwd": {
+          "correct": 68,
+          "scored": 70,
+          "pairs_correct": 5,
+          "pairs": 6
+        }
+      }
+    }
+  },
+  "main_per_clip": {
+    "moss": {
+      "ES2002d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 12,
+        "mean_accuracy": 0.9833333333333332,
+        "worst_accuracy": 0.9166666666666666,
+        "consistent_correct": 11,
+        "flipped_utterances": 1,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        "unscored_correct": 89,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 11,
+            "scored": 12,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 12,
+            "pairs_correct": 1,
+            "pairs": 2
+          }
+        }
+      },
+      "ES2008a_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 10,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 10,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 60,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "ES2009d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 0.9428571428571428,
+        "worst_accuracy": 0.42857142857142855,
+        "consistent_correct": 3,
+        "flipped_utterances": 4,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "unscored_correct": 101,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 3,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1004b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 11,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 11,
+        "flipped_utterances": 0,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 60,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1006b_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 0.86,
+        "worst_accuracy": 0.8,
+        "consistent_correct": 4,
+        "flipped_utterances": 1,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 144,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 4,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "IS1008c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 0.4000000000000001,
+        "worst_accuracy": 0.2,
+        "consistent_correct": 1,
+        "flipped_utterances": 4,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 102,
+        "unscored_total": 210,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 3,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 3,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 1,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 3,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 1,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 1,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 1,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 1,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 3,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 3,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3004c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 7,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 169,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3010b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 13,
+        "mean_accuracy": 0.3384615384615385,
+        "worst_accuracy": 0.0,
+        "consistent_correct": 0,
+        "flipped_utterances": 13,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "unscored_correct": 29,
+        "unscored_total": 60,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 9,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 2,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 0,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 0,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 0,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 10,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 0,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 0,
+            "scored": 13,
+            "pairs_correct": 0,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          }
+        }
+      }
+    },
+    "moss_relink_verify": {
+      "ES2002d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 12,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 12,
+        "flipped_utterances": 0,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "unscored_correct": 90,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          }
+        }
+      },
+      "ES2008a_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 10,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 10,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 60,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "ES2009d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 7,
+        "flipped_utterances": 0,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 120,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1004b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 11,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 11,
+        "flipped_utterances": 0,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 70,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1006b_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 5,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 147,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "IS1008c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 5,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 130,
+        "unscored_total": 210,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3004c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 7,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 193,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3010b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 13,
+        "mean_accuracy": 0.9230769230769231,
+        "worst_accuracy": 0.9230769230769231,
+        "consistent_correct": 12,
+        "flipped_utterances": 0,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "unscored_correct": 40,
+        "unscored_total": 60,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 12,
+            "scored": 13,
+            "pairs_correct": 2,
+            "pairs": 2
+          }
+        }
+      }
+    },
+    "wespeaker": {
+      "ES2002d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 12,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 12,
+        "flipped_utterances": 0,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "unscored_correct": 100,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 12,
+            "scored": 12,
+            "pairs_correct": 2,
+            "pairs": 2
+          }
+        }
+      },
+      "ES2008a_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 10,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 10,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 60,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 10,
+            "scored": 10,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "ES2009d_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 7,
+        "flipped_utterances": 0,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 120,
+        "unscored_total": 130,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1004b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 11,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 11,
+        "flipped_utterances": 0,
+        "pairs_total": 1,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 70,
+        "unscored_total": 90,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0000ms_rev": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad0500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad1500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad2500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad3500ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 11,
+            "pairs_correct": 1,
+            "pairs": 1
+          }
+        }
+      },
+      "IS1006b_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 5,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 150,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "IS1008c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 5,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 5,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 130,
+        "unscored_total": 210,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 5,
+            "scored": 5,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3004c_overlap_dense_01": {
+        "conditions": 10,
+        "utterances": 7,
+        "mean_accuracy": 1.0,
+        "worst_accuracy": 1.0,
+        "consistent_correct": 7,
+        "flipped_utterances": 0,
+        "pairs_total": 0,
+        "pairs_correct_by_condition": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "unscored_correct": 180,
+        "unscored_total": 270,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0000ms_rev": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad0500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad1500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad2500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad3500ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          },
+          "pad4000ms_fwd": {
+            "correct": 7,
+            "scored": 7,
+            "pairs_correct": 0,
+            "pairs": 0
+          }
+        }
+      },
+      "TS3010b_question_answer_reversal_01": {
+        "conditions": 10,
+        "utterances": 13,
+        "mean_accuracy": 0.846153846153846,
+        "worst_accuracy": 0.8461538461538461,
+        "consistent_correct": 11,
+        "flipped_utterances": 0,
+        "pairs_total": 2,
+        "pairs_correct_by_condition": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unscored_correct": 40,
+        "unscored_total": 60,
+        "per_condition": {
+          "pad0000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad0000ms_rev": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad0500ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad1000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad1500ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad2000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad2500ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad3000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad3500ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          },
+          "pad4000ms_fwd": {
+            "correct": 11,
+            "scored": 13,
+            "pairs_correct": 1,
+            "pairs": 2
+          }
+        }
+      }
+    }
+  },
+  "hard": {
+    "moss": {
+      "short_overlap": {
+        "utterances": 44,
+        "correct_runs": 104,
+        "runs": 440,
+        "consistent_correct": 3,
+        "flipped": 28,
+        "accuracy": 0.23636363636363636
+      },
+      "all": {
+        "utterances": 175,
+        "correct_runs": 932,
+        "runs": 1750,
+        "consistent_correct": 63,
+        "flipped": 81,
+        "accuracy": 0.5325714285714286
+      },
+      "overlap_heavy": {
+        "utterances": 91,
+        "correct_runs": 499,
+        "runs": 910,
+        "consistent_correct": 34,
+        "flipped": 40,
+        "accuracy": 0.5483516483516484
+      },
+      "overlap_light": {
+        "utterances": 23,
+        "correct_runs": 203,
+        "runs": 230,
+        "consistent_correct": 17,
+        "flipped": 5,
+        "accuracy": 0.8826086956521739
+      },
+      "short_clean": {
+        "utterances": 17,
+        "correct_runs": 126,
+        "runs": 170,
+        "consistent_correct": 9,
+        "flipped": 8,
+        "accuracy": 0.7411764705882353
+      }
+    },
+    "moss_relink_verify": {
+      "short_overlap": {
+        "utterances": 44,
+        "correct_runs": 173,
+        "runs": 440,
+        "consistent_correct": 16,
+        "flipped": 6,
+        "accuracy": 0.3931818181818182
+      },
+      "all": {
+        "utterances": 175,
+        "correct_runs": 1135,
+        "runs": 1750,
+        "consistent_correct": 110,
+        "flipped": 14,
+        "accuracy": 0.6485714285714286
+      },
+      "overlap_heavy": {
+        "utterances": 91,
+        "correct_runs": 582,
+        "runs": 910,
+        "consistent_correct": 56,
+        "flipped": 8,
+        "accuracy": 0.6395604395604395
+      },
+      "overlap_light": {
+        "utterances": 23,
+        "correct_runs": 210,
+        "runs": 230,
+        "consistent_correct": 21,
+        "flipped": 0,
+        "accuracy": 0.9130434782608695
+      },
+      "short_clean": {
+        "utterances": 17,
+        "correct_runs": 170,
+        "runs": 170,
+        "consistent_correct": 17,
+        "flipped": 0,
+        "accuracy": 1.0
+      }
+    },
+    "wespeaker": {
+      "short_overlap": {
+        "utterances": 44,
+        "correct_runs": 180,
+        "runs": 440,
+        "consistent_correct": 18,
+        "flipped": 0,
+        "accuracy": 0.4090909090909091
+      },
+      "all": {
+        "utterances": 175,
+        "correct_runs": 1130,
+        "runs": 1750,
+        "consistent_correct": 113,
+        "flipped": 0,
+        "accuracy": 0.6457142857142857
+      },
+      "overlap_heavy": {
+        "utterances": 91,
+        "correct_runs": 600,
+        "runs": 910,
+        "consistent_correct": 60,
+        "flipped": 0,
+        "accuracy": 0.6593406593406593
+      },
+      "overlap_light": {
+        "utterances": 23,
+        "correct_runs": 200,
+        "runs": 230,
+        "consistent_correct": 20,
+        "flipped": 0,
+        "accuracy": 0.8695652173913043
+      },
+      "short_clean": {
+        "utterances": 17,
+        "correct_runs": 150,
+        "runs": 170,
+        "consistent_correct": 15,
+        "flipped": 0,
+        "accuracy": 0.8823529411764706
+      }
+    }
+  },
+  "total_inference_seconds": 1579.659826213494,
+  "peak_cuda_gib": 1.9795026779174805,
+  "token_limit_hits": 0,
+  "registration": {
+    "pad0000ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad0000ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad0000ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad0000ms_fwd|TS3010b_question_answer_reversal_01": "2/4",
+    "pad0000ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad0000ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad0000ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad0000ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad0500ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad0500ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad0500ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad0500ms_fwd|TS3010b_question_answer_reversal_01": "4/4",
+    "pad0500ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad0500ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad0500ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad0500ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad1000ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad1000ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad1000ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad1000ms_fwd|TS3010b_question_answer_reversal_01": "3/4",
+    "pad1000ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad1000ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad1000ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad1000ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad1500ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad1500ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad1500ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad1500ms_fwd|TS3010b_question_answer_reversal_01": "2/4",
+    "pad1500ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad1500ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad1500ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad1500ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad2000ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad2000ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad2000ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad2000ms_fwd|TS3010b_question_answer_reversal_01": "2/4",
+    "pad2000ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad2000ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad2000ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad2000ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad2500ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad2500ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad2500ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad2500ms_fwd|TS3010b_question_answer_reversal_01": "4/4",
+    "pad2500ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad2500ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad2500ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad2500ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad3000ms_fwd|ES2002d_question_answer_reversal_01": "3/4",
+    "pad3000ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad3000ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad3000ms_fwd|TS3010b_question_answer_reversal_01": "2/4",
+    "pad3000ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad3000ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad3000ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad3000ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad3500ms_fwd|ES2002d_question_answer_reversal_01": "4/4",
+    "pad3500ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad3500ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad3500ms_fwd|TS3010b_question_answer_reversal_01": "2/4",
+    "pad3500ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad3500ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad3500ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad3500ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad4000ms_fwd|ES2002d_question_answer_reversal_01": "4/4",
+    "pad4000ms_fwd|ES2009d_question_answer_reversal_01": "4/4",
+    "pad4000ms_fwd|IS1004b_question_answer_reversal_01": "4/4",
+    "pad4000ms_fwd|TS3010b_question_answer_reversal_01": "3/4",
+    "pad4000ms_fwd|ES2008a_overlap_dense_01": "4/4",
+    "pad4000ms_fwd|IS1006b_overlap_dense_01": "4/4",
+    "pad4000ms_fwd|TS3004c_overlap_dense_01": "4/4",
+    "pad4000ms_fwd|IS1008c_overlap_dense_01": "4/4",
+    "pad0000ms_rev|ES2002d_question_answer_reversal_01": "4/4",
+    "pad0000ms_rev|ES2009d_question_answer_reversal_01": "4/4",
+    "pad0000ms_rev|IS1004b_question_answer_reversal_01": "4/4",
+    "pad0000ms_rev|TS3010b_question_answer_reversal_01": "2/4",
+    "pad0000ms_rev|ES2008a_overlap_dense_01": "4/4",
+    "pad0000ms_rev|IS1006b_overlap_dense_01": "3/4",
+    "pad0000ms_rev|TS3004c_overlap_dense_01": "4/4",
+    "pad0000ms_rev|IS1008c_overlap_dense_01": "4/4"
+  }
+}

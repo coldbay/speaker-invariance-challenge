@@ -1,0 +1,203 @@
+{
+  "status": "posthoc_exploratory_diagnostic_not_final_leaderboard",
+  "clip_ids": [
+    "IS1009d_question_answer_reversal_01",
+    "IS1000d_question_answer_reversal_01"
+  ],
+  "labels_sha256": "3c627512f47b87e8d311e88a494109d45fceae03749872160ed62065c969c0ed",
+  "baseline_repeat_checks": [
+    {
+      "clip_id": "IS1009d_question_answer_reversal_01",
+      "same_input_wav": true,
+      "same_generated_text": true,
+      "same_segments": true
+    },
+    {
+      "clip_id": "IS1000d_question_answer_reversal_01",
+      "same_input_wav": true,
+      "same_generated_text": true,
+      "same_segments": true
+    }
+  ],
+  "summary": {
+    "full_forward": {
+      "correct": 22,
+      "scored": 24,
+      "missing": 0,
+      "pairs_both_correct": 2,
+      "pairs": 3,
+      "same_person_states": {
+        "correct_to_correct": 2,
+        "wrong_to_correct": 1
+      },
+      "model_calls": 2,
+      "calls_with_incomplete_registration": 1,
+      "calls_with_substantial_registration_merge": 1,
+      "calls_reaching_token_limit": 0,
+      "inference_seconds": 33.11548263509758,
+      "per_clip": {
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 11
+        },
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        }
+      },
+      "changes_vs_full_forward": {
+        "fixed_count": 0,
+        "new_error_count": 0,
+        "fixed_segments": [],
+        "new_error_segments": []
+      }
+    },
+    "full_reverse": {
+      "correct": 20,
+      "scored": 24,
+      "missing": 2,
+      "pairs_both_correct": 2,
+      "pairs": 3,
+      "same_person_states": {
+        "correct_to_correct": 2,
+        "wrong_to_correct": 1
+      },
+      "model_calls": 2,
+      "calls_with_incomplete_registration": 1,
+      "calls_with_substantial_registration_merge": 0,
+      "calls_reaching_token_limit": 0,
+      "inference_seconds": 33.079852774972096,
+      "per_clip": {
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 9,
+          "scored": 11
+        },
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 11,
+          "scored": 13
+        }
+      },
+      "changes_vs_full_forward": {
+        "fixed_count": 0,
+        "new_error_count": 2,
+        "fixed_segments": [],
+        "new_error_segments": [
+          [
+            "IS1000d_question_answer_reversal_01",
+            "segment_003"
+          ],
+          [
+            "IS1000d_question_answer_reversal_01",
+            "segment_032"
+          ]
+        ]
+      }
+    },
+    "isolated_forward": {
+      "correct": 21,
+      "scored": 24,
+      "missing": 1,
+      "pairs_both_correct": 3,
+      "pairs": 3,
+      "same_person_states": {
+        "correct_to_correct": 3
+      },
+      "model_calls": 37,
+      "calls_with_incomplete_registration": 0,
+      "calls_with_substantial_registration_merge": 0,
+      "calls_reaching_token_limit": 0,
+      "inference_seconds": 160.5504272945691,
+      "per_clip": {
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 9,
+          "scored": 11
+        },
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 12,
+          "scored": 13
+        }
+      },
+      "changes_vs_full_forward": {
+        "fixed_count": 2,
+        "new_error_count": 3,
+        "fixed_segments": [
+          [
+            "IS1009d_question_answer_reversal_01",
+            "segment_001"
+          ],
+          [
+            "IS1009d_question_answer_reversal_01",
+            "segment_006"
+          ]
+        ],
+        "new_error_segments": [
+          [
+            "IS1000d_question_answer_reversal_01",
+            "segment_005"
+          ],
+          [
+            "IS1000d_question_answer_reversal_01",
+            "segment_034"
+          ],
+          [
+            "IS1009d_question_answer_reversal_01",
+            "segment_007"
+          ]
+        ]
+      }
+    },
+    "isolated_reverse": {
+      "correct": 23,
+      "scored": 24,
+      "missing": 1,
+      "pairs_both_correct": 3,
+      "pairs": 3,
+      "same_person_states": {
+        "correct_to_correct": 3
+      },
+      "model_calls": 37,
+      "calls_with_incomplete_registration": 13,
+      "calls_with_substantial_registration_merge": 1,
+      "calls_reaching_token_limit": 0,
+      "inference_seconds": 158.6251004752703,
+      "per_clip": {
+        "IS1000d_question_answer_reversal_01": {
+          "correct": 10,
+          "scored": 11
+        },
+        "IS1009d_question_answer_reversal_01": {
+          "correct": 13,
+          "scored": 13
+        }
+      },
+      "changes_vs_full_forward": {
+        "fixed_count": 2,
+        "new_error_count": 1,
+        "fixed_segments": [
+          [
+            "IS1009d_question_answer_reversal_01",
+            "segment_001"
+          ],
+          [
+            "IS1009d_question_answer_reversal_01",
+            "segment_006"
+          ]
+        ],
+        "new_error_segments": [
+          [
+            "IS1000d_question_answer_reversal_01",
+            "segment_032"
+          ]
+        ]
+      }
+    }
+  },
+  "previous_pilot_correct": 22,
+  "previous_pilot_scored": 24,
+  "controls_verified": [
+    "Same reference content/counts",
+    "Full dialogue PCM/order preserved",
+    "Same isolated target PCM across registration orders",
+    "No target selection from labels"
+  ]
+}

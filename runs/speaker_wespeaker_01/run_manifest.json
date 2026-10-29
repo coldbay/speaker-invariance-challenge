@@ -1,0 +1,44 @@
+{
+  "method": "WeSpeaker-ResNet34-LM / per-act cosine / mean normalized enrollment",
+  "audio_only": true,
+  "transcripts_or_labels_read": false,
+  "model_manifest": {
+    "repository": "Wespeaker/wespeaker-voxceleb-resnet34-LM",
+    "revision": "f0c48c298fd835726c27956a5d617bad7115627e",
+    "license": "CC-BY-4.0",
+    "files": {
+      "voxceleb_resnet34_LM.onnx": {
+        "url": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet34-LM/resolve/f0c48c298fd835726c27956a5d617bad7115627e/voxceleb_resnet34_LM.onnx",
+        "bytes": 26530309,
+        "sha256": "7bb2f06e9df17cdf1ef14ee8a15ab08ed28e8d0ef5054ee135741560df2ec068"
+      },
+      "config.yaml": {
+        "url": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet34-LM/resolve/f0c48c298fd835726c27956a5d617bad7115627e/config.yaml",
+        "bytes": 1673,
+        "sha256": "3cf7d3243464cd939083e29d2be65c2abcdd954c1a64559bad73b74ffdb0db3e"
+      },
+      "README.md": {
+        "url": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet34-LM/resolve/f0c48c298fd835726c27956a5d617bad7115627e/README.md",
+        "bytes": 3152,
+        "sha256": "af2f6592a73d1333b872f75c6047f24bd1bb53346c0597edc1544140aa9c7e73"
+      }
+    }
+  },
+  "inputs_sha256": "bab327991fc2c6a8a576e79e909de85e4f1e559d32177bdfd50331198df707a0",
+  "minimum_segment_seconds": 0.3,
+  "threads": 2,
+  "elapsed_seconds": 8.11027020000256,
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "packages": {
+    "numpy": "2.2.6",
+    "onnxruntime": "1.23.2",
+    "kaldi-native-fbank": "1.22.3"
+  },
+  "frontend": "PCM16 units; 80-bin Kaldi fbank, 25ms/10ms, hamming, dither0, snip_edges=True, utterance CMN",
+  "limitations": [
+    "Kaldi-native-fbank frontend; numeric parity with torchaudio has not been checked.",
+    "Oracle act boundaries and registered speakers; not end-to-end diarization.",
+    "Model short-utterance/domain sensitivity may affect results; no context is used."
+  ]
+}

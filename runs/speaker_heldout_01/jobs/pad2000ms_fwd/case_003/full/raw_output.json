@@ -1,0 +1,586 @@
+{
+  "text": "[1.96][S01] So, welcome back.[3.96][5.38][S01] First, I wanna say, I'm the secretary.[8.44][8.76][S02] Yes, well, uh, uh, I shall give a[11.74][12.14][S02] Um, I thought the, the, the technical function design[15.16][15.56][S02] I've saved it on my computer, my presentation, was about the working of the[21.64][22.34][S01] So I'm uh gonna have a presentation about, uh, uh, we did a usability lab test with, uh[28.72][30.38][S01] Pick, what was w- your one?[32.38][33.82][S01] Techno?[34.32][34.26][S03] Mine, it's the functional requirements.[36.36][36.96][S01] Okay.[37.46][47.68][S01] We had, oh, no, no, no, no.[51.42][52.58][S01] Where was that example, the[54.42][55.14][S02] Oh, mine.[55.64][55.94][S01] Your one.[56.44][57.32][S01] That was the, the, the, the[60.02][60.36][S02] Technical.[60.86][61.06][S01] Technical.[61.56][68.64][S01] Hello.[69.14][71.98][S01] Okay.[72.48][74.08][S01] What do we need?[74.84][76.81][S01] On, off, zero to nine.[78.62][80.46][S02] To change to the next channel, just one button, to move up, move down.[84.44][85.40][S01] Yeah, that's the[86.22][86.28][S02] The[86.78][86.52][S01] Channel.[87.02][87.42][S04] Do we make a menu?[88.76][90.04][S01] Menu?[90.54][91.42][S01] Uh, yes, the m-[92.92][94.04][S01] You would tell it[94.62]",
+  "prompt_len": 1305,
+  "generated_tokens": 673,
+  "job": {
+    "job_id": "pad2000ms_fwd/case_003/full",
+    "condition": "pad2000ms_fwd",
+    "clip_id": "TS3010b_question_answer_reversal_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_001",
+      "segment_004",
+      "segment_006",
+      "segment_007",
+      "segment_008",
+      "segment_009",
+      "segment_010",
+      "segment_011",
+      "segment_015",
+      "segment_017",
+      "segment_019",
+      "segment_020",
+      "segment_021",
+      "segment_022",
+      "segment_023",
+      "segment_024",
+      "segment_025",
+      "segment_026"
+    ],
+    "leading_silence_seconds": 2.0,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "e147448e6ac62a75efc198c9976109eede2522d8f33106f0c8afbbdeed1c5ffd",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "5",
+    "shard": "1/2"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 2.0,
+        "end": 5.0
+      },
+      {
+        "speaker": "A",
+        "start": 5.4,
+        "end": 8.4
+      },
+      {
+        "speaker": "B",
+        "start": 8.8,
+        "end": 11.8
+      },
+      {
+        "speaker": "B",
+        "start": 12.2,
+        "end": 15.2000625
+      },
+      {
+        "speaker": "C",
+        "start": 15.6000625,
+        "end": 18.6000625
+      },
+      {
+        "speaker": "C",
+        "start": 19.0000625,
+        "end": 22.0000625
+      },
+      {
+        "speaker": "D",
+        "start": 22.4000625,
+        "end": 25.4000625
+      },
+      {
+        "speaker": "D",
+        "start": 25.8000625,
+        "end": 28.8000625
+      }
+    ],
+    "clip_offset": 29.2000625,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 2.0
+      },
+      {
+        "segment_id": "segment_001",
+        "start": 2.0,
+        "end": 3.2799999999999727
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 5.730000000000018,
+        "end": 7.210000000000036
+      },
+      {
+        "segment_id": "segment_006",
+        "start": 18.519999999999982,
+        "end": 21.360000000000127
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 21.360000000000127,
+        "end": 22.269999999999982
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 23.40000000000009,
+        "end": 25.24000000000001
+      },
+      {
+        "segment_id": "segment_009",
+        "start": 26.019999999999982,
+        "end": 26.860000000000127
+      },
+      {
+        "segment_id": "segment_010",
+        "start": 26.799999999999955,
+        "end": 28.160000000000082
+      },
+      {
+        "segment_id": "segment_011",
+        "start": 28.160000000000082,
+        "end": 31.930000000000064
+      },
+      {
+        "segment_id": "segment_015",
+        "start": 42.76999999999998,
+        "end": 44.92000000000007
+      },
+      {
+        "segment_id": "segment_017",
+        "start": 47.63000000000011,
+        "end": 48.62000000000012
+      },
+      {
+        "segment_id": "segment_019",
+        "start": 51.289999999999964,
+        "end": 53.930000000000064
+      },
+      {
+        "segment_id": "segment_020",
+        "start": 53.930000000000064,
+        "end": 55.27999999999997
+      },
+      {
+        "segment_id": "segment_021",
+        "start": 56.22000000000003,
+        "end": 57.86000000000013
+      },
+      {
+        "segment_id": "segment_022",
+        "start": 57.13000000000011,
+        "end": 58.26999999999998
+      },
+      {
+        "segment_id": "segment_023",
+        "start": 58.26999999999998,
+        "end": 59.52999999999997
+      },
+      {
+        "segment_id": "segment_024",
+        "start": 60.88000000000011,
+        "end": 62.289999999999964
+      },
+      {
+        "segment_id": "segment_025",
+        "start": 62.289999999999964,
+        "end": 63.440000000000055
+      },
+      {
+        "segment_id": "segment_026",
+        "start": 63.440000000000055,
+        "end": 65.44000000000005
+      }
+    ],
+    "input_audio_seconds": 94.6400625,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 1047040,
+    "evaluation_pcm_sha256": "4f3d5e60479adf16148987db96f03d13cac2fa5f8b0ca8dacce2811118eb9a89",
+    "input_pcm_sha256": "1f1ac4e71022558050808f753f987233f5e14a801ddd527d214572363cd1a475",
+    "input_wav_sha256": "2aa002687c5a331070534fdfb9a40689c30f807c30d32d47fe2f907e7462ba1c",
+    "reference_sha256_multiset": [
+      "01f0e5885dc156bb55bf47f51f735dd28b570229b5bb0b13a196abe7276b668a",
+      "5aa674d5e6d5b27d254b6ef9f3fb4f3c188c180580a311040f273595a6e0b49f",
+      "751812642ce9f8931bcd5cd3850494956abf8467a8eb0b4bb44bf8ee01f778ee",
+      "960639857d046ffb2cd3f5c42bc575c116caee56263570a9b5a7df1d8e3374b7",
+      "9f0246957e92f625ec93c7494b0a90fd4d3d8c655f822a291947efa5a2cfe84e",
+      "bd36e853409a4171a9831773a95e51f25eae93ed21df69881f7336a20a6d0db0",
+      "d476c38f1f931d8774183024a2fa78285a421b12c071bbbe1fd5e7fce362195d",
+      "f4a4bb64e71168956ca4f4883fa2c38cb98f374eb4cefc54d16966c55dc32489"
+    ],
+    "leading_silence_seconds": 2.0,
+    "unpadded_input_pcm_sha256": "374a23cff5e4e7b79dde04a60a74994c46719f0c8183639314d88d39d860adc4",
+    "frontend_chunk_count": 4
+  },
+  "segments": [
+    {
+      "start": 1.96,
+      "end": 3.96,
+      "speaker": "S01",
+      "text": "So, welcome back."
+    },
+    {
+      "start": 5.38,
+      "end": 8.44,
+      "speaker": "S01",
+      "text": "First, I wanna say, I'm the secretary."
+    },
+    {
+      "start": 8.76,
+      "end": 11.74,
+      "speaker": "S02",
+      "text": "Yes, well, uh, uh, I shall give a"
+    },
+    {
+      "start": 12.14,
+      "end": 15.16,
+      "speaker": "S02",
+      "text": "Um, I thought the, the, the technical function design"
+    },
+    {
+      "start": 15.56,
+      "end": 21.64,
+      "speaker": "S02",
+      "text": "I've saved it on my computer, my presentation, was about the working of the"
+    },
+    {
+      "start": 22.34,
+      "end": 28.72,
+      "speaker": "S01",
+      "text": "So I'm uh gonna have a presentation about, uh, uh, we did a usability lab test with, uh"
+    },
+    {
+      "start": 30.38,
+      "end": 32.38,
+      "speaker": "S01",
+      "text": "Pick, what was w- your one?"
+    },
+    {
+      "start": 33.82,
+      "end": 34.32,
+      "speaker": "S01",
+      "text": "Techno?"
+    },
+    {
+      "start": 34.26,
+      "end": 36.36,
+      "speaker": "S03",
+      "text": "Mine, it's the functional requirements."
+    },
+    {
+      "start": 36.96,
+      "end": 37.46,
+      "speaker": "S01",
+      "text": "Okay."
+    },
+    {
+      "start": 47.68,
+      "end": 51.42,
+      "speaker": "S01",
+      "text": "We had, oh, no, no, no, no."
+    },
+    {
+      "start": 52.58,
+      "end": 54.42,
+      "speaker": "S01",
+      "text": "Where was that example, the"
+    },
+    {
+      "start": 55.14,
+      "end": 55.64,
+      "speaker": "S02",
+      "text": "Oh, mine."
+    },
+    {
+      "start": 55.94,
+      "end": 56.44,
+      "speaker": "S01",
+      "text": "Your one."
+    },
+    {
+      "start": 57.32,
+      "end": 60.02,
+      "speaker": "S01",
+      "text": "That was the, the, the, the"
+    },
+    {
+      "start": 60.36,
+      "end": 60.86,
+      "speaker": "S02",
+      "text": "Technical."
+    },
+    {
+      "start": 61.06,
+      "end": 61.56,
+      "speaker": "S01",
+      "text": "Technical."
+    },
+    {
+      "start": 68.64,
+      "end": 69.14,
+      "speaker": "S01",
+      "text": "Hello."
+    },
+    {
+      "start": 71.98,
+      "end": 72.48,
+      "speaker": "S01",
+      "text": "Okay."
+    },
+    {
+      "start": 74.08,
+      "end": 74.84,
+      "speaker": "S01",
+      "text": "What do we need?"
+    },
+    {
+      "start": 76.81,
+      "end": 78.62,
+      "speaker": "S01",
+      "text": "On, off, zero to nine."
+    },
+    {
+      "start": 80.46,
+      "end": 84.44,
+      "speaker": "S02",
+      "text": "To change to the next channel, just one button, to move up, move down."
+    },
+    {
+      "start": 85.4,
+      "end": 86.22,
+      "speaker": "S01",
+      "text": "Yeah, that's the"
+    },
+    {
+      "start": 86.28,
+      "end": 86.78,
+      "speaker": "S02",
+      "text": "The"
+    },
+    {
+      "start": 86.52,
+      "end": 87.02,
+      "speaker": "S01",
+      "text": "Channel."
+    },
+    {
+      "start": 87.42,
+      "end": 88.76,
+      "speaker": "S04",
+      "text": "Do we make a menu?"
+    },
+    {
+      "start": 90.04,
+      "end": 90.54,
+      "speaker": "S01",
+      "text": "Menu?"
+    },
+    {
+      "start": 91.42,
+      "end": 92.92,
+      "speaker": "S01",
+      "text": "Uh, yes, the m-"
+    },
+    {
+      "start": 94.04,
+      "end": 94.62,
+      "speaker": "S01",
+      "text": "You would tell it"
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "D",
+    "S02": "B"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 4.96,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 5.9199375
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 5.9,
+      "C": 5.639937500000002,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.8200625000000024
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_001",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.1799375000000012
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": null,
+      "coverage_seconds_by_registered_speaker": {},
+      "reason": "no_mapped_coverage"
+    },
+    {
+      "segment_id": "segment_006",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 2.8400000000001455
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.859937499999873
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.8199374999999094
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_009",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.12006250000013097,
+        "B": 0.4199375000000174
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_010",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.48000000000012477
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_011",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 2.7299999999999827,
+        "B": 0.5
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_015",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.5400625000000758
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_017",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.9900000000000091
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_019",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 2.6400000000001
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_020",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 1.3099374999999327
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_021",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.2999374999999702,
+        "B": 0.5
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_022",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.5,
+        "B": 0.44993749999989063
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_023",
+      "speaker": null,
+      "coverage_seconds_by_registered_speaker": {},
+      "reason": "no_mapped_coverage"
+    },
+    {
+      "segment_id": "segment_024",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.529999999999859
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_025",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.150000000000091
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_026",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 0.8599374999999441
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 18.131592235993594,
+  "peak_cuda_allocated_bytes": 2075989504,
+  "reached_token_limit": false
+}

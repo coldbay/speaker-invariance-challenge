@@ -1,0 +1,394 @@
+[
+  {
+    "meeting": "ES2002d",
+    "meeting_type": "scenario",
+    "event": "question_answer_reversal",
+    "start": 2326.25,
+    "end": 2402.86,
+    "duration": 76.61000000000013,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "qa_before": {
+      "id": "ES2002d.adjacency-pairs.dharshi.408",
+      "question": {
+        "id": "ES2002d.B.dialog-act.dharshi.486",
+        "speaker": "B",
+        "global_speaker": "FEE005",
+        "start": 2328.25,
+        "end": 2330.07,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "wha what are your summarising words about Play-Doh ?"
+      },
+      "answer": {
+        "id": "ES2002d.A.dialog-act.dharshi.289",
+        "speaker": "A",
+        "global_speaker": "MEE006",
+        "start": 2342.02,
+        "end": 2342.96,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "dimension as well ."
+      }
+    },
+    "qa_after": {
+      "id": "ES2002d.adjacency-pairs.dharshi.412",
+      "question": {
+        "id": "ES2002d.A.dialog-act.dharshi.297",
+        "speaker": "A",
+        "global_speaker": "MEE006",
+        "start": 2395.86,
+        "end": 2397.04,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "Can we turn off the microphones ?"
+      },
+      "answer": {
+        "id": "ES2002d.B.dialog-act.dharshi.499",
+        "speaker": "B",
+        "global_speaker": "FEE005",
+        "start": 2398.3,
+        "end": 2400.86,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "Yeah , yeah if the meeting's over then yeah I guess so ."
+      }
+    },
+    "target_overlap_fractions": [
+      0.0,
+      0.0
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "ES2002d_question_answer_reversal_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\ES2002d_question_answer_reversal_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2002d/audio/ES2002d.Mix-Headset.wav",
+      "source_frame_start": 37220000,
+      "source_frame_end_exclusive": 38445760,
+      "sha256": "c7f5f3bde900f922c69475fdcbfbb7beaba72fcd5a11510be7218aa24d753550",
+      "bytes": 2451564
+    }
+  },
+  {
+    "meeting": "ES2009d",
+    "meeting_type": "scenario",
+    "event": "question_answer_reversal",
+    "start": 1619.06,
+    "end": 1664.3,
+    "duration": 45.24000000000001,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "qa_before": {
+      "id": "ES2009d.adjacency-pairs.vkaraisk.257",
+      "question": {
+        "id": "ES2009d.D.dialog-act.vkaraisk.259",
+        "speaker": "D",
+        "global_speaker": "FEE036",
+        "start": 1621.06,
+        "end": 1622.2,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "That slide was like that ?"
+      },
+      "answer": {
+        "id": "ES2009d.A.dialog-act.vkaraisk.273",
+        "speaker": "A",
+        "global_speaker": "MEE033",
+        "start": 1623.04,
+        "end": 1624.22,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "I didn't change this one at all ."
+      }
+    },
+    "qa_after": {
+      "id": "ES2009d.adjacency-pairs.vkaraisk.266",
+      "question": {
+        "id": "ES2009d.A.dialog-act.vkaraisk.282",
+        "speaker": "A",
+        "global_speaker": "MEE033",
+        "start": 1650.76,
+        "end": 1652.99,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "how much can you do with a remote control ?"
+      },
+      "answer": {
+        "id": "ES2009d.D.dialog-act.vkaraisk.269",
+        "speaker": "D",
+        "global_speaker": "FEE036",
+        "start": 1661.32,
+        "end": 1662.3,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "Don't know ."
+      }
+    },
+    "target_overlap_fractions": [
+      0.0,
+      0.0
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "ES2009d_question_answer_reversal_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\ES2009d_question_answer_reversal_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2009d/audio/ES2009d.Mix-Headset.wav",
+      "source_frame_start": 25904960,
+      "source_frame_end_exclusive": 26628800,
+      "sha256": "30d062467a55109601f7d25988d3745c0cfc95b0c6c257072abbb0ee6ad02332",
+      "bytes": 1447724
+    }
+  },
+  {
+    "meeting": "IS1004b",
+    "meeting_type": "scenario",
+    "event": "question_answer_reversal",
+    "start": 729.04,
+    "end": 789.73,
+    "duration": 60.690000000000055,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "qa_before": {
+      "id": "IS1004b.adjacency-pairs.dharshi.72",
+      "question": {
+        "id": "IS1004b.A.dialog-act.dharshi.92",
+        "speaker": "A",
+        "global_speaker": "MIO019",
+        "start": 731.04,
+        "end": 731.8,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "what is your ?"
+      },
+      "answer": {
+        "id": "IS1004b.B.dialog-act.dharshi.62",
+        "speaker": "B",
+        "global_speaker": "MIE090",
+        "start": 732.48,
+        "end": 733.6,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "Uh participant three ."
+      }
+    },
+    "qa_after": {
+      "id": "IS1004b.adjacency-pairs.dharshi.80",
+      "question": {
+        "id": "IS1004b.B.dialog-act.dharshi.73",
+        "speaker": "B",
+        "global_speaker": "MIE090",
+        "start": 785.36,
+        "end": 786.62,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "could I use the mouse , or"
+      },
+      "answer": {
+        "id": "IS1004b.A.dialog-act.dharshi.95",
+        "speaker": "A",
+        "global_speaker": "MIO019",
+        "start": 786.6,
+        "end": 787.73,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "Um yeah ."
+      }
+    },
+    "target_overlap_fractions": [
+      0.0,
+      0.017699115044231762
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "IS1004b_question_answer_reversal_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\IS1004b_question_answer_reversal_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1004b/audio/IS1004b.Mix-Headset.wav",
+      "source_frame_start": 11664640,
+      "source_frame_end_exclusive": 12635680,
+      "sha256": "9fdd6999c6008a3e3077eb563c234746ab4ce860f6e4262ce5a92aa64336590e",
+      "bytes": 1942124
+    }
+  },
+  {
+    "meeting": "TS3010b",
+    "meeting_type": "scenario",
+    "event": "question_answer_reversal",
+    "start": 1633.32,
+    "end": 1698.76,
+    "duration": 65.44000000000005,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "qa_before": {
+      "id": "TS3010b.adjacency-pairs.s9553330.44",
+      "question": {
+        "id": "TS3010b.A.dialog-act.s9553330.147",
+        "speaker": "A",
+        "global_speaker": "MTD037PM",
+        "start": 1635.32,
+        "end": 1636.6,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "What was w your one ?"
+      },
+      "answer": {
+        "id": "TS3010b.D.dialog-act.s9553330.122",
+        "speaker": "D",
+        "global_speaker": "MTD040ME",
+        "start": 1639.05,
+        "end": 1640.53,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "It's the functional requirements ."
+      }
+    },
+    "qa_after": {
+      "id": "TS3010b.adjacency-pairs.s9553330.51",
+      "question": {
+        "id": "TS3010b.D.dialog-act.s9553330.124",
+        "speaker": "D",
+        "global_speaker": "MTD040ME",
+        "start": 1691.59,
+        "end": 1692.85,
+        "dialogue_act": "Elicit-Inform",
+        "type_id": "ami_da_5",
+        "text": "Do we make a menu ?"
+      },
+      "answer": {
+        "id": "TS3010b.A.dialog-act.s9553330.163",
+        "speaker": "A",
+        "global_speaker": "MTD037PM",
+        "start": 1695.61,
+        "end": 1696.76,
+        "dialogue_act": "Inform",
+        "type_id": "ami_da_4",
+        "text": "Uh yes"
+      }
+    },
+    "target_overlap_fractions": [
+      0.0,
+      0.0
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "TS3010b_question_answer_reversal_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\TS3010b_question_answer_reversal_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3010b/audio/TS3010b.Mix-Headset.wav",
+      "source_frame_start": 26133120,
+      "source_frame_end_exclusive": 27180160,
+      "sha256": "e81e010a05dd88e88bcc697fc3733264fc99b3bd46b10e8a4a52fe2178e92518",
+      "bytes": 2094124
+    }
+  },
+  {
+    "meeting": "ES2008a",
+    "meeting_type": "scenario",
+    "event": "overlap_dense",
+    "start": 615.0,
+    "end": 675.0,
+    "duration": 60.0,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "ES2008a_overlap_dense_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\ES2008a_overlap_dense_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/ES2008a/audio/ES2008a.Mix-Headset.wav",
+      "source_frame_start": 9840000,
+      "source_frame_end_exclusive": 10800000,
+      "sha256": "cc0fd47289f9cc88969e1021c2b27c5127e3d46348a3adde17ff307d381b9dfb",
+      "bytes": 1920044
+    }
+  },
+  {
+    "meeting": "IS1006b",
+    "meeting_type": "scenario",
+    "event": "overlap_dense",
+    "start": 2075.0,
+    "end": 2135.0,
+    "duration": 60.0,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "IS1006b_overlap_dense_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\IS1006b_overlap_dense_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1006b/audio/IS1006b.Mix-Headset.wav",
+      "source_frame_start": 33200000,
+      "source_frame_end_exclusive": 34160000,
+      "sha256": "48f605437eedc4621a6e37da541314e82dce509f09d672cbc183d184fb5536c8",
+      "bytes": 1920044
+    }
+  },
+  {
+    "meeting": "TS3004c",
+    "meeting_type": "scenario",
+    "event": "overlap_dense",
+    "start": 515.0,
+    "end": 575.0,
+    "duration": 60.0,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "TS3004c_overlap_dense_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\TS3004c_overlap_dense_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/TS3004c/audio/TS3004c.Mix-Headset.wav",
+      "source_frame_start": 8240000,
+      "source_frame_end_exclusive": 9200000,
+      "sha256": "4f2da9c29cb71c82e22868c0b4e8ca686306553fcfd4a63d45b5235b0dcc10e9",
+      "bytes": 1920044
+    }
+  },
+  {
+    "meeting": "IS1008c",
+    "meeting_type": "scenario",
+    "event": "overlap_dense",
+    "start": 485.0,
+    "end": 545.0,
+    "duration": 60.0,
+    "speakers_present": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "review_status": "automatic_candidate_not_human_verified",
+    "clip_id": "IS1008c_overlap_dense_01",
+    "audio": {
+      "path": "C:\\Users\\jbh39\\sound_ai\\data\\ami\\heldout\\audio\\IS1008c_overlap_dense_01.wav",
+      "source_url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008c/audio/IS1008c.Mix-Headset.wav",
+      "source_frame_start": 7760000,
+      "source_frame_end_exclusive": 8720000,
+      "sha256": "93df6ca40a2644202dc6e0e74dbdd9e62f2827cd9abf64812d495ac5618d0fcf",
+      "bytes": 1920044
+    }
+  }
+]

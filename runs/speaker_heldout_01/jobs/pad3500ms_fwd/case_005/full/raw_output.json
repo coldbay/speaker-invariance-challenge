@@ -1,0 +1,813 @@
+{
+  "text": "[3.48][S01]And uh we want to know, to we need uh to know the the[9.88][10.28][S02]And um I am responsible for you. However, um Project Manager[16.71][17.08][S03]But even we can have some uh L C D display, if you want to go for universal, then we have to limit for[23.53][23.89][S04]Do you want Yeah, open read only. I hope I saved it. Clap, can you? Clap is good. Clap.[33.14][30.91][S01]Clap, clap it's a[31.97][31.25][S03]Yeah.[31.63][32.64][S01]Uh yeah, I think it's universal.[34.01][32.85][S03]Yeah.[33.16][38.78][S04]Just a suggestion. With only one hand. These are not our target people.[46.21][39.24][S01]What about people without hand then?[41.31][44.20][S03]Yeah, I think it's good.[45.15][45.88][S01]Uh okay.[46.86][47.54][S03]But it's a good feature, I guess, yeah. We need to think about more how to incorporate and[52.77][49.84][S01]Mm-hmm, okay.[50.99][53.38][S02]Just don't interfere with other devices, like 'cause like always people do that the lights are turning on with the clapping.[62.84][57.53][S03]Mm-hmm.[57.86][63.19][S04]Oh, that's it, that already exists. Okay, okay. Oh yeah, you do have. Wow, you're trendy.[69.35][63.67][S03]Hmm.[63.95][65.11][S02]Yeah, I got it at my home.[66.51][66.51][S01]Mm-hmm.[66.83][68.48][S03]Oh.[68.81][69.50][S01]Mm-hmm. So, let's just think so that yeah, I think that could be in the component concept.[77.45][73.09][S04]Think about it, yeah. Okay.[74.62][77.48][S03]Yeah.[77.89][79.31][S01]And yes.[79.69][81.12][S04]Okay.[81.61][82.05][S01]Okay.[82.47][85.98][S04]Good. We're done? Yeah. Great, thank you.[89.88][87.84][S01]So, yeah, let's go to lunch.[89.88][90.41][S03]Thank you.[90.71]",
+  "prompt_len": 1255,
+  "generated_tokens": 795,
+  "job": {
+    "job_id": "pad3500ms_fwd/case_005/full",
+    "condition": "pad3500ms_fwd",
+    "clip_id": "IS1006b_overlap_dense_01",
+    "context": "full",
+    "reference_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_000",
+      "segment_001",
+      "segment_003",
+      "segment_004",
+      "segment_007",
+      "segment_008",
+      "segment_010",
+      "segment_011",
+      "segment_012",
+      "segment_013",
+      "segment_014",
+      "segment_015",
+      "segment_016",
+      "segment_017",
+      "segment_018",
+      "segment_019",
+      "segment_023",
+      "segment_025",
+      "segment_026",
+      "segment_028",
+      "segment_030",
+      "segment_031",
+      "segment_032",
+      "segment_033",
+      "segment_034",
+      "segment_036",
+      "segment_038",
+      "segment_043",
+      "segment_044",
+      "segment_047",
+      "segment_048",
+      "segment_051"
+    ],
+    "leading_silence_seconds": 3.5,
+    "reversed_enrollment": false
+  },
+  "completed": true,
+  "plan_sha256": "e147448e6ac62a75efc198c9976109eede2522d8f33106f0c8afbbdeed1c5ffd",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "torch_cuda": "11.8",
+    "cuda_visible_devices": "5",
+    "shard": "1/2"
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 3.5,
+        "end": 6.5
+      },
+      {
+        "speaker": "A",
+        "start": 6.9,
+        "end": 9.9
+      },
+      {
+        "speaker": "B",
+        "start": 10.3,
+        "end": 13.3
+      },
+      {
+        "speaker": "B",
+        "start": 13.7,
+        "end": 16.7000625
+      },
+      {
+        "speaker": "C",
+        "start": 17.1000625,
+        "end": 20.1000625
+      },
+      {
+        "speaker": "C",
+        "start": 20.5000625,
+        "end": 23.500125
+      },
+      {
+        "speaker": "D",
+        "start": 23.900125,
+        "end": 26.900125
+      },
+      {
+        "speaker": "D",
+        "start": 27.300125,
+        "end": 30.3001875
+      }
+    ],
+    "clip_offset": 30.7001875,
+    "public_targets": [
+      {
+        "segment_id": "segment_000",
+        "start": 0.0,
+        "end": 1.949999999999818
+      },
+      {
+        "segment_id": "segment_001",
+        "start": 0.0,
+        "end": 1.2699999999999818
+      },
+      {
+        "segment_id": "segment_003",
+        "start": 1.2699999999999818,
+        "end": 2.300000000000182
+      },
+      {
+        "segment_id": "segment_004",
+        "start": 1.949999999999818,
+        "end": 3.349999999999909
+      },
+      {
+        "segment_id": "segment_007",
+        "start": 8.090000000000146,
+        "end": 11.539999999999964
+      },
+      {
+        "segment_id": "segment_008",
+        "start": 8.570000000000164,
+        "end": 11.179999999999836
+      },
+      {
+        "segment_id": "segment_010",
+        "start": 11.179999999999836,
+        "end": 12.550000000000182
+      },
+      {
+        "segment_id": "segment_011",
+        "start": 11.539999999999964,
+        "end": 14.170000000000073
+      },
+      {
+        "segment_id": "segment_012",
+        "start": 13.519999999999982,
+        "end": 14.559999999999945
+      },
+      {
+        "segment_id": "segment_013",
+        "start": 14.170000000000073,
+        "end": 15.849999999999909
+      },
+      {
+        "segment_id": "segment_014",
+        "start": 15.079999999999927,
+        "end": 16.159999999999854
+      },
+      {
+        "segment_id": "segment_015",
+        "start": 16.860000000000127,
+        "end": 18.36999999999989
+      },
+      {
+        "segment_id": "segment_016",
+        "start": 18.36999999999989,
+        "end": 22.0300000000002
+      },
+      {
+        "segment_id": "segment_017",
+        "start": 19.170000000000073,
+        "end": 20.449999999999818
+      },
+      {
+        "segment_id": "segment_018",
+        "start": 22.76000000000022,
+        "end": 26.360000000000127
+      },
+      {
+        "segment_id": "segment_019",
+        "start": 26.360000000000127,
+        "end": 32.11999999999989
+      },
+      {
+        "segment_id": "segment_023",
+        "start": 33.309999999999945,
+        "end": 34.67000000000007
+      },
+      {
+        "segment_id": "segment_025",
+        "start": 34.67000000000007,
+        "end": 36.0
+      },
+      {
+        "segment_id": "segment_026",
+        "start": 34.88000000000011,
+        "end": 36.7800000000002
+      },
+      {
+        "segment_id": "segment_028",
+        "start": 36.0,
+        "end": 37.36999999999989
+      },
+      {
+        "segment_id": "segment_030",
+        "start": 37.36999999999989,
+        "end": 39.590000000000146
+      },
+      {
+        "segment_id": "segment_031",
+        "start": 37.809999999999945,
+        "end": 40.07999999999993
+      },
+      {
+        "segment_id": "segment_032",
+        "start": 38.809999999999945,
+        "end": 41.2199999999998
+      },
+      {
+        "segment_id": "segment_033",
+        "start": 41.2199999999998,
+        "end": 42.11000000000013
+      },
+      {
+        "segment_id": "segment_034",
+        "start": 42.11000000000013,
+        "end": 43.2199999999998
+      },
+      {
+        "segment_id": "segment_036",
+        "start": 43.13000000000011,
+        "end": 43.98000000000002
+      },
+      {
+        "segment_id": "segment_038",
+        "start": 43.61000000000013,
+        "end": 47.090000000000146
+      },
+      {
+        "segment_id": "segment_043",
+        "start": 55.409999999999854,
+        "end": 56.98999999999978
+      },
+      {
+        "segment_id": "segment_044",
+        "start": 56.98999999999978,
+        "end": 58.4699999999998
+      },
+      {
+        "segment_id": "segment_047",
+        "start": 57.710000000000036,
+        "end": 58.929999999999836
+      },
+      {
+        "segment_id": "segment_048",
+        "start": 58.4699999999998,
+        "end": 59.570000000000164
+      },
+      {
+        "segment_id": "segment_051",
+        "start": 58.929999999999836,
+        "end": 60.0
+      }
+    ],
+    "input_audio_seconds": 90.7001875,
+    "evaluation_source_frame_start": 0,
+    "evaluation_source_frame_end": 960000,
+    "evaluation_pcm_sha256": "9643ae9437d5c8e5c0df127248eb18132ab8ed2c9c3d4b81dbfed8b0da76c1d0",
+    "input_pcm_sha256": "7e89a6c29e9a117804028296476750a7130d08553d1db1607d60b4aa3eb455b4",
+    "input_wav_sha256": "0006514389a52854eee7e573f1857ffe516dce9fefb4e84e0e226ae38bfd12a0",
+    "reference_sha256_multiset": [
+      "0c68972b0f16ced1a1da2ae58a023a76a8a14697ff15647b8d4d1df868edaae2",
+      "22b27e349060256986f2f977938b577903969fb1282081d250a958291765a32b",
+      "3c894554675fea33669eb7e1bcdfa453fb2b7634083a9540df6249d06fe68d44",
+      "4948c1ee60a3a66bd045b7b48a877ba1dcbe14af94507174438d26214449668b",
+      "8089b3b69662c213d8e742ebee17a26870eae016a8b2d1e3d9de245c65d16178",
+      "bce9a55c2652756b06d9daa56895de0d65e9489ccb36934a62137c638aee8ff0",
+      "e0b51f8ddcfeb26522b1912ae0961e72978d17271cad78a2ac2a6f0d95de4feb",
+      "f9d7229d6d02617ebff94a86943f0db15c5ce6ca5b4c35d98343a193846cf5a5"
+    ],
+    "leading_silence_seconds": 3.5,
+    "unpadded_input_pcm_sha256": "82f9a2c7c42488f36ca7d9e51e34f46db6763d0af593c1a9a982bd7122208d31",
+    "frontend_chunk_count": 4
+  },
+  "segments": [
+    {
+      "start": 3.48,
+      "end": 9.88,
+      "speaker": "S01",
+      "text": "And uh we want to know, to we need uh to know the the"
+    },
+    {
+      "start": 10.28,
+      "end": 16.71,
+      "speaker": "S02",
+      "text": "And um I am responsible for you. However, um Project Manager"
+    },
+    {
+      "start": 17.08,
+      "end": 23.53,
+      "speaker": "S03",
+      "text": "But even we can have some uh L C D display, if you want to go for universal, then we have to limit for"
+    },
+    {
+      "start": 23.89,
+      "end": 33.14,
+      "speaker": "S04",
+      "text": "Do you want Yeah, open read only. I hope I saved it. Clap, can you? Clap is good. Clap."
+    },
+    {
+      "start": 30.91,
+      "end": 31.97,
+      "speaker": "S01",
+      "text": "Clap, clap it's a"
+    },
+    {
+      "start": 31.25,
+      "end": 31.63,
+      "speaker": "S03",
+      "text": "Yeah."
+    },
+    {
+      "start": 32.64,
+      "end": 34.01,
+      "speaker": "S01",
+      "text": "Uh yeah, I think it's universal."
+    },
+    {
+      "start": 32.85,
+      "end": 33.16,
+      "speaker": "S03",
+      "text": "Yeah."
+    },
+    {
+      "start": 38.78,
+      "end": 46.21,
+      "speaker": "S04",
+      "text": "Just a suggestion. With only one hand. These are not our target people."
+    },
+    {
+      "start": 39.24,
+      "end": 41.31,
+      "speaker": "S01",
+      "text": "What about people without hand then?"
+    },
+    {
+      "start": 44.2,
+      "end": 45.15,
+      "speaker": "S03",
+      "text": "Yeah, I think it's good."
+    },
+    {
+      "start": 45.88,
+      "end": 46.86,
+      "speaker": "S01",
+      "text": "Uh okay."
+    },
+    {
+      "start": 47.54,
+      "end": 52.77,
+      "speaker": "S03",
+      "text": "But it's a good feature, I guess, yeah. We need to think about more how to incorporate and"
+    },
+    {
+      "start": 49.84,
+      "end": 50.99,
+      "speaker": "S01",
+      "text": "Mm-hmm, okay."
+    },
+    {
+      "start": 53.38,
+      "end": 62.84,
+      "speaker": "S02",
+      "text": "Just don't interfere with other devices, like 'cause like always people do that the lights are turning on with the clapping."
+    },
+    {
+      "start": 57.53,
+      "end": 57.86,
+      "speaker": "S03",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 63.19,
+      "end": 69.35,
+      "speaker": "S04",
+      "text": "Oh, that's it, that already exists. Okay, okay. Oh yeah, you do have. Wow, you're trendy."
+    },
+    {
+      "start": 63.67,
+      "end": 63.95,
+      "speaker": "S03",
+      "text": "Hmm."
+    },
+    {
+      "start": 65.11,
+      "end": 66.51,
+      "speaker": "S02",
+      "text": "Yeah, I got it at my home."
+    },
+    {
+      "start": 66.51,
+      "end": 66.83,
+      "speaker": "S01",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 68.48,
+      "end": 68.81,
+      "speaker": "S03",
+      "text": "Oh."
+    },
+    {
+      "start": 69.5,
+      "end": 77.45,
+      "speaker": "S01",
+      "text": "Mm-hmm. So, let's just think so that yeah, I think that could be in the component concept."
+    },
+    {
+      "start": 73.09,
+      "end": 74.62,
+      "speaker": "S04",
+      "text": "Think about it, yeah. Okay."
+    },
+    {
+      "start": 77.48,
+      "end": 77.89,
+      "speaker": "S03",
+      "text": "Yeah."
+    },
+    {
+      "start": 79.31,
+      "end": 79.69,
+      "speaker": "S01",
+      "text": "And yes."
+    },
+    {
+      "start": 81.12,
+      "end": 81.61,
+      "speaker": "S04",
+      "text": "Okay."
+    },
+    {
+      "start": 82.05,
+      "end": 82.47,
+      "speaker": "S01",
+      "text": "Okay."
+    },
+    {
+      "start": 85.98,
+      "end": 89.88,
+      "speaker": "S04",
+      "text": "Good. We're done? Yeah. Great, thank you."
+    },
+    {
+      "start": 87.84,
+      "end": 89.88,
+      "speaker": "S01",
+      "text": "So, yeah, let's go to lunch."
+    },
+    {
+      "start": 90.41,
+      "end": 90.7001875,
+      "speaker": "S03",
+      "text": "Thank you."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C",
+    "S04": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 5.98,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 6.000062500000002,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 6.000062500000002,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 6.0000624999999985
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_000",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.0701874999998147,
+        "C": 0.379999999999999,
+        "D": 1.949999999999818
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_001",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.0599999999999987,
+        "C": 0.379999999999999,
+        "D": 1.2699999999999818
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_003",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.36018750000017974,
+        "C": 0.1501875000001789,
+        "D": 1.0300000000002
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_004",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.3598125000001815,
+        "C": 0.30999999999999517,
+        "D": 0.48981250000018406
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_007",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.0700000000000003,
+        "D": 3.449999999999818
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_008",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.03981249999984,
+        "D": 2.6099999999996726
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_010",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.3700000000003456
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_011",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 0.6701875000000683,
+        "D": 2.630000000000109
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_012",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 0.9298125000000184,
+        "D": 1.0399999999999636
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_013",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.6701874999999049,
+        "C": 0.2798124999999274,
+        "D": 1.3398124999999297
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_014",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.9799999999999969,
+        "D": 0.4298125000000752
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_015",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "C": 1.5099999999997635
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_016",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.1499999999999986,
+        "C": 3.6600000000003092
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_017",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.1198124999999308,
+        "C": 1.2799999999997453
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_018",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 3.599999999999909
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_019",
+      "speaker": "B",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 5.7599999999997635,
+        "C": 0.3299999999999983
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_023",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "B": 0.26018750000007174,
+        "D": 1.3600000000001273
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_025",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.1901874999999933,
+        "B": 1.139812499999934,
+        "D": 1.3299999999999272
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_026",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.3199999999999932,
+        "B": 0.9298124999998976,
+        "D": 1.900000000000091
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_028",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.1298124999999999,
+        "D": 1.3699999999998909
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_030",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.7901875000001439,
+        "C": 0.3299999999999983,
+        "D": 1.279812500000105
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_031",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.2801874999999256,
+        "C": 0.29981250000005844,
+        "D": 0.8398125000000505
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_032",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 2.4099999999998545
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_033",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.8900000000003274
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_034",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.1099999999996726,
+        "D": 0.8301874999997949
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_036",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.849999999999909,
+        "D": 0.789812499999897
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_038",
+      "speaker": "A",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 3.139812499999877,
+        "C": 0.31018750000013995,
+        "D": 0.3098124999998788
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_043",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 1.5799999999999272
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_044",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.330187499999795,
+        "D": 1.4800000000000182
+      },
+      "reason": "max_time_overlap"
+    },
+    {
+      "segment_id": "segment_047",
+      "speaker": null,
+      "coverage_seconds_by_registered_speaker": {
+        "A": 1.2199999999998,
+        "D": 1.2199999999998
+      },
+      "reason": "equal_overlap_tie"
+    },
+    {
+      "segment_id": "segment_048",
+      "speaker": null,
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.7098125000001971,
+        "D": 0.7098125000001971
+      },
+      "reason": "equal_overlap_tie"
+    },
+    {
+      "segment_id": "segment_051",
+      "speaker": "C",
+      "coverage_seconds_by_registered_speaker": {
+        "A": 0.24981250000016075,
+        "C": 0.2901875000000018,
+        "D": 0.24981250000016075
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "inference_seconds": 21.29135513585061,
+  "peak_cuda_allocated_bytes": 2081926144,
+  "reached_token_limit": false
+}

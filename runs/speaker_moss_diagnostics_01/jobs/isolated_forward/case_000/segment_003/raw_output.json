@@ -1,0 +1,188 @@
+{
+  "text": "[0.00][S01]Like before we uh I have to reuse uh it was discussed in the last meeting uh.[6.40][6.80][S02]We decided upon including certain features and these features includes the s uh[13.21][13.59][S03]This is a model of the remote controller which we are going uh and also it it will be easily[19.88][20.38][S04]Used to have all the buttons.[21.51][23.79][S04]The next channel in the numeric pattern or Well, because I can ' t remember what I put on there.[29.55]",
+  "prompt_len": 465,
+  "generated_tokens": 161,
+  "completed": true,
+  "job": {
+    "job_id": "isolated_forward/case_000/segment_003",
+    "condition": "isolated_forward",
+    "clip_id": "IS1009d_question_answer_reversal_01",
+    "context": "isolated",
+    "reference_order": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "target_segment_ids": [
+      "segment_003"
+    ]
+  },
+  "plan_sha256": "89eecb6aaa1e0bfb9d7e14cb56351a52ad9327ff9e46c455f68d2b563243f65e",
+  "runtime": {
+    "packages": {
+      "torch": "2.4.0+cu118",
+      "transformers": "5.6.0",
+      "moss-transcribe-diarize": "0.1.0"
+    },
+    "torch_cuda": "11.8",
+    "python": "3.10.12",
+    "gpu": "NVIDIA RTX A5000",
+    "cuda_device_order": "PCI_BUS_ID",
+    "cuda_visible_devices": "4",
+    "profile": {
+      "dtype": "bfloat16",
+      "max_new_tokens": 4096,
+      "gap_seconds": 0.4,
+      "do_sample": false,
+      "seed": 0,
+      "attention": "sdpa",
+      "cpu_threads": 2
+    }
+  },
+  "audio": {
+    "enrollment_intervals": [
+      {
+        "speaker": "A",
+        "start": 0.0,
+        "end": 3.0000625
+      },
+      {
+        "speaker": "A",
+        "start": 3.4000625,
+        "end": 6.4000625
+      },
+      {
+        "speaker": "B",
+        "start": 6.8000625,
+        "end": 9.8000625
+      },
+      {
+        "speaker": "B",
+        "start": 10.2000625,
+        "end": 13.200125
+      },
+      {
+        "speaker": "C",
+        "start": 13.600125,
+        "end": 16.600125
+      },
+      {
+        "speaker": "C",
+        "start": 17.000125,
+        "end": 20.0001875
+      },
+      {
+        "speaker": "D",
+        "start": 20.4001875,
+        "end": 23.4001875
+      },
+      {
+        "speaker": "D",
+        "start": 23.8001875,
+        "end": 26.8001875
+      }
+    ],
+    "clip_offset": 27.2001875,
+    "public_targets": [
+      {
+        "segment_id": "segment_003",
+        "start": 6.249999995411315e-05,
+        "end": 2.3400625000000996
+      }
+    ],
+    "input_audio_seconds": 29.5403125,
+    "evaluation_source_frame_start": 96799,
+    "evaluation_source_frame_end": 134241,
+    "evaluation_pcm_sha256": "4177e9a13ec231ee7115377856758657330a34ba913b6124a2bb3ea27c223109",
+    "input_pcm_sha256": "6f019beeb9e48d074952094c43303d0ad2c727941e18478f722663fafd8145d2",
+    "input_wav_sha256": "01cc3f481402c1f11a9b0a6344d9adf3e0f192551a83fb01ab57c7a7f38d8571",
+    "reference_sha256_multiset": [
+      "2fcbe8a381f4cae8b6111a92ee272df068b923cfc04425dc9aaee1ce4fd34486",
+      "8e252a544ab84eace7064224402e0d9edaf340f4b06d44528fc9f155d80f4a64",
+      "9ac3ba16327817d5485d368a97fc0d519760f6b650e192dffb4bc3ccb67c22cd",
+      "bf7907389b8e5208b8b306a977cd8a48ca80f4fa4ff75d2d3d674a28b04b92e2",
+      "c2f285454cc63df21dfca6dba7f49561dc29c1117125e15bd600e1d9aef3643f",
+      "d1959cdce7418801b63756103a8fd2c5334376587972542182d7c12194b1067f",
+      "e30fc8588a8132d63f498d0b78d1f755afde0b1297fb130a554a483863792621",
+      "e9cbc41bf7a451f0f78a99dea7c8d4f5e1113786dda13fd73ffeace1c1b7efd0"
+    ]
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "speaker": "S01",
+      "text": "Like before we uh I have to reuse uh it was discussed in the last meeting uh."
+    },
+    {
+      "start": 6.8,
+      "end": 13.21,
+      "speaker": "S02",
+      "text": "We decided upon including certain features and these features includes the s uh"
+    },
+    {
+      "start": 13.59,
+      "end": 19.88,
+      "speaker": "S03",
+      "text": "This is a model of the remote controller which we are going uh and also it it will be easily"
+    },
+    {
+      "start": 20.38,
+      "end": 21.51,
+      "speaker": "S04",
+      "text": "Used to have all the buttons."
+    },
+    {
+      "start": 23.79,
+      "end": 29.5403125,
+      "speaker": "S04",
+      "text": "The next channel in the numeric pattern or Well, because I can ' t remember what I put on there."
+    }
+  ],
+  "speaker_mapping": {
+    "S01": "A",
+    "S02": "B",
+    "S03": "C",
+    "S04": "D"
+  },
+  "enrollment_overlap_weights": {
+    "S01": {
+      "A": 6.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S02": {
+      "A": 0.0,
+      "B": 6.000062499999999,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "S03": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 5.879874999999997,
+      "D": 0.0
+    },
+    "S04": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 4.1098125
+    }
+  },
+  "predictions": [
+    {
+      "segment_id": "segment_003",
+      "speaker": "D",
+      "coverage_seconds_by_registered_speaker": {
+        "D": 2.3400000000001455
+      },
+      "reason": "max_time_overlap"
+    }
+  ],
+  "reached_token_limit": false,
+  "inference_seconds": 4.356313599972054,
+  "peak_cuda_allocated_bytes": 1921872384
+}
